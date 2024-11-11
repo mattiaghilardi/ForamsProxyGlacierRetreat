@@ -1,0 +1,45 @@
+Package: ForamsProxyGlacierRetreat
+Title: Data and code for Fossile et al. 2024
+Version: 1.0.0
+Authors@R: c(
+    person("Mattia", "Ghilardi", , "mattia.ghilardi91@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-9592-7252")),
+    person("Eleonora", "Fossile", role = "aut",
+           comment = c(ORCID = "0000-0002-9266-0289"))
+  )
+Description: Provides data and code to reproduce figures and results of
+    Fossile et al. 2024
+License: MIT + file LICENSE
+Imports: 
+    betareg,
+    corrplot,
+    dplyr,
+    FD,
+    forcats,
+    gawdis,
+    geometry,
+    geosphere,
+    GGally,
+    ggOceanMaps,
+    ggpattern,
+    ggplot2,
+    ggrepel,
+    ggspatial,
+    ggtext,
+    labdsv,
+    measurements,
+    mgcv,
+    MuMIn,
+    patchwork,
+    RColorBrewer,
+    readr,
+    rlang,
+    sf,
+    tibble,
+    tidyr,
+    TPD,
+    vegan,
+    viridisLite
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
