@@ -3,7 +3,7 @@ Adercotryma glomeratum;0;0;rounded;1;0;none
 Ammodiscus sp.;0;0;rounded;0;1;none
 Ammonia sp.;1;1;rounded;1;0;none
 Ammotium cassis;0;0;elongated;1;1;none
-Astrononion galloway;1;1;rounded;1;1;none
+Astrononion gallowayi;1;1;rounded;1;1;none
 Astrononion sp.;1;1;rounded;1;1;none
 Baculogypsinoides sp.;1;1;irregular;1;0;none
 Bolivina pseudopunctata;1;1;elongated;1;0;single-tooth
@@ -15,7 +15,6 @@ Cassidulina reniforme;1;1;rounded;1;0;single-tooth
 Cassidulina sp.;1;1;rounded;1;0;single-tooth
 Cassidulina sp. morphotype 1;1;1;rounded;1;0;single-tooth
 Cassidulina sp. morphotype 2;1;1;rounded;1;0;single-tooth
-Cibicides bertheloti;1;1;rounded;1;0;none
 Cibicidoides lobatulus;1;1;rounded;1;0;none
 Cornuspira foliacea;1;0;rounded;0;1;none
 Cornuspira involvens;1;0;rounded;0;1;none
@@ -23,6 +22,7 @@ Cornuspira sp.;1;0;rounded;0;1;none
 Cuneata arctica;0;0;elongated;1;1;none
 Dentalina ittai;1;1;elongated;1;1;none
 Discorbina sp.;1;1;rounded;1;0;none
+Discorbinella bertheloti;1;1;rounded;1;0;none
 Eggerella advena;0;0;elongated;1;0;none
 Elphidium bartletti;1;1;rounded;1;1;tubercles
 Elphidium clavatum;1;1;rounded;1;1;tubercles
@@ -43,24 +43,24 @@ Islandiella norcrossi;1;1;rounded;1;0;single-tooth
 Islandiella sp.;1;1;rounded;1;0;single-tooth
 Labrospira crassimargo;0;0;rounded;1;1;none
 Lagena striata;1;1;elongated;0;1;none
-Lagenammina difflugiformis;0;0;ovoid;0;1;none
+Lagenammina atlantica;0;0;ovoid;0;1;none
 Leptohalysis scottii;0;0;elongated;1;1;none
-Lotostomoides calomorphum;1;1;elongated;1;1;none
-Melonis pompilioides;1;1;rounded;1;1;none
+Lotostomoides calomorpha;1;1;elongated;1;1;none
+Melonis cf. barleeanus;1;1;rounded;1;1;none
 Miliolinella circularis;1;0;rounded;1;0;single-tooth
 Miliolinella sp.;1;0;rounded;1;0;single-tooth
-Miliolinella sp. juvanile;1;0;rounded;1;0;single-tooth
+Miliolinella sp. (juvenile);1;0;rounded;1;0;single-tooth
 Nonion commune;1;1;rounded;1;1;none
 Nonion sp.;1;1;rounded;1;1;none
 Nonionella digitata;1;1;rounded;1;0;none
 Nonionella turgida;1;1;rounded;1;0;none
 Nonionellina labradorica;1;1;rounded;1;1;tubercles
 Paratrochammina sp.;0;0;rounded;1;0;none
-Procerolagena gracilis (strie);1;1;elongated;0;1;none
+Procerolagena gracilis;1;1;elongated;0;1;none
 Psammosphaera fusca;0;0;rounded;0;1;none
-Pullenia cf osloensis;1;1;rounded;1;1;none
+Pullenia cf. osloensis;1;1;rounded;1;1;none
 Pyrgo williamsoni;1;0;rounded;1;1;single-tooth
-Pyrulina cilindroides;1;1;elongated;1;0;none
+Pyrulina cylindroides;1;1;elongated;1;0;none
 Pyrulina sp.;1;1;elongated;1;0;none
 Quinqueloculina arctica;1;0;ovoid;1;0;single-tooth
 Quinqueloculina seminula;1;0;ovoid;1;0;single-tooth

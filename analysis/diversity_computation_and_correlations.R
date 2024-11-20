@@ -3,7 +3,7 @@
 
 # ## load data ----
 # 
-# comm_king18 <- readr::read_delim("data/foram_data_king18.csv", delim = ";")
+# comm_king18 <- readr::read_csv("derived_data/foram_data_king18.csv")
 # traits <- readr::read_delim("data/species_traits.csv", delim = ";")
 # glacier_dist <- readr::read_delim("derived_data/glacier_dist.csv", delim = ";")
 

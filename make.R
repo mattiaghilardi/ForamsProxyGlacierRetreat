@@ -14,6 +14,9 @@ source("analysis/make_map.R")
 # calculate distance from glacier front
 source("analysis/calculate_glacier_distance.R")
 
+# prepare foraminiferal community data
+source("analysis/prepare_foram_data.R")
+
 # foraminiferal abundance and size structure
 source("analysis/abundance_and_size_structure.R")
 

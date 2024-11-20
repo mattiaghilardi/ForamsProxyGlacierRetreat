@@ -2,7 +2,7 @@
 
 ## load data ----
 
-# comm_king18 <- readr::read_delim("data/foram_data_king18.csv", delim = ";")
+# comm_king18 <- readr::read_csv("derived_data/foram_data_king18.csv")
 traits <- readr::read_delim("data/species_traits.csv", delim = ";")
 # glacier_dist <- readr::read_delim("derived_data/glacier_dist.csv", delim = ";")
 
@@ -76,13 +76,13 @@ traits_labels <- list("Test material" = list(labels = c("Agglutinated", "Calcare
                                              colors = c("#66CCCC", "grey")))
 
 # make plots
-traits_plots <- lapply(names(comm_traits), function(i){
+traits_plots <- lapply(1:6, function(i){
   p <- ggplot(comm_traits[[i]],
               aes(fill = value,
                   y = rel_abund, 
                   x = forcats::fct_reorder(station, glacier_dist))) +
     geom_bar(position = "stack", stat = "identity") +
-    labs(y = "Relative abundance (%)", fill = i) +
+    labs(y = "Relative abundance (%)", fill = names(comm_traits)[i]) +
     facet_wrap(facets = "fraction", nrow = 1) +
     scale_fill_manual(values = traits_labels[[i]]$colors, 
                       labels = traits_labels[[i]]$labels) +

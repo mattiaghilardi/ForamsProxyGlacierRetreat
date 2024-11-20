@@ -1,0 +1,3061 @@
+station,fraction,species,raw_density,density_50cm3
+st1,63-100,Adercotryma glomeratum,0,0
+st1,63-100,Ammodiscus sp.,0,0
+st1,63-100,Ammonia sp.,0,0
+st1,63-100,Ammotium cassis,0,0
+st1,63-100,Astrononion gallowayi,0,0
+st1,63-100,Astrononion sp.,0,0
+st1,63-100,Baculogypsinoides sp.,0,0
+st1,63-100,Bolivina pseudopunctata,37,29.080162441482116
+st1,63-100,Buccella frigida,0,0
+st1,63-100,Buccella sp.,0,0
+st1,63-100,Capsammina bowmanni,0,0
+st1,63-100,Cassidulina neoteretis,0,0
+st1,63-100,Cassidulina reniforme,187,146.9727128799231
+st1,63-100,Cassidulina sp.,0,0
+st1,63-100,Cassidulina sp. morphotype 1,0,0
+st1,63-100,Cassidulina sp. morphotype 2,0,0
+st1,63-100,Cibicidoides lobatulus,0,0
+st1,63-100,Cornuspira foliacea,0,0
+st1,63-100,Cornuspira involvens,0,0
+st1,63-100,Cornuspira sp.,0,0
+st1,63-100,Cuneata arctica,82,64.44792757301441
+st1,63-100,Dentalina ittai,0,0
+st1,63-100,Discorbina sp.,0,0
+st1,63-100,Discorbinella bertheloti,0,0
+st1,63-100,Eggerella advena,0,0
+st1,63-100,Elphidium bartletti,0,0
+st1,63-100,Elphidium clavatum,0,0
+st1,63-100,Elphidium sp.,0,0
+st1,63-100,Epistominella exigua,8,6.287602690050187
+st1,63-100,Eponides sp.,0,0
+st1,63-100,Fissurina sp.,0,0
+st1,63-100,Globobulimina auriculata,0,0
+st1,63-100,Globobulimina sp.,0,0
+st1,63-100,Globocassidulina sp.,0,0
+st1,63-100,Glomospira sp.,0,0
+st1,63-100,Haplophragmoides sp.,0,0
+st1,63-100,Hippocrepina sp. ,0,0
+st1,63-100,Hormosina globulifera,0,0
+st1,63-100,Hyalinonetrion sp.,0,0
+st1,63-100,Islandiella helenae,0,0
+st1,63-100,Islandiella norcrossi,0,0
+st1,63-100,Islandiella sp.,0,0
+st1,63-100,Labrospira crassimargo,0,0
+st1,63-100,Lagena striata,0,0
+st1,63-100,Lagenammina atlantica,0,0
+st1,63-100,Leptohalysis scottii ,0,0
+st1,63-100,Lotostomoides calomorpha,0,0
+st1,63-100,Melonis cf. barleeanus,0,0
+st1,63-100,Miliolinella circularis,0,0
+st1,63-100,Miliolinella sp.,0,0
+st1,63-100,Miliolinella sp. (juvenile),0,0
+st1,63-100,Nonion commune,0,0
+st1,63-100,Nonion sp.,0,0
+st1,63-100,Nonionella digitata,0,0
+st1,63-100,Nonionella turgida,0,0
+st1,63-100,Nonionellina labradorica,0,0
+st1,63-100,Paratrochammina sp.,0,0
+st1,63-100,Procerolagena gracilis,0,0
+st1,63-100,Psammosphaera fusca,0,0
+st1,63-100,Pullenia cf. osloensis,1,0.7859503362562734
+st1,63-100,Pyrgo williamsoni,0,0
+st1,63-100,Pyrulina cylindroides,0,0
+st1,63-100,Pyrulina sp.,0,0
+st1,63-100,Quinqueloculina arctica,0,0
+st1,63-100,Quinqueloculina seminula,0,0
+st1,63-100,Quinqueloculina stalkeri,22,17.290907397638016
+st1,63-100,Recurvoides turbinatus,0,0
+st1,63-100,Reophax catella,1,0.7859503362562734
+st1,63-100,Reophax fusiformis,0,0
+st1,63-100,Reophax scorpiurus,0,0
+st1,63-100,Reophax sp. ,0,0
+st1,63-100,Robertina arctica,0,0
+st1,63-100,Saccammina cf. sphaerica,0,0
+st1,63-100,Silicosigmoilina groenlandica,0,0
+st1,63-100,Siphonaperta agglutinata,0,0
+st1,63-100,Spiroplectammina biformis,243,190.98593171027443
+st1,63-100,Stainforthia feylingi,24,18.86280807015056
+st1,63-100,Stainforthia loeblichi,16,12.575205380100375
+st1,63-100,Textularia earlandi,343,269.5809653359018
+st1,63-100,Textularia torquata,0,0
+st1,63-100,Trifarina fluens,0,0
+st1,63-100,Triloculina oblonga,0,0
+st1,63-100,Triloculina trihedra,0,0
+st1,63-100,Trochammina inflata,0,0
+st1,63-100,Trochammina sp.,0,0
+st1,100-125,Adercotryma glomeratum,2,1.5719006725125468
+st1,100-125,Ammodiscus sp.,0,0
+st1,100-125,Ammonia sp.,0,0
+st1,100-125,Ammotium cassis,0,0
+st1,100-125,Astrononion gallowayi,0,0
+st1,100-125,Astrononion sp.,0,0
+st1,100-125,Baculogypsinoides sp.,0,0
+st1,100-125,Bolivina pseudopunctata,0,0
+st1,100-125,Buccella frigida,0,0
+st1,100-125,Buccella sp.,0,0
+st1,100-125,Capsammina bowmanni,0,0
+st1,100-125,Cassidulina neoteretis,0,0
+st1,100-125,Cassidulina reniforme,356,279.7983197072333
+st1,100-125,Cassidulina sp.,0,0
+st1,100-125,Cassidulina sp. morphotype 1,0,0
+st1,100-125,Cassidulina sp. morphotype 2,0,0
+st1,100-125,Cibicidoides lobatulus,0,0
+st1,100-125,Cornuspira foliacea,0,0
+st1,100-125,Cornuspira involvens,0,0
+st1,100-125,Cornuspira sp.,0,0
+st1,100-125,Cuneata arctica,49,38.51156647655739
+st1,100-125,Dentalina ittai,0,0
+st1,100-125,Discorbina sp.,0,0
+st1,100-125,Discorbinella bertheloti,0,0
+st1,100-125,Eggerella advena,0,0
+st1,100-125,Elphidium bartletti,0,0
+st1,100-125,Elphidium clavatum,0,0
+st1,100-125,Elphidium sp.,0,0
+st1,100-125,Epistominella exigua,0,0
+st1,100-125,Eponides sp.,0,0
+st1,100-125,Fissurina sp.,0,0
+st1,100-125,Globobulimina auriculata,0,0
+st1,100-125,Globobulimina sp.,0,0
+st1,100-125,Globocassidulina sp.,0,0
+st1,100-125,Glomospira sp.,0,0
+st1,100-125,Haplophragmoides sp.,0,0
+st1,100-125,Hippocrepina sp. ,0,0
+st1,100-125,Hormosina globulifera,0,0
+st1,100-125,Hyalinonetrion sp.,0,0
+st1,100-125,Islandiella helenae,0,0
+st1,100-125,Islandiella norcrossi,0,0
+st1,100-125,Islandiella sp.,0,0
+st1,100-125,Labrospira crassimargo,0,0
+st1,100-125,Lagena striata,0,0
+st1,100-125,Lagenammina atlantica,0,0
+st1,100-125,Leptohalysis scottii ,1,0.7859503362562734
+st1,100-125,Lotostomoides calomorpha,2,1.5719006725125468
+st1,100-125,Melonis cf. barleeanus,0,0
+st1,100-125,Miliolinella circularis,0,0
+st1,100-125,Miliolinella sp.,0,0
+st1,100-125,Miliolinella sp. (juvenile),0,0
+st1,100-125,Nonion commune,0,0
+st1,100-125,Nonion sp.,0,0
+st1,100-125,Nonionella digitata,0,0
+st1,100-125,Nonionella turgida,0,0
+st1,100-125,Nonionellina labradorica,0,0
+st1,100-125,Paratrochammina sp.,0,0
+st1,100-125,Procerolagena gracilis,0,0
+st1,100-125,Psammosphaera fusca,0,0
+st1,100-125,Pullenia cf. osloensis,1,0.7859503362562734
+st1,100-125,Pyrgo williamsoni,0,0
+st1,100-125,Pyrulina cylindroides,0,0
+st1,100-125,Pyrulina sp.,0,0
+st1,100-125,Quinqueloculina arctica,0,0
+st1,100-125,Quinqueloculina seminula,0,0
+st1,100-125,Quinqueloculina stalkeri,14,11.003304707587827
+st1,100-125,Recurvoides turbinatus,0,0
+st1,100-125,Reophax catella,1,0.7859503362562734
+st1,100-125,Reophax fusiformis,0,0
+st1,100-125,Reophax scorpiurus,0,0
+st1,100-125,Reophax sp. ,0,0
+st1,100-125,Robertina arctica,0,0
+st1,100-125,Saccammina cf. sphaerica,0,0
+st1,100-125,Silicosigmoilina groenlandica,0,0
+st1,100-125,Siphonaperta agglutinata,0,0
+st1,100-125,Spiroplectammina biformis,409,321.4536875288158
+st1,100-125,Stainforthia feylingi,11,8.645453698819008
+st1,100-125,Stainforthia loeblichi,22,17.290907397638016
+st1,100-125,Textularia earlandi,1005,789.8800879375547
+st1,100-125,Textularia torquata,0,0
+st1,100-125,Trifarina fluens,0,0
+st1,100-125,Triloculina oblonga,0,0
+st1,100-125,Triloculina trihedra,0,0
+st1,100-125,Trochammina inflata,0,0
+st1,100-125,Trochammina sp.,0,0
+st1,125-150,Adercotryma glomeratum,0,0
+st1,125-150,Ammodiscus sp.,0,0
+st1,125-150,Ammonia sp.,0,0
+st1,125-150,Ammotium cassis,0,0
+st1,125-150,Astrononion gallowayi,0,0
+st1,125-150,Astrononion sp.,0,0
+st1,125-150,Baculogypsinoides sp.,0,0
+st1,125-150,Bolivina pseudopunctata,0,0
+st1,125-150,Buccella frigida,0,0
+st1,125-150,Buccella sp.,0,0
+st1,125-150,Capsammina bowmanni,0,0
+st1,125-150,Cassidulina neoteretis,0,0
+st1,125-150,Cassidulina reniforme,192,150.90246456120448
+st1,125-150,Cassidulina sp.,0,0
+st1,125-150,Cassidulina sp. morphotype 1,0,0
+st1,125-150,Cassidulina sp. morphotype 2,0,0
+st1,125-150,Cibicidoides lobatulus,0,0
+st1,125-150,Cornuspira foliacea,0,0
+st1,125-150,Cornuspira involvens,0,0
+st1,125-150,Cornuspira sp.,0,0
+st1,125-150,Cuneata arctica,40,31.438013450250935
+st1,125-150,Dentalina ittai,0,0
+st1,125-150,Discorbina sp.,0,0
+st1,125-150,Discorbinella bertheloti,0,0
+st1,125-150,Eggerella advena,0,0
+st1,125-150,Elphidium bartletti,0,0
+st1,125-150,Elphidium clavatum,2,1.5719006725125468
+st1,125-150,Elphidium sp.,0,0
+st1,125-150,Epistominella exigua,0,0
+st1,125-150,Eponides sp.,0,0
+st1,125-150,Fissurina sp.,0,0
+st1,125-150,Globobulimina auriculata,0,0
+st1,125-150,Globobulimina sp.,0,0
+st1,125-150,Globocassidulina sp.,0,0
+st1,125-150,Glomospira sp.,0,0
+st1,125-150,Haplophragmoides sp.,0,0
+st1,125-150,Hippocrepina sp. ,0,0
+st1,125-150,Hormosina globulifera,0,0
+st1,125-150,Hyalinonetrion sp.,0,0
+st1,125-150,Islandiella helenae,0,0
+st1,125-150,Islandiella norcrossi,0,0
+st1,125-150,Islandiella sp.,0,0
+st1,125-150,Labrospira crassimargo,0,0
+st1,125-150,Lagena striata,0,0
+st1,125-150,Lagenammina atlantica,4,3.1438013450250937
+st1,125-150,Leptohalysis scottii ,2,1.5719006725125468
+st1,125-150,Lotostomoides calomorpha,0,0
+st1,125-150,Melonis cf. barleeanus,0,0
+st1,125-150,Miliolinella circularis,0,0
+st1,125-150,Miliolinella sp.,0,0
+st1,125-150,Miliolinella sp. (juvenile),0,0
+st1,125-150,Nonion commune,0,0
+st1,125-150,Nonion sp.,0,0
+st1,125-150,Nonionella digitata,0,0
+st1,125-150,Nonionella turgida,0,0
+st1,125-150,Nonionellina labradorica,5,3.929751681281367
+st1,125-150,Paratrochammina sp.,0,0
+st1,125-150,Procerolagena gracilis,0,0
+st1,125-150,Psammosphaera fusca,0,0
+st1,125-150,Pullenia cf. osloensis,0,0
+st1,125-150,Pyrgo williamsoni,0,0
+st1,125-150,Pyrulina cylindroides,0,0
+st1,125-150,Pyrulina sp.,0,0
+st1,125-150,Quinqueloculina arctica,0,0
+st1,125-150,Quinqueloculina seminula,0,0
+st1,125-150,Quinqueloculina stalkeri,4,3.1438013450250937
+st1,125-150,Recurvoides turbinatus,0,0
+st1,125-150,Reophax catella,2,1.5719006725125468
+st1,125-150,Reophax fusiformis,0,0
+st1,125-150,Reophax scorpiurus,0,0
+st1,125-150,Reophax sp. ,0,0
+st1,125-150,Robertina arctica,0,0
+st1,125-150,Saccammina cf. sphaerica,0,0
+st1,125-150,Silicosigmoilina groenlandica,0,0
+st1,125-150,Siphonaperta agglutinata,0,0
+st1,125-150,Spiroplectammina biformis,194,152.47436523371704
+st1,125-150,Stainforthia feylingi,0,0
+st1,125-150,Stainforthia loeblichi,0,0
+st1,125-150,Textularia earlandi,853,670.4156368266011
+st1,125-150,Textularia torquata,0,0
+st1,125-150,Trifarina fluens,0,0
+st1,125-150,Triloculina oblonga,1,0.7859503362562734
+st1,125-150,Triloculina trihedra,0,0
+st1,125-150,Trochammina inflata,0,0
+st1,125-150,Trochammina sp.,0,0
+st1,>150,Adercotryma glomeratum,0,0
+st1,>150,Ammodiscus sp.,0,0
+st1,>150,Ammonia sp.,0,0
+st1,>150,Ammotium cassis,0,0
+st1,>150,Astrononion gallowayi,1,0.7859503362562734
+st1,>150,Astrononion sp.,0,0
+st1,>150,Baculogypsinoides sp.,0,0
+st1,>150,Bolivina pseudopunctata,0,0
+st1,>150,Buccella frigida,0,0
+st1,>150,Buccella sp.,0,0
+st1,>150,Capsammina bowmanni,0,0
+st1,>150,Cassidulina neoteretis,0,0
+st1,>150,Cassidulina reniforme,56,44.013218830351306
+st1,>150,Cassidulina sp.,0,0
+st1,>150,Cassidulina sp. morphotype 1,4,3.1438013450250937
+st1,>150,Cassidulina sp. morphotype 2,0,0
+st1,>150,Cibicidoides lobatulus,0,0
+st1,>150,Cornuspira foliacea,0,0
+st1,>150,Cornuspira involvens,0,0
+st1,>150,Cornuspira sp.,0,0
+st1,>150,Cuneata arctica,2,1.5719006725125468
+st1,>150,Dentalina ittai,0,0
+st1,>150,Discorbina sp.,0,0
+st1,>150,Discorbinella bertheloti,0,0
+st1,>150,Eggerella advena,0,0
+st1,>150,Elphidium bartletti,0,0
+st1,>150,Elphidium clavatum,1,0.7859503362562734
+st1,>150,Elphidium sp.,0,0
+st1,>150,Epistominella exigua,0,0
+st1,>150,Eponides sp.,0,0
+st1,>150,Fissurina sp.,0,0
+st1,>150,Globobulimina auriculata,0,0
+st1,>150,Globobulimina sp.,0,0
+st1,>150,Globocassidulina sp.,0,0
+st1,>150,Glomospira sp.,0,0
+st1,>150,Haplophragmoides sp.,0,0
+st1,>150,Hippocrepina sp. ,0,0
+st1,>150,Hormosina globulifera,0,0
+st1,>150,Hyalinonetrion sp.,0,0
+st1,>150,Islandiella helenae,1,0.7859503362562734
+st1,>150,Islandiella norcrossi,0,0
+st1,>150,Islandiella sp.,0,0
+st1,>150,Labrospira crassimargo,0,0
+st1,>150,Lagena striata,0,0
+st1,>150,Lagenammina atlantica,9,7.0735530263064605
+st1,>150,Leptohalysis scottii ,0,0
+st1,>150,Lotostomoides calomorpha,0,0
+st1,>150,Melonis cf. barleeanus,0,0
+st1,>150,Miliolinella circularis,0,0
+st1,>150,Miliolinella sp.,0,0
+st1,>150,Miliolinella sp. (juvenile),0,0
+st1,>150,Nonion commune,0,0
+st1,>150,Nonion sp.,0,0
+st1,>150,Nonionella digitata,0,0
+st1,>150,Nonionella turgida,0,0
+st1,>150,Nonionellina labradorica,33,25.936361096457023
+st1,>150,Paratrochammina sp.,0,0
+st1,>150,Procerolagena gracilis,0,0
+st1,>150,Psammosphaera fusca,0,0
+st1,>150,Pullenia cf. osloensis,0,0
+st1,>150,Pyrgo williamsoni,0,0
+st1,>150,Pyrulina cylindroides,0,0
+st1,>150,Pyrulina sp.,0,0
+st1,>150,Quinqueloculina arctica,0,0
+st1,>150,Quinqueloculina seminula,0,0
+st1,>150,Quinqueloculina stalkeri,9,7.0735530263064605
+st1,>150,Recurvoides turbinatus,0,0
+st1,>150,Reophax catella,0,0
+st1,>150,Reophax fusiformis,29,22.792559751431927
+st1,>150,Reophax scorpiurus,0,0
+st1,>150,Reophax sp. ,0,0
+st1,>150,Robertina arctica,2,1.5719006725125468
+st1,>150,Saccammina cf. sphaerica,0,0
+st1,>150,Silicosigmoilina groenlandica,0,0
+st1,>150,Siphonaperta agglutinata,0,0
+st1,>150,Spiroplectammina biformis,10,7.859503362562734
+st1,>150,Stainforthia feylingi,0,0
+st1,>150,Stainforthia loeblichi,0,0
+st1,>150,Textularia earlandi,11,8.645453698819008
+st1,>150,Textularia torquata,0,0
+st1,>150,Trifarina fluens,0,0
+st1,>150,Triloculina oblonga,2,1.5719006725125468
+st1,>150,Triloculina trihedra,0,0
+st1,>150,Trochammina inflata,0,0
+st1,>150,Trochammina sp.,0,0
+st2,63-100,Adercotryma glomeratum,0,0
+st2,63-100,Ammodiscus sp.,0,0
+st2,63-100,Ammonia sp.,0,0
+st2,63-100,Ammotium cassis,0,0
+st2,63-100,Astrononion gallowayi,0,0
+st2,63-100,Astrononion sp.,0,0
+st2,63-100,Baculogypsinoides sp.,0,0
+st2,63-100,Bolivina pseudopunctata,3,2.35785100876882
+st2,63-100,Buccella frigida,0,0
+st2,63-100,Buccella sp.,0,0
+st2,63-100,Capsammina bowmanni,886,696.3519979230582
+st2,63-100,Cassidulina neoteretis,0,0
+st2,63-100,Cassidulina reniforme,4,3.1438013450250937
+st2,63-100,Cassidulina sp.,0,0
+st2,63-100,Cassidulina sp. morphotype 1,0,0
+st2,63-100,Cassidulina sp. morphotype 2,0,0
+st2,63-100,Cibicidoides lobatulus,0,0
+st2,63-100,Cornuspira foliacea,0,0
+st2,63-100,Cornuspira involvens,0,0
+st2,63-100,Cornuspira sp.,0,0
+st2,63-100,Cuneata arctica,0,0
+st2,63-100,Dentalina ittai,0,0
+st2,63-100,Discorbina sp.,0,0
+st2,63-100,Discorbinella bertheloti,0,0
+st2,63-100,Eggerella advena,0,0
+st2,63-100,Elphidium bartletti,0,0
+st2,63-100,Elphidium clavatum,0,0
+st2,63-100,Elphidium sp.,6,4.71570201753764
+st2,63-100,Epistominella exigua,0,0
+st2,63-100,Eponides sp.,0,0
+st2,63-100,Fissurina sp.,0,0
+st2,63-100,Globobulimina auriculata,0,0
+st2,63-100,Globobulimina sp.,0,0
+st2,63-100,Globocassidulina sp.,0,0
+st2,63-100,Glomospira sp.,0,0
+st2,63-100,Haplophragmoides sp.,0,0
+st2,63-100,Hippocrepina sp. ,0,0
+st2,63-100,Hormosina globulifera,0,0
+st2,63-100,Hyalinonetrion sp.,0,0
+st2,63-100,Islandiella helenae,0,0
+st2,63-100,Islandiella norcrossi,0,0
+st2,63-100,Islandiella sp.,0,0
+st2,63-100,Labrospira crassimargo,0,0
+st2,63-100,Lagena striata,0,0
+st2,63-100,Lagenammina atlantica,0,0
+st2,63-100,Leptohalysis scottii ,0,0
+st2,63-100,Lotostomoides calomorpha,0,0
+st2,63-100,Melonis cf. barleeanus,0,0
+st2,63-100,Miliolinella circularis,0,0
+st2,63-100,Miliolinella sp.,0,0
+st2,63-100,Miliolinella sp. (juvenile),0,0
+st2,63-100,Nonion commune,0,0
+st2,63-100,Nonion sp.,0,0
+st2,63-100,Nonionella digitata,0,0
+st2,63-100,Nonionella turgida,0,0
+st2,63-100,Nonionellina labradorica,0,0
+st2,63-100,Paratrochammina sp.,0,0
+st2,63-100,Procerolagena gracilis,0,0
+st2,63-100,Psammosphaera fusca,0,0
+st2,63-100,Pullenia cf. osloensis,0,0
+st2,63-100,Pyrgo williamsoni,0,0
+st2,63-100,Pyrulina cylindroides,0,0
+st2,63-100,Pyrulina sp.,0,0
+st2,63-100,Quinqueloculina arctica,0,0
+st2,63-100,Quinqueloculina seminula,0,0
+st2,63-100,Quinqueloculina stalkeri,27,21.22065907891938
+st2,63-100,Recurvoides turbinatus,0,0
+st2,63-100,Reophax catella,0,0
+st2,63-100,Reophax fusiformis,0,0
+st2,63-100,Reophax scorpiurus,0,0
+st2,63-100,Reophax sp. ,0,0
+st2,63-100,Robertina arctica,0,0
+st2,63-100,Saccammina cf. sphaerica,0,0
+st2,63-100,Silicosigmoilina groenlandica,0,0
+st2,63-100,Siphonaperta agglutinata,0,0
+st2,63-100,Spiroplectammina biformis,4,3.1438013450250937
+st2,63-100,Stainforthia feylingi,0,0
+st2,63-100,Stainforthia loeblichi,0,0
+st2,63-100,Textularia earlandi,77,60.51817589173305
+st2,63-100,Textularia torquata,0,0
+st2,63-100,Trifarina fluens,0,0
+st2,63-100,Triloculina oblonga,0,0
+st2,63-100,Triloculina trihedra,0,0
+st2,63-100,Trochammina inflata,0,0
+st2,63-100,Trochammina sp.,0,0
+st2,100-125,Adercotryma glomeratum,0,0
+st2,100-125,Ammodiscus sp.,0,0
+st2,100-125,Ammonia sp.,0,0
+st2,100-125,Ammotium cassis,0,0
+st2,100-125,Astrononion gallowayi,0,0
+st2,100-125,Astrononion sp.,0,0
+st2,100-125,Baculogypsinoides sp.,0,0
+st2,100-125,Bolivina pseudopunctata,0,0
+st2,100-125,Buccella frigida,0,0
+st2,100-125,Buccella sp.,0,0
+st2,100-125,Capsammina bowmanni,724,569.0280434495419
+st2,100-125,Cassidulina neoteretis,0,0
+st2,100-125,Cassidulina reniforme,2,1.5719006725125468
+st2,100-125,Cassidulina sp.,0,0
+st2,100-125,Cassidulina sp. morphotype 1,0,0
+st2,100-125,Cassidulina sp. morphotype 2,0,0
+st2,100-125,Cibicidoides lobatulus,0,0
+st2,100-125,Cornuspira foliacea,0,0
+st2,100-125,Cornuspira involvens,0,0
+st2,100-125,Cornuspira sp.,0,0
+st2,100-125,Cuneata arctica,0,0
+st2,100-125,Dentalina ittai,0,0
+st2,100-125,Discorbina sp.,0,0
+st2,100-125,Discorbinella bertheloti,0,0
+st2,100-125,Eggerella advena,0,0
+st2,100-125,Elphidium bartletti,0,0
+st2,100-125,Elphidium clavatum,5,3.929751681281367
+st2,100-125,Elphidium sp.,0,0
+st2,100-125,Epistominella exigua,0,0
+st2,100-125,Eponides sp.,0,0
+st2,100-125,Fissurina sp.,0,0
+st2,100-125,Globobulimina auriculata,0,0
+st2,100-125,Globobulimina sp.,0,0
+st2,100-125,Globocassidulina sp.,0,0
+st2,100-125,Glomospira sp.,0,0
+st2,100-125,Haplophragmoides sp.,0,0
+st2,100-125,Hippocrepina sp. ,0,0
+st2,100-125,Hormosina globulifera,0,0
+st2,100-125,Hyalinonetrion sp.,0,0
+st2,100-125,Islandiella helenae,0,0
+st2,100-125,Islandiella norcrossi,0,0
+st2,100-125,Islandiella sp.,0,0
+st2,100-125,Labrospira crassimargo,0,0
+st2,100-125,Lagena striata,0,0
+st2,100-125,Lagenammina atlantica,0,0
+st2,100-125,Leptohalysis scottii ,0,0
+st2,100-125,Lotostomoides calomorpha,0,0
+st2,100-125,Melonis cf. barleeanus,0,0
+st2,100-125,Miliolinella circularis,0,0
+st2,100-125,Miliolinella sp.,0,0
+st2,100-125,Miliolinella sp. (juvenile),0,0
+st2,100-125,Nonion commune,0,0
+st2,100-125,Nonion sp.,0,0
+st2,100-125,Nonionella digitata,0,0
+st2,100-125,Nonionella turgida,0,0
+st2,100-125,Nonionellina labradorica,0,0
+st2,100-125,Paratrochammina sp.,0,0
+st2,100-125,Procerolagena gracilis,0,0
+st2,100-125,Psammosphaera fusca,0,0
+st2,100-125,Pullenia cf. osloensis,0,0
+st2,100-125,Pyrgo williamsoni,0,0
+st2,100-125,Pyrulina cylindroides,0,0
+st2,100-125,Pyrulina sp.,0,0
+st2,100-125,Quinqueloculina arctica,0,0
+st2,100-125,Quinqueloculina seminula,0,0
+st2,100-125,Quinqueloculina stalkeri,6,4.71570201753764
+st2,100-125,Recurvoides turbinatus,0,0
+st2,100-125,Reophax catella,0,0
+st2,100-125,Reophax fusiformis,0,0
+st2,100-125,Reophax scorpiurus,0,0
+st2,100-125,Reophax sp. ,0,0
+st2,100-125,Robertina arctica,0,0
+st2,100-125,Saccammina cf. sphaerica,0,0
+st2,100-125,Silicosigmoilina groenlandica,0,0
+st2,100-125,Siphonaperta agglutinata,0,0
+st2,100-125,Spiroplectammina biformis,23,18.076857733894286
+st2,100-125,Stainforthia feylingi,0,0
+st2,100-125,Stainforthia loeblichi,0,0
+st2,100-125,Textularia earlandi,44,34.58181479527603
+st2,100-125,Textularia torquata,0,0
+st2,100-125,Trifarina fluens,0,0
+st2,100-125,Triloculina oblonga,0,0
+st2,100-125,Triloculina trihedra,0,0
+st2,100-125,Trochammina inflata,0,0
+st2,100-125,Trochammina sp.,0,0
+st2,125-150,Adercotryma glomeratum,0,0
+st2,125-150,Ammodiscus sp.,0,0
+st2,125-150,Ammonia sp.,0,0
+st2,125-150,Ammotium cassis,0,0
+st2,125-150,Astrononion gallowayi,0,0
+st2,125-150,Astrononion sp.,0,0
+st2,125-150,Baculogypsinoides sp.,0,0
+st2,125-150,Bolivina pseudopunctata,0,0
+st2,125-150,Buccella frigida,0,0
+st2,125-150,Buccella sp.,0,0
+st2,125-150,Capsammina bowmanni,2098,1648.9238054656614
+st2,125-150,Cassidulina neoteretis,0,0
+st2,125-150,Cassidulina reniforme,2,1.5719006725125468
+st2,125-150,Cassidulina sp.,0,0
+st2,125-150,Cassidulina sp. morphotype 1,0,0
+st2,125-150,Cassidulina sp. morphotype 2,0,0
+st2,125-150,Cibicidoides lobatulus,0,0
+st2,125-150,Cornuspira foliacea,0,0
+st2,125-150,Cornuspira involvens,0,0
+st2,125-150,Cornuspira sp.,0,0
+st2,125-150,Cuneata arctica,0,0
+st2,125-150,Dentalina ittai,0,0
+st2,125-150,Discorbina sp.,0,0
+st2,125-150,Discorbinella bertheloti,0,0
+st2,125-150,Eggerella advena,0,0
+st2,125-150,Elphidium bartletti,0,0
+st2,125-150,Elphidium clavatum,3,2.35785100876882
+st2,125-150,Elphidium sp.,0,0
+st2,125-150,Epistominella exigua,0,0
+st2,125-150,Eponides sp.,0,0
+st2,125-150,Fissurina sp.,0,0
+st2,125-150,Globobulimina auriculata,0,0
+st2,125-150,Globobulimina sp.,0,0
+st2,125-150,Globocassidulina sp.,0,0
+st2,125-150,Glomospira sp.,0,0
+st2,125-150,Haplophragmoides sp.,0,0
+st2,125-150,Hippocrepina sp. ,0,0
+st2,125-150,Hormosina globulifera,0,0
+st2,125-150,Hyalinonetrion sp.,1,0.7859503362562734
+st2,125-150,Islandiella helenae,0,0
+st2,125-150,Islandiella norcrossi,0,0
+st2,125-150,Islandiella sp.,0,0
+st2,125-150,Labrospira crassimargo,0,0
+st2,125-150,Lagena striata,0,0
+st2,125-150,Lagenammina atlantica,0,0
+st2,125-150,Leptohalysis scottii ,0,0
+st2,125-150,Lotostomoides calomorpha,0,0
+st2,125-150,Melonis cf. barleeanus,0,0
+st2,125-150,Miliolinella circularis,0,0
+st2,125-150,Miliolinella sp.,1,0.7859503362562734
+st2,125-150,Miliolinella sp. (juvenile),0,0
+st2,125-150,Nonion commune,0,0
+st2,125-150,Nonion sp.,0,0
+st2,125-150,Nonionella digitata,0,0
+st2,125-150,Nonionella turgida,0,0
+st2,125-150,Nonionellina labradorica,0,0
+st2,125-150,Paratrochammina sp.,0,0
+st2,125-150,Procerolagena gracilis,0,0
+st2,125-150,Psammosphaera fusca,0,0
+st2,125-150,Pullenia cf. osloensis,0,0
+st2,125-150,Pyrgo williamsoni,0,0
+st2,125-150,Pyrulina cylindroides,0,0
+st2,125-150,Pyrulina sp.,0,0
+st2,125-150,Quinqueloculina arctica,0,0
+st2,125-150,Quinqueloculina seminula,0,0
+st2,125-150,Quinqueloculina stalkeri,5,3.929751681281367
+st2,125-150,Recurvoides turbinatus,0,0
+st2,125-150,Reophax catella,0,0
+st2,125-150,Reophax fusiformis,0,0
+st2,125-150,Reophax scorpiurus,0,0
+st2,125-150,Reophax sp. ,0,0
+st2,125-150,Robertina arctica,0,0
+st2,125-150,Saccammina cf. sphaerica,0,0
+st2,125-150,Silicosigmoilina groenlandica,0,0
+st2,125-150,Siphonaperta agglutinata,0,0
+st2,125-150,Spiroplectammina biformis,0,0
+st2,125-150,Stainforthia feylingi,0,0
+st2,125-150,Stainforthia loeblichi,0,0
+st2,125-150,Textularia earlandi,49,38.51156647655739
+st2,125-150,Textularia torquata,0,0
+st2,125-150,Trifarina fluens,0,0
+st2,125-150,Triloculina oblonga,0,0
+st2,125-150,Triloculina trihedra,0,0
+st2,125-150,Trochammina inflata,0,0
+st2,125-150,Trochammina sp.,0,0
+st2,>150,Adercotryma glomeratum,0,0
+st2,>150,Ammodiscus sp.,0,0
+st2,>150,Ammonia sp.,0,0
+st2,>150,Ammotium cassis,0,0
+st2,>150,Astrononion gallowayi,0,0
+st2,>150,Astrononion sp.,0,0
+st2,>150,Baculogypsinoides sp.,0,0
+st2,>150,Bolivina pseudopunctata,0,0
+st2,>150,Buccella frigida,0,0
+st2,>150,Buccella sp.,0,0
+st2,>150,Capsammina bowmanni,232,182.34047801145542
+st2,>150,Cassidulina neoteretis,0,0
+st2,>150,Cassidulina reniforme,1,0.7859503362562734
+st2,>150,Cassidulina sp.,0,0
+st2,>150,Cassidulina sp. morphotype 1,0,0
+st2,>150,Cassidulina sp. morphotype 2,0,0
+st2,>150,Cibicidoides lobatulus,0,0
+st2,>150,Cornuspira foliacea,0,0
+st2,>150,Cornuspira involvens,0,0
+st2,>150,Cornuspira sp.,0,0
+st2,>150,Cuneata arctica,0,0
+st2,>150,Dentalina ittai,0,0
+st2,>150,Discorbina sp.,0,0
+st2,>150,Discorbinella bertheloti,0,0
+st2,>150,Eggerella advena,0,0
+st2,>150,Elphidium bartletti,0,0
+st2,>150,Elphidium clavatum,1,0.7859503362562734
+st2,>150,Elphidium sp.,0,0
+st2,>150,Epistominella exigua,0,0
+st2,>150,Eponides sp.,0,0
+st2,>150,Fissurina sp.,0,0
+st2,>150,Globobulimina auriculata,0,0
+st2,>150,Globobulimina sp.,0,0
+st2,>150,Globocassidulina sp.,0,0
+st2,>150,Glomospira sp.,0,0
+st2,>150,Haplophragmoides sp.,0,0
+st2,>150,Hippocrepina sp. ,0,0
+st2,>150,Hormosina globulifera,0,0
+st2,>150,Hyalinonetrion sp.,0,0
+st2,>150,Islandiella helenae,0,0
+st2,>150,Islandiella norcrossi,0,0
+st2,>150,Islandiella sp.,0,0
+st2,>150,Labrospira crassimargo,0,0
+st2,>150,Lagena striata,0,0
+st2,>150,Lagenammina atlantica,0,0
+st2,>150,Leptohalysis scottii ,0,0
+st2,>150,Lotostomoides calomorpha,0,0
+st2,>150,Melonis cf. barleeanus,0,0
+st2,>150,Miliolinella circularis,0,0
+st2,>150,Miliolinella sp.,0,0
+st2,>150,Miliolinella sp. (juvenile),0,0
+st2,>150,Nonion commune,0,0
+st2,>150,Nonion sp.,0,0
+st2,>150,Nonionella digitata,0,0
+st2,>150,Nonionella turgida,0,0
+st2,>150,Nonionellina labradorica,0,0
+st2,>150,Paratrochammina sp.,0,0
+st2,>150,Procerolagena gracilis,0,0
+st2,>150,Psammosphaera fusca,0,0
+st2,>150,Pullenia cf. osloensis,0,0
+st2,>150,Pyrgo williamsoni,0,0
+st2,>150,Pyrulina cylindroides,0,0
+st2,>150,Pyrulina sp.,0,0
+st2,>150,Quinqueloculina arctica,0,0
+st2,>150,Quinqueloculina seminula,0,0
+st2,>150,Quinqueloculina stalkeri,11,8.645453698819008
+st2,>150,Recurvoides turbinatus,0,0
+st2,>150,Reophax catella,0,0
+st2,>150,Reophax fusiformis,0,0
+st2,>150,Reophax scorpiurus,0,0
+st2,>150,Reophax sp. ,0,0
+st2,>150,Robertina arctica,0,0
+st2,>150,Saccammina cf. sphaerica,48,37.72561614030112
+st2,>150,Silicosigmoilina groenlandica,0,0
+st2,>150,Siphonaperta agglutinata,0,0
+st2,>150,Spiroplectammina biformis,0,0
+st2,>150,Stainforthia feylingi,0,0
+st2,>150,Stainforthia loeblichi,0,0
+st2,>150,Textularia earlandi,6,4.71570201753764
+st2,>150,Textularia torquata,0,0
+st2,>150,Trifarina fluens,0,0
+st2,>150,Triloculina oblonga,0,0
+st2,>150,Triloculina trihedra,0,0
+st2,>150,Trochammina inflata,0,0
+st2,>150,Trochammina sp.,0,0
+st3,63-100,Adercotryma glomeratum,4,3.1438013450250937
+st3,63-100,Ammodiscus sp.,4,3.1438013450250937
+st3,63-100,Ammonia sp.,0,0
+st3,63-100,Ammotium cassis,0,0
+st3,63-100,Astrononion gallowayi,0,0
+st3,63-100,Astrononion sp.,48,37.72561614030112
+st3,63-100,Baculogypsinoides sp.,0,0
+st3,63-100,Bolivina pseudopunctata,300,235.785100876882
+st3,63-100,Buccella frigida,0,0
+st3,63-100,Buccella sp.,0,0
+st3,63-100,Capsammina bowmanni,0,0
+st3,63-100,Cassidulina neoteretis,0,0
+st3,63-100,Cassidulina reniforme,116,91.17023900572771
+st3,63-100,Cassidulina sp.,0,0
+st3,63-100,Cassidulina sp. morphotype 1,0,0
+st3,63-100,Cassidulina sp. morphotype 2,0,0
+st3,63-100,Cibicidoides lobatulus,0,0
+st3,63-100,Cornuspira foliacea,0,0
+st3,63-100,Cornuspira involvens,0,0
+st3,63-100,Cornuspira sp.,4,3.1438013450250937
+st3,63-100,Cuneata arctica,64,50.3008215204015
+st3,63-100,Dentalina ittai,0,0
+st3,63-100,Discorbina sp.,0,0
+st3,63-100,Discorbinella bertheloti,0,0
+st3,63-100,Eggerella advena,0,0
+st3,63-100,Elphidium bartletti,0,0
+st3,63-100,Elphidium clavatum,0,0
+st3,63-100,Elphidium sp.,32,25.15041076020075
+st3,63-100,Epistominella exigua,72,56.588424210451684
+st3,63-100,Eponides sp.,0,0
+st3,63-100,Fissurina sp.,0,0
+st3,63-100,Globobulimina auriculata,0,0
+st3,63-100,Globobulimina sp.,0,0
+st3,63-100,Globocassidulina sp.,0,0
+st3,63-100,Glomospira sp.,0,0
+st3,63-100,Haplophragmoides sp.,0,0
+st3,63-100,Hippocrepina sp. ,0,0
+st3,63-100,Hormosina globulifera,0,0
+st3,63-100,Hyalinonetrion sp.,0,0
+st3,63-100,Islandiella helenae,12,9.43140403507528
+st3,63-100,Islandiella norcrossi,0,0
+st3,63-100,Islandiella sp.,0,0
+st3,63-100,Labrospira crassimargo,0,0
+st3,63-100,Lagena striata,0,0
+st3,63-100,Lagenammina atlantica,8,6.287602690050187
+st3,63-100,Leptohalysis scottii ,24,18.86280807015056
+st3,63-100,Lotostomoides calomorpha,32,25.15041076020075
+st3,63-100,Melonis cf. barleeanus,52,40.86941748532622
+st3,63-100,Miliolinella circularis,0,0
+st3,63-100,Miliolinella sp.,0,0
+st3,63-100,Miliolinella sp. (juvenile),0,0
+st3,63-100,Nonion commune,0,0
+st3,63-100,Nonion sp.,0,0
+st3,63-100,Nonionella digitata,0,0
+st3,63-100,Nonionella turgida,0,0
+st3,63-100,Nonionellina labradorica,512,402.406572163212
+st3,63-100,Paratrochammina sp.,0,0
+st3,63-100,Procerolagena gracilis,0,0
+st3,63-100,Psammosphaera fusca,0,0
+st3,63-100,Pullenia cf. osloensis,16,12.575205380100375
+st3,63-100,Pyrgo williamsoni,0,0
+st3,63-100,Pyrulina cylindroides,12,9.43140403507528
+st3,63-100,Pyrulina sp.,0,0
+st3,63-100,Quinqueloculina arctica,0,0
+st3,63-100,Quinqueloculina seminula,0,0
+st3,63-100,Quinqueloculina stalkeri,28,22.006609415175653
+st3,63-100,Recurvoides turbinatus,0,0
+st3,63-100,Reophax catella,0,0
+st3,63-100,Reophax fusiformis,16,12.575205380100375
+st3,63-100,Reophax scorpiurus,0,0
+st3,63-100,Reophax sp. ,0,0
+st3,63-100,Robertina arctica,0,0
+st3,63-100,Saccammina cf. sphaerica,0,0
+st3,63-100,Silicosigmoilina groenlandica,0,0
+st3,63-100,Siphonaperta agglutinata,0,0
+st3,63-100,Spiroplectammina biformis,304,238.9289022219071
+st3,63-100,Stainforthia feylingi,708,556.4528380694414
+st3,63-100,Stainforthia loeblichi,56,44.013218830351306
+st3,63-100,Textularia earlandi,548,430.7007842684378
+st3,63-100,Textularia torquata,8,6.287602690050187
+st3,63-100,Trifarina fluens,0,0
+st3,63-100,Triloculina oblonga,0,0
+st3,63-100,Triloculina trihedra,0,0
+st3,63-100,Trochammina inflata,0,0
+st3,63-100,Trochammina sp.,0,0
+st3,100-125,Adercotryma glomeratum,2,1.5719006725125468
+st3,100-125,Ammodiscus sp.,0,0
+st3,100-125,Ammonia sp.,0,0
+st3,100-125,Ammotium cassis,0,0
+st3,100-125,Astrononion gallowayi,1,0.7859503362562734
+st3,100-125,Astrononion sp.,5,3.929751681281367
+st3,100-125,Baculogypsinoides sp.,0,0
+st3,100-125,Bolivina pseudopunctata,2,1.5719006725125468
+st3,100-125,Buccella frigida,0,0
+st3,100-125,Buccella sp.,0,0
+st3,100-125,Capsammina bowmanni,0,0
+st3,100-125,Cassidulina neoteretis,0,0
+st3,100-125,Cassidulina reniforme,51,40.08346714906994
+st3,100-125,Cassidulina sp.,0,0
+st3,100-125,Cassidulina sp. morphotype 1,0,0
+st3,100-125,Cassidulina sp. morphotype 2,0,0
+st3,100-125,Cibicidoides lobatulus,0,0
+st3,100-125,Cornuspira foliacea,0,0
+st3,100-125,Cornuspira involvens,0,0
+st3,100-125,Cornuspira sp.,0,0
+st3,100-125,Cuneata arctica,2,1.5719006725125468
+st3,100-125,Dentalina ittai,0,0
+st3,100-125,Discorbina sp.,0,0
+st3,100-125,Discorbinella bertheloti,0,0
+st3,100-125,Eggerella advena,0,0
+st3,100-125,Elphidium bartletti,0,0
+st3,100-125,Elphidium clavatum,0,0
+st3,100-125,Elphidium sp.,6,4.71570201753764
+st3,100-125,Epistominella exigua,3,2.35785100876882
+st3,100-125,Eponides sp.,0,0
+st3,100-125,Fissurina sp.,0,0
+st3,100-125,Globobulimina auriculata,0,0
+st3,100-125,Globobulimina sp.,0,0
+st3,100-125,Globocassidulina sp.,1,0.7859503362562734
+st3,100-125,Glomospira sp.,1,0.7859503362562734
+st3,100-125,Haplophragmoides sp.,0,0
+st3,100-125,Hippocrepina sp. ,0,0
+st3,100-125,Hormosina globulifera,0,0
+st3,100-125,Hyalinonetrion sp.,2,1.5719006725125468
+st3,100-125,Islandiella helenae,4,3.1438013450250937
+st3,100-125,Islandiella norcrossi,0,0
+st3,100-125,Islandiella sp.,0,0
+st3,100-125,Labrospira crassimargo,0,0
+st3,100-125,Lagena striata,0,0
+st3,100-125,Lagenammina atlantica,5,3.929751681281367
+st3,100-125,Leptohalysis scottii ,0,0
+st3,100-125,Lotostomoides calomorpha,0,0
+st3,100-125,Melonis cf. barleeanus,42,33.009914122763476
+st3,100-125,Miliolinella circularis,0,0
+st3,100-125,Miliolinella sp.,5,3.929751681281367
+st3,100-125,Miliolinella sp. (juvenile),0,0
+st3,100-125,Nonion commune,0,0
+st3,100-125,Nonion sp.,0,0
+st3,100-125,Nonionella digitata,0,0
+st3,100-125,Nonionella turgida,0,0
+st3,100-125,Nonionellina labradorica,347,272.72476668092685
+st3,100-125,Paratrochammina sp.,0,0
+st3,100-125,Procerolagena gracilis,0,0
+st3,100-125,Psammosphaera fusca,1,0.7859503362562734
+st3,100-125,Pullenia cf. osloensis,7,5.501652353793913
+st3,100-125,Pyrgo williamsoni,2,1.5719006725125468
+st3,100-125,Pyrulina cylindroides,4,3.1438013450250937
+st3,100-125,Pyrulina sp.,1,0.7859503362562734
+st3,100-125,Quinqueloculina arctica,0,0
+st3,100-125,Quinqueloculina seminula,2,1.5719006725125468
+st3,100-125,Quinqueloculina stalkeri,2,1.5719006725125468
+st3,100-125,Recurvoides turbinatus,0,0
+st3,100-125,Reophax catella,0,0
+st3,100-125,Reophax fusiformis,9,7.0735530263064605
+st3,100-125,Reophax scorpiurus,0,0
+st3,100-125,Reophax sp. ,0,0
+st3,100-125,Robertina arctica,0,0
+st3,100-125,Saccammina cf. sphaerica,0,0
+st3,100-125,Silicosigmoilina groenlandica,0,0
+st3,100-125,Siphonaperta agglutinata,7,5.501652353793913
+st3,100-125,Spiroplectammina biformis,47,36.93966580404485
+st3,100-125,Stainforthia feylingi,5,3.929751681281367
+st3,100-125,Stainforthia loeblichi,14,11.003304707587827
+st3,100-125,Textularia earlandi,123,96.67189135952162
+st3,100-125,Textularia torquata,0,0
+st3,100-125,Trifarina fluens,0,0
+st3,100-125,Triloculina oblonga,1,0.7859503362562734
+st3,100-125,Triloculina trihedra,0,0
+st3,100-125,Trochammina inflata,0,0
+st3,100-125,Trochammina sp.,0,0
+st3,125-150,Adercotryma glomeratum,3,2.35785100876882
+st3,125-150,Ammodiscus sp.,0,0
+st3,125-150,Ammonia sp.,0,0
+st3,125-150,Ammotium cassis,0,0
+st3,125-150,Astrononion gallowayi,5,3.929751681281367
+st3,125-150,Astrononion sp.,0,0
+st3,125-150,Baculogypsinoides sp.,0,0
+st3,125-150,Bolivina pseudopunctata,2,1.5719006725125468
+st3,125-150,Buccella frigida,0,0
+st3,125-150,Buccella sp.,0,0
+st3,125-150,Capsammina bowmanni,1,0.7859503362562734
+st3,125-150,Cassidulina neoteretis,0,0
+st3,125-150,Cassidulina reniforme,44,34.58181479527603
+st3,125-150,Cassidulina sp.,0,0
+st3,125-150,Cassidulina sp. morphotype 1,0,0
+st3,125-150,Cassidulina sp. morphotype 2,2,1.5719006725125468
+st3,125-150,Cibicidoides lobatulus,0,0
+st3,125-150,Cornuspira foliacea,0,0
+st3,125-150,Cornuspira involvens,1,0.7859503362562734
+st3,125-150,Cornuspira sp.,0,0
+st3,125-150,Cuneata arctica,0,0
+st3,125-150,Dentalina ittai,0,0
+st3,125-150,Discorbina sp.,0,0
+st3,125-150,Discorbinella bertheloti,0,0
+st3,125-150,Eggerella advena,0,0
+st3,125-150,Elphidium bartletti,0,0
+st3,125-150,Elphidium clavatum,0,0
+st3,125-150,Elphidium sp.,0,0
+st3,125-150,Epistominella exigua,3,2.35785100876882
+st3,125-150,Eponides sp.,0,0
+st3,125-150,Fissurina sp.,0,0
+st3,125-150,Globobulimina auriculata,0,0
+st3,125-150,Globobulimina sp.,4,3.1438013450250937
+st3,125-150,Globocassidulina sp.,0,0
+st3,125-150,Glomospira sp.,0,0
+st3,125-150,Haplophragmoides sp.,0,0
+st3,125-150,Hippocrepina sp. ,0,0
+st3,125-150,Hormosina globulifera,0,0
+st3,125-150,Hyalinonetrion sp.,0,0
+st3,125-150,Islandiella helenae,1,0.7859503362562734
+st3,125-150,Islandiella norcrossi,0,0
+st3,125-150,Islandiella sp.,0,0
+st3,125-150,Labrospira crassimargo,1,0.7859503362562734
+st3,125-150,Lagena striata,0,0
+st3,125-150,Lagenammina atlantica,16,12.575205380100375
+st3,125-150,Leptohalysis scottii ,0,0
+st3,125-150,Lotostomoides calomorpha,0,0
+st3,125-150,Melonis cf. barleeanus,9,7.0735530263064605
+st3,125-150,Miliolinella circularis,0,0
+st3,125-150,Miliolinella sp.,2,1.5719006725125468
+st3,125-150,Miliolinella sp. (juvenile),2,1.5719006725125468
+st3,125-150,Nonion commune,0,0
+st3,125-150,Nonion sp.,0,0
+st3,125-150,Nonionella digitata,0,0
+st3,125-150,Nonionella turgida,0,0
+st3,125-150,Nonionellina labradorica,409,321.4536875288158
+st3,125-150,Paratrochammina sp.,0,0
+st3,125-150,Procerolagena gracilis,0,0
+st3,125-150,Psammosphaera fusca,15,11.7892550438441
+st3,125-150,Pullenia cf. osloensis,3,2.35785100876882
+st3,125-150,Pyrgo williamsoni,10,7.859503362562734
+st3,125-150,Pyrulina cylindroides,2,1.5719006725125468
+st3,125-150,Pyrulina sp.,0,0
+st3,125-150,Quinqueloculina arctica,0,0
+st3,125-150,Quinqueloculina seminula,0,0
+st3,125-150,Quinqueloculina stalkeri,2,1.5719006725125468
+st3,125-150,Recurvoides turbinatus,0,0
+st3,125-150,Reophax catella,1,0.7859503362562734
+st3,125-150,Reophax fusiformis,22,17.290907397638016
+st3,125-150,Reophax scorpiurus,0,0
+st3,125-150,Reophax sp. ,0,0
+st3,125-150,Robertina arctica,0,0
+st3,125-150,Saccammina cf. sphaerica,0,0
+st3,125-150,Silicosigmoilina groenlandica,1,0.7859503362562734
+st3,125-150,Siphonaperta agglutinata,7,5.501652353793913
+st3,125-150,Spiroplectammina biformis,10,7.859503362562734
+st3,125-150,Stainforthia feylingi,0,0
+st3,125-150,Stainforthia loeblichi,15,11.7892550438441
+st3,125-150,Textularia earlandi,8,6.287602690050187
+st3,125-150,Textularia torquata,0,0
+st3,125-150,Trifarina fluens,0,0
+st3,125-150,Triloculina oblonga,0,0
+st3,125-150,Triloculina trihedra,0,0
+st3,125-150,Trochammina inflata,0,0
+st3,125-150,Trochammina sp.,0,0
+st3,>150,Adercotryma glomeratum,10,7.859503362562734
+st3,>150,Ammodiscus sp.,0,0
+st3,>150,Ammonia sp.,0,0
+st3,>150,Ammotium cassis,7,5.501652353793913
+st3,>150,Astrononion gallowayi,20,15.719006725125467
+st3,>150,Astrononion sp.,0,0
+st3,>150,Baculogypsinoides sp.,0,0
+st3,>150,Bolivina pseudopunctata,0,0
+st3,>150,Buccella frigida,0,0
+st3,>150,Buccella sp.,0,0
+st3,>150,Capsammina bowmanni,0,0
+st3,>150,Cassidulina neoteretis,2,1.5719006725125468
+st3,>150,Cassidulina reniforme,16,12.575205380100375
+st3,>150,Cassidulina sp.,0,0
+st3,>150,Cassidulina sp. morphotype 1,15,11.7892550438441
+st3,>150,Cassidulina sp. morphotype 2,108,84.88263631567752
+st3,>150,Cibicidoides lobatulus,0,0
+st3,>150,Cornuspira foliacea,0,0
+st3,>150,Cornuspira involvens,3,2.35785100876882
+st3,>150,Cornuspira sp.,0,0
+st3,>150,Cuneata arctica,0,0
+st3,>150,Dentalina ittai,0,0
+st3,>150,Discorbina sp.,0,0
+st3,>150,Discorbinella bertheloti,0,0
+st3,>150,Eggerella advena,0,0
+st3,>150,Elphidium bartletti,0,0
+st3,>150,Elphidium clavatum,6,4.71570201753764
+st3,>150,Elphidium sp.,0,0
+st3,>150,Epistominella exigua,1,0.7859503362562734
+st3,>150,Eponides sp.,0,0
+st3,>150,Fissurina sp.,0,0
+st3,>150,Globobulimina auriculata,22,17.290907397638016
+st3,>150,Globobulimina sp.,0,0
+st3,>150,Globocassidulina sp.,0,0
+st3,>150,Glomospira sp.,0,0
+st3,>150,Haplophragmoides sp.,0,0
+st3,>150,Hippocrepina sp. ,0,0
+st3,>150,Hormosina globulifera,0,0
+st3,>150,Hyalinonetrion sp.,1,0.7859503362562734
+st3,>150,Islandiella helenae,13,10.217354371331554
+st3,>150,Islandiella norcrossi,5,3.929751681281367
+st3,>150,Islandiella sp.,0,0
+st3,>150,Labrospira crassimargo,26,20.43470874266311
+st3,>150,Lagena striata,0,0
+st3,>150,Lagenammina atlantica,18,14.147106052612921
+st3,>150,Leptohalysis scottii ,0,0
+st3,>150,Lotostomoides calomorpha,0,0
+st3,>150,Melonis cf. barleeanus,0,0
+st3,>150,Miliolinella circularis,0,0
+st3,>150,Miliolinella sp.,3,2.35785100876882
+st3,>150,Miliolinella sp. (juvenile),0,0
+st3,>150,Nonion commune,0,0
+st3,>150,Nonion sp.,0,0
+st3,>150,Nonionella digitata,0,0
+st3,>150,Nonionella turgida,0,0
+st3,>150,Nonionellina labradorica,1310,1029.594940495718
+st3,>150,Paratrochammina sp.,0,0
+st3,>150,Procerolagena gracilis,0,0
+st3,>150,Psammosphaera fusca,0,0
+st3,>150,Pullenia cf. osloensis,0,0
+st3,>150,Pyrgo williamsoni,37,29.080162441482116
+st3,>150,Pyrulina cylindroides,0,0
+st3,>150,Pyrulina sp.,1,0.7859503362562734
+st3,>150,Quinqueloculina arctica,7,5.501652353793913
+st3,>150,Quinqueloculina seminula,5,3.929751681281367
+st3,>150,Quinqueloculina stalkeri,0,0
+st3,>150,Recurvoides turbinatus,0,0
+st3,>150,Reophax catella,0,0
+st3,>150,Reophax fusiformis,42,33.009914122763476
+st3,>150,Reophax scorpiurus,1,0.7859503362562734
+st3,>150,Reophax sp. ,0,0
+st3,>150,Robertina arctica,6,4.71570201753764
+st3,>150,Saccammina cf. sphaerica,0,0
+st3,>150,Silicosigmoilina groenlandica,2,1.5719006725125468
+st3,>150,Siphonaperta agglutinata,10,7.859503362562734
+st3,>150,Spiroplectammina biformis,0,0
+st3,>150,Stainforthia feylingi,0,0
+st3,>150,Stainforthia loeblichi,3,2.35785100876882
+st3,>150,Textularia earlandi,2,1.5719006725125468
+st3,>150,Textularia torquata,0,0
+st3,>150,Trifarina fluens,0,0
+st3,>150,Triloculina oblonga,0,0
+st3,>150,Triloculina trihedra,0,0
+st3,>150,Trochammina inflata,0,0
+st3,>150,Trochammina sp.,0,0
+st4,63-100,Adercotryma glomeratum,0,0
+st4,63-100,Ammodiscus sp.,0,0
+st4,63-100,Ammonia sp.,0,0
+st4,63-100,Ammotium cassis,0,0
+st4,63-100,Astrononion gallowayi,0,0
+st4,63-100,Astrononion sp.,21,16.504957061381738
+st4,63-100,Baculogypsinoides sp.,0,0
+st4,63-100,Bolivina pseudopunctata,219,172.12312364012385
+st4,63-100,Buccella frigida,0,0
+st4,63-100,Buccella sp.,2,1.5719006725125468
+st4,63-100,Capsammina bowmanni,0,0
+st4,63-100,Cassidulina neoteretis,0,0
+st4,63-100,Cassidulina reniforme,133,104.53139472208434
+st4,63-100,Cassidulina sp.,0,0
+st4,63-100,Cassidulina sp. morphotype 1,0,0
+st4,63-100,Cassidulina sp. morphotype 2,0,0
+st4,63-100,Cibicidoides lobatulus,0,0
+st4,63-100,Cornuspira foliacea,0,0
+st4,63-100,Cornuspira involvens,0,0
+st4,63-100,Cornuspira sp.,2,1.5719006725125468
+st4,63-100,Cuneata arctica,71,55.8024738741954
+st4,63-100,Dentalina ittai,0,0
+st4,63-100,Discorbina sp.,0,0
+st4,63-100,Discorbinella bertheloti,0,0
+st4,63-100,Eggerella advena,0,0
+st4,63-100,Elphidium bartletti,0,0
+st4,63-100,Elphidium clavatum,0,0
+st4,63-100,Elphidium sp.,95,74.66528194434596
+st4,63-100,Epistominella exigua,69,54.230573201682866
+st4,63-100,Eponides sp.,0,0
+st4,63-100,Fissurina sp.,9,7.0735530263064605
+st4,63-100,Globobulimina auriculata,0,0
+st4,63-100,Globobulimina sp.,3,2.35785100876882
+st4,63-100,Globocassidulina sp.,0,0
+st4,63-100,Glomospira sp.,3,2.35785100876882
+st4,63-100,Haplophragmoides sp.,0,0
+st4,63-100,Hippocrepina sp. ,0,0
+st4,63-100,Hormosina globulifera,0,0
+st4,63-100,Hyalinonetrion sp.,0,0
+st4,63-100,Islandiella helenae,3,2.35785100876882
+st4,63-100,Islandiella norcrossi,0,0
+st4,63-100,Islandiella sp.,3,2.35785100876882
+st4,63-100,Labrospira crassimargo,0,0
+st4,63-100,Lagena striata,0,0
+st4,63-100,Lagenammina atlantica,19,14.933056388869193
+st4,63-100,Leptohalysis scottii ,16,12.575205380100375
+st4,63-100,Lotostomoides calomorpha,3,2.35785100876882
+st4,63-100,Melonis cf. barleeanus,29,22.792559751431927
+st4,63-100,Miliolinella circularis,4,3.1438013450250937
+st4,63-100,Miliolinella sp.,7,5.501652353793913
+st4,63-100,Miliolinella sp. (juvenile),0,0
+st4,63-100,Nonion commune,0,0
+st4,63-100,Nonion sp.,0,0
+st4,63-100,Nonionella digitata,0,0
+st4,63-100,Nonionella turgida,0,0
+st4,63-100,Nonionellina labradorica,21,16.504957061381738
+st4,63-100,Paratrochammina sp.,0,0
+st4,63-100,Procerolagena gracilis,0,0
+st4,63-100,Psammosphaera fusca,0,0
+st4,63-100,Pullenia cf. osloensis,12,9.43140403507528
+st4,63-100,Pyrgo williamsoni,0,0
+st4,63-100,Pyrulina cylindroides,0,0
+st4,63-100,Pyrulina sp.,0,0
+st4,63-100,Quinqueloculina arctica,0,0
+st4,63-100,Quinqueloculina seminula,0,0
+st4,63-100,Quinqueloculina stalkeri,26,20.43470874266311
+st4,63-100,Recurvoides turbinatus,0,0
+st4,63-100,Reophax catella,5,3.929751681281367
+st4,63-100,Reophax fusiformis,9,7.0735530263064605
+st4,63-100,Reophax scorpiurus,0,0
+st4,63-100,Reophax sp. ,0,0
+st4,63-100,Robertina arctica,0,0
+st4,63-100,Saccammina cf. sphaerica,0,0
+st4,63-100,Silicosigmoilina groenlandica,0,0
+st4,63-100,Siphonaperta agglutinata,2,1.5719006725125468
+st4,63-100,Spiroplectammina biformis,125,98.24379203203416
+st4,63-100,Stainforthia feylingi,381,299.44707811364015
+st4,63-100,Stainforthia loeblichi,24,18.86280807015056
+st4,63-100,Textularia earlandi,199,156.40411691499838
+st4,63-100,Textularia torquata,0,0
+st4,63-100,Trifarina fluens,0,0
+st4,63-100,Triloculina oblonga,0,0
+st4,63-100,Triloculina trihedra,0,0
+st4,63-100,Trochammina inflata,0,0
+st4,63-100,Trochammina sp.,0,0
+st4,100-125,Adercotryma glomeratum,0,0
+st4,100-125,Ammodiscus sp.,0,0
+st4,100-125,Ammonia sp.,0,0
+st4,100-125,Ammotium cassis,0,0
+st4,100-125,Astrononion gallowayi,1,0.7859503362562734
+st4,100-125,Astrononion sp.,0,0
+st4,100-125,Baculogypsinoides sp.,0,0
+st4,100-125,Bolivina pseudopunctata,6,4.71570201753764
+st4,100-125,Buccella frigida,2,1.5719006725125468
+st4,100-125,Buccella sp.,0,0
+st4,100-125,Capsammina bowmanni,0,0
+st4,100-125,Cassidulina neoteretis,0,0
+st4,100-125,Cassidulina reniforme,31,24.36446042394447
+st4,100-125,Cassidulina sp.,0,0
+st4,100-125,Cassidulina sp. morphotype 1,0,0
+st4,100-125,Cassidulina sp. morphotype 2,0,0
+st4,100-125,Cibicidoides lobatulus,0,0
+st4,100-125,Cornuspira foliacea,0,0
+st4,100-125,Cornuspira involvens,0,0
+st4,100-125,Cornuspira sp.,0,0
+st4,100-125,Cuneata arctica,9,7.0735530263064605
+st4,100-125,Dentalina ittai,0,0
+st4,100-125,Discorbina sp.,0,0
+st4,100-125,Discorbinella bertheloti,0,0
+st4,100-125,Eggerella advena,0,0
+st4,100-125,Elphidium bartletti,0,0
+st4,100-125,Elphidium clavatum,0,0
+st4,100-125,Elphidium sp.,10,7.859503362562734
+st4,100-125,Epistominella exigua,4,3.1438013450250937
+st4,100-125,Eponides sp.,0,0
+st4,100-125,Fissurina sp.,0,0
+st4,100-125,Globobulimina auriculata,0,0
+st4,100-125,Globobulimina sp.,0,0
+st4,100-125,Globocassidulina sp.,0,0
+st4,100-125,Glomospira sp.,0,0
+st4,100-125,Haplophragmoides sp.,0,0
+st4,100-125,Hippocrepina sp. ,0,0
+st4,100-125,Hormosina globulifera,0,0
+st4,100-125,Hyalinonetrion sp.,0,0
+st4,100-125,Islandiella helenae,2,1.5719006725125468
+st4,100-125,Islandiella norcrossi,0,0
+st4,100-125,Islandiella sp.,0,0
+st4,100-125,Labrospira crassimargo,0,0
+st4,100-125,Lagena striata,0,0
+st4,100-125,Lagenammina atlantica,6,4.71570201753764
+st4,100-125,Leptohalysis scottii ,0,0
+st4,100-125,Lotostomoides calomorpha,1,0.7859503362562734
+st4,100-125,Melonis cf. barleeanus,35,27.508261768969568
+st4,100-125,Miliolinella circularis,0,0
+st4,100-125,Miliolinella sp.,0,0
+st4,100-125,Miliolinella sp. (juvenile),0,0
+st4,100-125,Nonion commune,0,0
+st4,100-125,Nonion sp.,0,0
+st4,100-125,Nonionella digitata,0,0
+st4,100-125,Nonionella turgida,0,0
+st4,100-125,Nonionellina labradorica,16,12.575205380100375
+st4,100-125,Paratrochammina sp.,0,0
+st4,100-125,Procerolagena gracilis,0,0
+st4,100-125,Psammosphaera fusca,0,0
+st4,100-125,Pullenia cf. osloensis,2,1.5719006725125468
+st4,100-125,Pyrgo williamsoni,1,0.7859503362562734
+st4,100-125,Pyrulina cylindroides,0,0
+st4,100-125,Pyrulina sp.,1,0.7859503362562734
+st4,100-125,Quinqueloculina arctica,0,0
+st4,100-125,Quinqueloculina seminula,0,0
+st4,100-125,Quinqueloculina stalkeri,4,3.1438013450250937
+st4,100-125,Recurvoides turbinatus,0,0
+st4,100-125,Reophax catella,0,0
+st4,100-125,Reophax fusiformis,1,0.7859503362562734
+st4,100-125,Reophax scorpiurus,0,0
+st4,100-125,Reophax sp. ,0,0
+st4,100-125,Robertina arctica,1,0.7859503362562734
+st4,100-125,Saccammina cf. sphaerica,0,0
+st4,100-125,Silicosigmoilina groenlandica,0,0
+st4,100-125,Siphonaperta agglutinata,0,0
+st4,100-125,Spiroplectammina biformis,76,59.732225555476774
+st4,100-125,Stainforthia feylingi,8,6.287602690050187
+st4,100-125,Stainforthia loeblichi,4,3.1438013450250937
+st4,100-125,Textularia earlandi,144,113.17684842090337
+st4,100-125,Textularia torquata,0,0
+st4,100-125,Trifarina fluens,0,0
+st4,100-125,Triloculina oblonga,0,0
+st4,100-125,Triloculina trihedra,0,0
+st4,100-125,Trochammina inflata,0,0
+st4,100-125,Trochammina sp.,0,0
+st4,125-150,Adercotryma glomeratum,1,0.7859503362562734
+st4,125-150,Ammodiscus sp.,0,0
+st4,125-150,Ammonia sp.,0,0
+st4,125-150,Ammotium cassis,0,0
+st4,125-150,Astrononion gallowayi,6,4.71570201753764
+st4,125-150,Astrononion sp.,0,0
+st4,125-150,Baculogypsinoides sp.,0,0
+st4,125-150,Bolivina pseudopunctata,0,0
+st4,125-150,Buccella frigida,0,0
+st4,125-150,Buccella sp.,0,0
+st4,125-150,Capsammina bowmanni,0,0
+st4,125-150,Cassidulina neoteretis,0,0
+st4,125-150,Cassidulina reniforme,42,33.009914122763476
+st4,125-150,Cassidulina sp.,0,0
+st4,125-150,Cassidulina sp. morphotype 1,0,0
+st4,125-150,Cassidulina sp. morphotype 2,1,0.7859503362562734
+st4,125-150,Cibicidoides lobatulus,0,0
+st4,125-150,Cornuspira foliacea,0,0
+st4,125-150,Cornuspira involvens,0,0
+st4,125-150,Cornuspira sp.,0,0
+st4,125-150,Cuneata arctica,3,2.35785100876882
+st4,125-150,Dentalina ittai,0,0
+st4,125-150,Discorbina sp.,0,0
+st4,125-150,Discorbinella bertheloti,0,0
+st4,125-150,Eggerella advena,0,0
+st4,125-150,Elphidium bartletti,0,0
+st4,125-150,Elphidium clavatum,2,1.5719006725125468
+st4,125-150,Elphidium sp.,0,0
+st4,125-150,Epistominella exigua,3,2.35785100876882
+st4,125-150,Eponides sp.,0,0
+st4,125-150,Fissurina sp.,0,0
+st4,125-150,Globobulimina auriculata,0,0
+st4,125-150,Globobulimina sp.,8,6.287602690050187
+st4,125-150,Globocassidulina sp.,0,0
+st4,125-150,Glomospira sp.,0,0
+st4,125-150,Haplophragmoides sp.,0,0
+st4,125-150,Hippocrepina sp. ,0,0
+st4,125-150,Hormosina globulifera,0,0
+st4,125-150,Hyalinonetrion sp.,0,0
+st4,125-150,Islandiella helenae,1,0.7859503362562734
+st4,125-150,Islandiella norcrossi,0,0
+st4,125-150,Islandiella sp.,0,0
+st4,125-150,Labrospira crassimargo,1,0.7859503362562734
+st4,125-150,Lagena striata,0,0
+st4,125-150,Lagenammina atlantica,0,0
+st4,125-150,Leptohalysis scottii ,1,0.7859503362562734
+st4,125-150,Lotostomoides calomorpha,1,0.7859503362562734
+st4,125-150,Melonis cf. barleeanus,13,10.217354371331554
+st4,125-150,Miliolinella circularis,0,0
+st4,125-150,Miliolinella sp.,0,0
+st4,125-150,Miliolinella sp. (juvenile),0,0
+st4,125-150,Nonion commune,0,0
+st4,125-150,Nonion sp.,0,0
+st4,125-150,Nonionella digitata,0,0
+st4,125-150,Nonionella turgida,0,0
+st4,125-150,Nonionellina labradorica,31,24.36446042394447
+st4,125-150,Paratrochammina sp.,0,0
+st4,125-150,Procerolagena gracilis,0,0
+st4,125-150,Psammosphaera fusca,8,6.287602690050187
+st4,125-150,Pullenia cf. osloensis,5,3.929751681281367
+st4,125-150,Pyrgo williamsoni,1,0.7859503362562734
+st4,125-150,Pyrulina cylindroides,0,0
+st4,125-150,Pyrulina sp.,1,0.7859503362562734
+st4,125-150,Quinqueloculina arctica,0,0
+st4,125-150,Quinqueloculina seminula,1,0.7859503362562734
+st4,125-150,Quinqueloculina stalkeri,3,2.35785100876882
+st4,125-150,Recurvoides turbinatus,0,0
+st4,125-150,Reophax catella,0,0
+st4,125-150,Reophax fusiformis,19,14.933056388869193
+st4,125-150,Reophax scorpiurus,0,0
+st4,125-150,Reophax sp. ,0,0
+st4,125-150,Robertina arctica,0,0
+st4,125-150,Saccammina cf. sphaerica,0,0
+st4,125-150,Silicosigmoilina groenlandica,0,0
+st4,125-150,Siphonaperta agglutinata,2,1.5719006725125468
+st4,125-150,Spiroplectammina biformis,33,25.936361096457023
+st4,125-150,Stainforthia feylingi,0,0
+st4,125-150,Stainforthia loeblichi,1,0.7859503362562734
+st4,125-150,Textularia earlandi,37,29.080162441482116
+st4,125-150,Textularia torquata,0,0
+st4,125-150,Trifarina fluens,2,1.5719006725125468
+st4,125-150,Triloculina oblonga,0,0
+st4,125-150,Triloculina trihedra,0,0
+st4,125-150,Trochammina inflata,0,0
+st4,125-150,Trochammina sp.,0,0
+st4,>150,Adercotryma glomeratum,20,15.719006725125467
+st4,>150,Ammodiscus sp.,0,0
+st4,>150,Ammonia sp.,0,0
+st4,>150,Ammotium cassis,0,0
+st4,>150,Astrononion gallowayi,14,11.003304707587827
+st4,>150,Astrononion sp.,0,0
+st4,>150,Baculogypsinoides sp.,0,0
+st4,>150,Bolivina pseudopunctata,0,0
+st4,>150,Buccella frigida,0,0
+st4,>150,Buccella sp.,0,0
+st4,>150,Capsammina bowmanni,0,0
+st4,>150,Cassidulina neoteretis,0,0
+st4,>150,Cassidulina reniforme,18,14.147106052612921
+st4,>150,Cassidulina sp.,0,0
+st4,>150,Cassidulina sp. morphotype 1,9,7.0735530263064605
+st4,>150,Cassidulina sp. morphotype 2,27,21.22065907891938
+st4,>150,Cibicidoides lobatulus,2,1.5719006725125468
+st4,>150,Cornuspira foliacea,1,0.7859503362562734
+st4,>150,Cornuspira involvens,4,3.1438013450250937
+st4,>150,Cornuspira sp.,0,0
+st4,>150,Cuneata arctica,1,0.7859503362562734
+st4,>150,Dentalina ittai,1,0.7859503362562734
+st4,>150,Discorbina sp.,0,0
+st4,>150,Discorbinella bertheloti,0,0
+st4,>150,Eggerella advena,0,0
+st4,>150,Elphidium bartletti,0,0
+st4,>150,Elphidium clavatum,3,2.35785100876882
+st4,>150,Elphidium sp.,0,0
+st4,>150,Epistominella exigua,1,0.7859503362562734
+st4,>150,Eponides sp.,0,0
+st4,>150,Fissurina sp.,3,2.35785100876882
+st4,>150,Globobulimina auriculata,18,14.147106052612921
+st4,>150,Globobulimina sp.,0,0
+st4,>150,Globocassidulina sp.,0,0
+st4,>150,Glomospira sp.,0,0
+st4,>150,Haplophragmoides sp.,0,0
+st4,>150,Hippocrepina sp. ,0,0
+st4,>150,Hormosina globulifera,0,0
+st4,>150,Hyalinonetrion sp.,0,0
+st4,>150,Islandiella helenae,10,7.859503362562734
+st4,>150,Islandiella norcrossi,3,2.35785100876882
+st4,>150,Islandiella sp.,0,0
+st4,>150,Labrospira crassimargo,63,49.51487118414522
+st4,>150,Lagena striata,0,0
+st4,>150,Lagenammina atlantica,18,14.147106052612921
+st4,>150,Leptohalysis scottii ,0,0
+st4,>150,Lotostomoides calomorpha,0,0
+st4,>150,Melonis cf. barleeanus,0,0
+st4,>150,Miliolinella circularis,0,0
+st4,>150,Miliolinella sp.,11,8.645453698819008
+st4,>150,Miliolinella sp. (juvenile),0,0
+st4,>150,Nonion commune,0,0
+st4,>150,Nonion sp.,0,0
+st4,>150,Nonionella digitata,3,2.35785100876882
+st4,>150,Nonionella turgida,0,0
+st4,>150,Nonionellina labradorica,124,97.45784169577789
+st4,>150,Paratrochammina sp.,0,0
+st4,>150,Procerolagena gracilis,0,0
+st4,>150,Psammosphaera fusca,6,4.71570201753764
+st4,>150,Pullenia cf. osloensis,0,0
+st4,>150,Pyrgo williamsoni,45,35.367765131532295
+st4,>150,Pyrulina cylindroides,0,0
+st4,>150,Pyrulina sp.,0,0
+st4,>150,Quinqueloculina arctica,6,4.71570201753764
+st4,>150,Quinqueloculina seminula,1,0.7859503362562734
+st4,>150,Quinqueloculina stalkeri,0,0
+st4,>150,Recurvoides turbinatus,1,0.7859503362562734
+st4,>150,Reophax catella,0,0
+st4,>150,Reophax fusiformis,40,31.438013450250935
+st4,>150,Reophax scorpiurus,11,8.645453698819008
+st4,>150,Reophax sp. ,0,0
+st4,>150,Robertina arctica,0,0
+st4,>150,Saccammina cf. sphaerica,0,0
+st4,>150,Silicosigmoilina groenlandica,0,0
+st4,>150,Siphonaperta agglutinata,6,4.71570201753764
+st4,>150,Spiroplectammina biformis,0,0
+st4,>150,Stainforthia feylingi,0,0
+st4,>150,Stainforthia loeblichi,0,0
+st4,>150,Textularia earlandi,0,0
+st4,>150,Textularia torquata,0,0
+st4,>150,Trifarina fluens,1,0.7859503362562734
+st4,>150,Triloculina oblonga,0,0
+st4,>150,Triloculina trihedra,0,0
+st4,>150,Trochammina inflata,0,0
+st4,>150,Trochammina sp.,0,0
+st5,63-100,Adercotryma glomeratum,31,24.36446042394447
+st5,63-100,Ammodiscus sp.,0,0
+st5,63-100,Ammonia sp.,0,0
+st5,63-100,Ammotium cassis,0,0
+st5,63-100,Astrononion gallowayi,0,0
+st5,63-100,Astrononion sp.,0,0
+st5,63-100,Baculogypsinoides sp.,0,0
+st5,63-100,Bolivina pseudopunctata,325,255.43385928328883
+st5,63-100,Buccella frigida,0,0
+st5,63-100,Buccella sp.,0,0
+st5,63-100,Capsammina bowmanni,0,0
+st5,63-100,Cassidulina neoteretis,0,0
+st5,63-100,Cassidulina reniforme,40,31.438013450250935
+st5,63-100,Cassidulina sp.,0,0
+st5,63-100,Cassidulina sp. morphotype 1,0,0
+st5,63-100,Cassidulina sp. morphotype 2,0,0
+st5,63-100,Cibicidoides lobatulus,0,0
+st5,63-100,Cornuspira foliacea,0,0
+st5,63-100,Cornuspira involvens,3,2.35785100876882
+st5,63-100,Cornuspira sp.,0,0
+st5,63-100,Cuneata arctica,172,135.18345783607901
+st5,63-100,Dentalina ittai,0,0
+st5,63-100,Discorbina sp.,0,0
+st5,63-100,Discorbinella bertheloti,0,0
+st5,63-100,Eggerella advena,0,0
+st5,63-100,Elphidium bartletti,0,0
+st5,63-100,Elphidium clavatum,0,0
+st5,63-100,Elphidium sp.,12,9.43140403507528
+st5,63-100,Epistominella exigua,52,40.86941748532622
+st5,63-100,Eponides sp.,0,0
+st5,63-100,Fissurina sp.,27,21.22065907891938
+st5,63-100,Globobulimina auriculata,0,0
+st5,63-100,Globobulimina sp.,0,0
+st5,63-100,Globocassidulina sp.,0,0
+st5,63-100,Glomospira sp.,7,5.501652353793913
+st5,63-100,Haplophragmoides sp.,0,0
+st5,63-100,Hippocrepina sp. ,0,0
+st5,63-100,Hormosina globulifera,0,0
+st5,63-100,Hyalinonetrion sp.,0,0
+st5,63-100,Islandiella helenae,4,3.1438013450250937
+st5,63-100,Islandiella norcrossi,0,0
+st5,63-100,Islandiella sp.,12,9.43140403507528
+st5,63-100,Labrospira crassimargo,0,0
+st5,63-100,Lagena striata,11,8.645453698819008
+st5,63-100,Lagenammina atlantica,21,16.504957061381738
+st5,63-100,Leptohalysis scottii ,37,29.080162441482116
+st5,63-100,Lotostomoides calomorpha,55,43.227268494095036
+st5,63-100,Melonis cf. barleeanus,112,88.02643766070261
+st5,63-100,Miliolinella circularis,0,0
+st5,63-100,Miliolinella sp.,3,2.35785100876882
+st5,63-100,Miliolinella sp. (juvenile),44,34.58181479527603
+st5,63-100,Nonion commune,0,0
+st5,63-100,Nonion sp.,0,0
+st5,63-100,Nonionella digitata,0,0
+st5,63-100,Nonionella turgida,0,0
+st5,63-100,Nonionellina labradorica,281,220.85204448801278
+st5,63-100,Paratrochammina sp.,0,0
+st5,63-100,Procerolagena gracilis,5,3.929751681281367
+st5,63-100,Psammosphaera fusca,0,0
+st5,63-100,Pullenia cf. osloensis,265,208.27683910791245
+st5,63-100,Pyrgo williamsoni,4,3.1438013450250937
+st5,63-100,Pyrulina cylindroides,3,2.35785100876882
+st5,63-100,Pyrulina sp.,0,0
+st5,63-100,Quinqueloculina arctica,0,0
+st5,63-100,Quinqueloculina seminula,9,7.0735530263064605
+st5,63-100,Quinqueloculina stalkeri,27,21.22065907891938
+st5,63-100,Recurvoides turbinatus,0,0
+st5,63-100,Reophax catella,53,41.65536782158249
+st5,63-100,Reophax fusiformis,32,25.15041076020075
+st5,63-100,Reophax scorpiurus,0,0
+st5,63-100,Reophax sp. ,0,0
+st5,63-100,Robertina arctica,0,0
+st5,63-100,Saccammina cf. sphaerica,0,0
+st5,63-100,Silicosigmoilina groenlandica,3,2.35785100876882
+st5,63-100,Siphonaperta agglutinata,0,0
+st5,63-100,Spiroplectammina biformis,167,131.25370615479767
+st5,63-100,Stainforthia feylingi,501,393.76111846439295
+st5,63-100,Stainforthia loeblichi,31,24.36446042394447
+st5,63-100,Textularia earlandi,351,275.8685680259519
+st5,63-100,Textularia torquata,3,2.35785100876882
+st5,63-100,Trifarina fluens,0,0
+st5,63-100,Triloculina oblonga,4,3.1438013450250937
+st5,63-100,Triloculina trihedra,0,0
+st5,63-100,Trochammina inflata,0,0
+st5,63-100,Trochammina sp.,0,0
+st5,100-125,Adercotryma glomeratum,6,4.71570201753764
+st5,100-125,Ammodiscus sp.,0,0
+st5,100-125,Ammonia sp.,0,0
+st5,100-125,Ammotium cassis,0,0
+st5,100-125,Astrononion gallowayi,0,0
+st5,100-125,Astrononion sp.,1,0.7859503362562734
+st5,100-125,Baculogypsinoides sp.,0,0
+st5,100-125,Bolivina pseudopunctata,7,5.501652353793913
+st5,100-125,Buccella frigida,0,0
+st5,100-125,Buccella sp.,0,0
+st5,100-125,Capsammina bowmanni,0,0
+st5,100-125,Cassidulina neoteretis,0,0
+st5,100-125,Cassidulina reniforme,15,11.7892550438441
+st5,100-125,Cassidulina sp.,0,0
+st5,100-125,Cassidulina sp. morphotype 1,0,0
+st5,100-125,Cassidulina sp. morphotype 2,0,0
+st5,100-125,Cibicidoides lobatulus,0,0
+st5,100-125,Cornuspira foliacea,0,0
+st5,100-125,Cornuspira involvens,2,1.5719006725125468
+st5,100-125,Cornuspira sp.,0,0
+st5,100-125,Cuneata arctica,4,3.1438013450250937
+st5,100-125,Dentalina ittai,0,0
+st5,100-125,Discorbina sp.,0,0
+st5,100-125,Discorbinella bertheloti,0,0
+st5,100-125,Eggerella advena,0,0
+st5,100-125,Elphidium bartletti,0,0
+st5,100-125,Elphidium clavatum,0,0
+st5,100-125,Elphidium sp.,0,0
+st5,100-125,Epistominella exigua,17,13.361155716356645
+st5,100-125,Eponides sp.,0,0
+st5,100-125,Fissurina sp.,0,0
+st5,100-125,Globobulimina auriculata,0,0
+st5,100-125,Globobulimina sp.,0,0
+st5,100-125,Globocassidulina sp.,0,0
+st5,100-125,Glomospira sp.,0,0
+st5,100-125,Haplophragmoides sp.,1,0.7859503362562734
+st5,100-125,Hippocrepina sp. ,0,0
+st5,100-125,Hormosina globulifera,0,0
+st5,100-125,Hyalinonetrion sp.,0,0
+st5,100-125,Islandiella helenae,0,0
+st5,100-125,Islandiella norcrossi,1,0.7859503362562734
+st5,100-125,Islandiella sp.,0,0
+st5,100-125,Labrospira crassimargo,0,0
+st5,100-125,Lagena striata,0,0
+st5,100-125,Lagenammina atlantica,3,2.35785100876882
+st5,100-125,Leptohalysis scottii ,0,0
+st5,100-125,Lotostomoides calomorpha,3,2.35785100876882
+st5,100-125,Melonis cf. barleeanus,149,117.10660010218473
+st5,100-125,Miliolinella circularis,0,0
+st5,100-125,Miliolinella sp.,0,0
+st5,100-125,Miliolinella sp. (juvenile),12,9.43140403507528
+st5,100-125,Nonion commune,0,0
+st5,100-125,Nonion sp.,0,0
+st5,100-125,Nonionella digitata,0,0
+st5,100-125,Nonionella turgida,0,0
+st5,100-125,Nonionellina labradorica,98,77.02313295311478
+st5,100-125,Paratrochammina sp.,0,0
+st5,100-125,Procerolagena gracilis,4,3.1438013450250937
+st5,100-125,Psammosphaera fusca,0,0
+st5,100-125,Pullenia cf. osloensis,607,477.07185410755795
+st5,100-125,Pyrgo williamsoni,98,77.02313295311478
+st5,100-125,Pyrulina cylindroides,0,0
+st5,100-125,Pyrulina sp.,0,0
+st5,100-125,Quinqueloculina arctica,0,0
+st5,100-125,Quinqueloculina seminula,20,15.719006725125467
+st5,100-125,Quinqueloculina stalkeri,7,5.501652353793913
+st5,100-125,Recurvoides turbinatus,2,1.5719006725125468
+st5,100-125,Reophax catella,0,0
+st5,100-125,Reophax fusiformis,11,8.645453698819008
+st5,100-125,Reophax scorpiurus,0,0
+st5,100-125,Reophax sp. ,0,0
+st5,100-125,Robertina arctica,0,0
+st5,100-125,Saccammina cf. sphaerica,0,0
+st5,100-125,Silicosigmoilina groenlandica,3,2.35785100876882
+st5,100-125,Siphonaperta agglutinata,1,0.7859503362562734
+st5,100-125,Spiroplectammina biformis,37,29.080162441482116
+st5,100-125,Stainforthia feylingi,2,1.5719006725125468
+st5,100-125,Stainforthia loeblichi,2,1.5719006725125468
+st5,100-125,Textularia earlandi,70,55.016523537939136
+st5,100-125,Textularia torquata,0,0
+st5,100-125,Trifarina fluens,0,0
+st5,100-125,Triloculina oblonga,0,0
+st5,100-125,Triloculina trihedra,0,0
+st5,100-125,Trochammina inflata,6,4.71570201753764
+st5,100-125,Trochammina sp.,0,0
+st5,125-150,Adercotryma glomeratum,13,10.217354371331554
+st5,125-150,Ammodiscus sp.,1,0.7859503362562734
+st5,125-150,Ammonia sp.,0,0
+st5,125-150,Ammotium cassis,0,0
+st5,125-150,Astrononion gallowayi,5,3.929751681281367
+st5,125-150,Astrononion sp.,0,0
+st5,125-150,Baculogypsinoides sp.,0,0
+st5,125-150,Bolivina pseudopunctata,1,0.7859503362562734
+st5,125-150,Buccella frigida,0,0
+st5,125-150,Buccella sp.,0,0
+st5,125-150,Capsammina bowmanni,0,0
+st5,125-150,Cassidulina neoteretis,0,0
+st5,125-150,Cassidulina reniforme,19,14.933056388869193
+st5,125-150,Cassidulina sp.,0,0
+st5,125-150,Cassidulina sp. morphotype 1,0,0
+st5,125-150,Cassidulina sp. morphotype 2,3,2.35785100876882
+st5,125-150,Cibicidoides lobatulus,1,0.7859503362562734
+st5,125-150,Cornuspira foliacea,0,0
+st5,125-150,Cornuspira involvens,0,0
+st5,125-150,Cornuspira sp.,0,0
+st5,125-150,Cuneata arctica,0,0
+st5,125-150,Dentalina ittai,0,0
+st5,125-150,Discorbina sp.,0,0
+st5,125-150,Discorbinella bertheloti,0,0
+st5,125-150,Eggerella advena,0,0
+st5,125-150,Elphidium bartletti,0,0
+st5,125-150,Elphidium clavatum,1,0.7859503362562734
+st5,125-150,Elphidium sp.,0,0
+st5,125-150,Epistominella exigua,7,5.501652353793913
+st5,125-150,Eponides sp.,0,0
+st5,125-150,Fissurina sp.,0,0
+st5,125-150,Globobulimina auriculata,0,0
+st5,125-150,Globobulimina sp.,0,0
+st5,125-150,Globocassidulina sp.,0,0
+st5,125-150,Glomospira sp.,0,0
+st5,125-150,Haplophragmoides sp.,2,1.5719006725125468
+st5,125-150,Hippocrepina sp. ,0,0
+st5,125-150,Hormosina globulifera,0,0
+st5,125-150,Hyalinonetrion sp.,0,0
+st5,125-150,Islandiella helenae,6,4.71570201753764
+st5,125-150,Islandiella norcrossi,0,0
+st5,125-150,Islandiella sp.,2,1.5719006725125468
+st5,125-150,Labrospira crassimargo,1,0.7859503362562734
+st5,125-150,Lagena striata,0,0
+st5,125-150,Lagenammina atlantica,11,8.645453698819008
+st5,125-150,Leptohalysis scottii ,2,1.5719006725125468
+st5,125-150,Lotostomoides calomorpha,1,0.7859503362562734
+st5,125-150,Melonis cf. barleeanus,36,28.294212105225842
+st5,125-150,Miliolinella circularis,0,0
+st5,125-150,Miliolinella sp.,0,0
+st5,125-150,Miliolinella sp. (juvenile),0,0
+st5,125-150,Nonion commune,0,0
+st5,125-150,Nonion sp.,0,0
+st5,125-150,Nonionella digitata,0,0
+st5,125-150,Nonionella turgida,0,0
+st5,125-150,Nonionellina labradorica,100,78.59503362562734
+st5,125-150,Paratrochammina sp.,0,0
+st5,125-150,Procerolagena gracilis,2,1.5719006725125468
+st5,125-150,Psammosphaera fusca,2,1.5719006725125468
+st5,125-150,Pullenia cf. osloensis,96,75.45123228060224
+st5,125-150,Pyrgo williamsoni,21,16.504957061381738
+st5,125-150,Pyrulina cylindroides,0,0
+st5,125-150,Pyrulina sp.,0,0
+st5,125-150,Quinqueloculina arctica,0,0
+st5,125-150,Quinqueloculina seminula,24,18.86280807015056
+st5,125-150,Quinqueloculina stalkeri,10,7.859503362562734
+st5,125-150,Recurvoides turbinatus,7,5.501652353793913
+st5,125-150,Reophax catella,0,0
+st5,125-150,Reophax fusiformis,41,32.223963786507205
+st5,125-150,Reophax scorpiurus,0,0
+st5,125-150,Reophax sp. ,0,0
+st5,125-150,Robertina arctica,0,0
+st5,125-150,Saccammina cf. sphaerica,0,0
+st5,125-150,Silicosigmoilina groenlandica,9,7.0735530263064605
+st5,125-150,Siphonaperta agglutinata,17,13.361155716356645
+st5,125-150,Spiroplectammina biformis,0,0
+st5,125-150,Stainforthia feylingi,0,0
+st5,125-150,Stainforthia loeblichi,15,11.7892550438441
+st5,125-150,Textularia earlandi,9,7.0735530263064605
+st5,125-150,Textularia torquata,0,0
+st5,125-150,Trifarina fluens,1,0.7859503362562734
+st5,125-150,Triloculina oblonga,0,0
+st5,125-150,Triloculina trihedra,5,3.929751681281367
+st5,125-150,Trochammina inflata,2,1.5719006725125468
+st5,125-150,Trochammina sp.,1,0.7859503362562734
+st5,>150,Adercotryma glomeratum,153,120.25040144720982
+st5,>150,Ammodiscus sp.,1,0.7859503362562734
+st5,>150,Ammonia sp.,0,0
+st5,>150,Ammotium cassis,1,0.7859503362562734
+st5,>150,Astrononion gallowayi,7,5.501652353793913
+st5,>150,Astrononion sp.,0,0
+st5,>150,Baculogypsinoides sp.,1,0.7859503362562734
+st5,>150,Bolivina pseudopunctata,0,0
+st5,>150,Buccella frigida,0,0
+st5,>150,Buccella sp.,0,0
+st5,>150,Capsammina bowmanni,0,0
+st5,>150,Cassidulina neoteretis,7,5.501652353793913
+st5,>150,Cassidulina reniforme,10,7.859503362562734
+st5,>150,Cassidulina sp.,2,1.5719006725125468
+st5,>150,Cassidulina sp. morphotype 1,22,17.290907397638016
+st5,>150,Cassidulina sp. morphotype 2,91,71.52148059932088
+st5,>150,Cibicidoides lobatulus,1,0.7859503362562734
+st5,>150,Cornuspira foliacea,1,0.7859503362562734
+st5,>150,Cornuspira involvens,1,0.7859503362562734
+st5,>150,Cornuspira sp.,0,0
+st5,>150,Cuneata arctica,1,0.7859503362562734
+st5,>150,Dentalina ittai,0,0
+st5,>150,Discorbina sp.,0,0
+st5,>150,Discorbinella bertheloti,0,0
+st5,>150,Eggerella advena,0,0
+st5,>150,Elphidium bartletti,0,0
+st5,>150,Elphidium clavatum,0,0
+st5,>150,Elphidium sp.,0,0
+st5,>150,Epistominella exigua,0,0
+st5,>150,Eponides sp.,0,0
+st5,>150,Fissurina sp.,1,0.7859503362562734
+st5,>150,Globobulimina auriculata,22,17.290907397638016
+st5,>150,Globobulimina sp.,0,0
+st5,>150,Globocassidulina sp.,1,0.7859503362562734
+st5,>150,Glomospira sp.,0,0
+st5,>150,Haplophragmoides sp.,0,0
+st5,>150,Hippocrepina sp. ,0,0
+st5,>150,Hormosina globulifera,0,0
+st5,>150,Hyalinonetrion sp.,0,0
+st5,>150,Islandiella helenae,33,25.936361096457023
+st5,>150,Islandiella norcrossi,27,21.22065907891938
+st5,>150,Islandiella sp.,1,0.7859503362562734
+st5,>150,Labrospira crassimargo,130,102.17354371331552
+st5,>150,Lagena striata,0,0
+st5,>150,Lagenammina atlantica,22,17.290907397638016
+st5,>150,Leptohalysis scottii ,0,0
+st5,>150,Lotostomoides calomorpha,0,0
+st5,>150,Melonis cf. barleeanus,0,0
+st5,>150,Miliolinella circularis,11,8.645453698819008
+st5,>150,Miliolinella sp.,0,0
+st5,>150,Miliolinella sp. (juvenile),0,0
+st5,>150,Nonion commune,0,0
+st5,>150,Nonion sp.,0,0
+st5,>150,Nonionella digitata,0,0
+st5,>150,Nonionella turgida,0,0
+st5,>150,Nonionellina labradorica,391,307.3065814762029
+st5,>150,Paratrochammina sp.,0,0
+st5,>150,Procerolagena gracilis,0,0
+st5,>150,Psammosphaera fusca,0,0
+st5,>150,Pullenia cf. osloensis,0,0
+st5,>150,Pyrgo williamsoni,50,39.29751681281367
+st5,>150,Pyrulina cylindroides,0,0
+st5,>150,Pyrulina sp.,0,0
+st5,>150,Quinqueloculina arctica,15,11.7892550438441
+st5,>150,Quinqueloculina seminula,108,84.88263631567752
+st5,>150,Quinqueloculina stalkeri,3,2.35785100876882
+st5,>150,Recurvoides turbinatus,33,25.936361096457023
+st5,>150,Reophax catella,0,0
+st5,>150,Reophax fusiformis,65,51.08677185665776
+st5,>150,Reophax scorpiurus,1,0.7859503362562734
+st5,>150,Reophax sp. ,0,0
+st5,>150,Robertina arctica,2,1.5719006725125468
+st5,>150,Saccammina cf. sphaerica,0,0
+st5,>150,Silicosigmoilina groenlandica,12,9.43140403507528
+st5,>150,Siphonaperta agglutinata,107,84.09668597942125
+st5,>150,Spiroplectammina biformis,0,0
+st5,>150,Stainforthia feylingi,0,0
+st5,>150,Stainforthia loeblichi,1,0.7859503362562734
+st5,>150,Textularia earlandi,0,0
+st5,>150,Textularia torquata,0,0
+st5,>150,Trifarina fluens,1,0.7859503362562734
+st5,>150,Triloculina oblonga,0,0
+st5,>150,Triloculina trihedra,5,3.929751681281367
+st5,>150,Trochammina inflata,5,3.929751681281367
+st5,>150,Trochammina sp.,3,2.35785100876882
+st6,63-100,Adercotryma glomeratum,347,272.72476668092685
+st6,63-100,Ammodiscus sp.,3,2.35785100876882
+st6,63-100,Ammonia sp.,0,0
+st6,63-100,Ammotium cassis,0,0
+st6,63-100,Astrononion gallowayi,0,0
+st6,63-100,Astrononion sp.,29,22.792559751431927
+st6,63-100,Baculogypsinoides sp.,0,0
+st6,63-100,Bolivina pseudopunctata,141,110.81899741213455
+st6,63-100,Buccella frigida,0,0
+st6,63-100,Buccella sp.,0,0
+st6,63-100,Capsammina bowmanni,0,0
+st6,63-100,Cassidulina neoteretis,0,0
+st6,63-100,Cassidulina reniforme,72,56.588424210451684
+st6,63-100,Cassidulina sp.,0,0
+st6,63-100,Cassidulina sp. morphotype 1,0,0
+st6,63-100,Cassidulina sp. morphotype 2,0,0
+st6,63-100,Cibicidoides lobatulus,0,0
+st6,63-100,Cornuspira foliacea,0,0
+st6,63-100,Cornuspira involvens,11,8.645453698819008
+st6,63-100,Cornuspira sp.,0,0
+st6,63-100,Cuneata arctica,504,396.11896947316177
+st6,63-100,Dentalina ittai,0,0
+st6,63-100,Discorbina sp.,0,0
+st6,63-100,Discorbinella bertheloti,0,0
+st6,63-100,Eggerella advena,61,47.94297051163267
+st6,63-100,Elphidium bartletti,0,0
+st6,63-100,Elphidium clavatum,0,0
+st6,63-100,Elphidium sp.,11,8.645453698819008
+st6,63-100,Epistominella exigua,243,190.98593171027443
+st6,63-100,Eponides sp.,0,0
+st6,63-100,Fissurina sp.,19,14.933056388869193
+st6,63-100,Globobulimina auriculata,0,0
+st6,63-100,Globobulimina sp.,0,0
+st6,63-100,Globocassidulina sp.,0,0
+st6,63-100,Glomospira sp.,3,2.35785100876882
+st6,63-100,Haplophragmoides sp.,3,2.35785100876882
+st6,63-100,Hippocrepina sp. ,0,0
+st6,63-100,Hormosina globulifera,0,0
+st6,63-100,Hyalinonetrion sp.,0,0
+st6,63-100,Islandiella helenae,3,2.35785100876882
+st6,63-100,Islandiella norcrossi,0,0
+st6,63-100,Islandiella sp.,40,31.438013450250935
+st6,63-100,Labrospira crassimargo,0,0
+st6,63-100,Lagena striata,0,0
+st6,63-100,Lagenammina atlantica,91,71.52148059932088
+st6,63-100,Leptohalysis scottii ,3,2.35785100876882
+st6,63-100,Lotostomoides calomorpha,0,0
+st6,63-100,Melonis cf. barleeanus,629,494.36276150519586
+st6,63-100,Miliolinella circularis,0,0
+st6,63-100,Miliolinella sp.,0,0
+st6,63-100,Miliolinella sp. (juvenile),0,0
+st6,63-100,Nonion commune,0,0
+st6,63-100,Nonion sp.,0,0
+st6,63-100,Nonionella digitata,0,0
+st6,63-100,Nonionella turgida,0,0
+st6,63-100,Nonionellina labradorica,16,12.575205380100375
+st6,63-100,Paratrochammina sp.,3,2.35785100876882
+st6,63-100,Procerolagena gracilis,3,2.35785100876882
+st6,63-100,Psammosphaera fusca,0,0
+st6,63-100,Pullenia cf. osloensis,416,326.95533988260974
+st6,63-100,Pyrgo williamsoni,0,0
+st6,63-100,Pyrulina cylindroides,0,0
+st6,63-100,Pyrulina sp.,0,0
+st6,63-100,Quinqueloculina arctica,0,0
+st6,63-100,Quinqueloculina seminula,168,132.0396564910539
+st6,63-100,Quinqueloculina stalkeri,123,96.67189135952162
+st6,63-100,Recurvoides turbinatus,13,10.217354371331554
+st6,63-100,Reophax catella,99,77.80908328937106
+st6,63-100,Reophax fusiformis,8,6.287602690050187
+st6,63-100,Reophax scorpiurus,0,0
+st6,63-100,Reophax sp. ,0,0
+st6,63-100,Robertina arctica,0,0
+st6,63-100,Saccammina cf. sphaerica,0,0
+st6,63-100,Silicosigmoilina groenlandica,0,0
+st6,63-100,Siphonaperta agglutinata,0,0
+st6,63-100,Spiroplectammina biformis,429,337.17269425394124
+st6,63-100,Stainforthia feylingi,163,128.10990480977256
+st6,63-100,Stainforthia loeblichi,27,21.22065907891938
+st6,63-100,Textularia earlandi,445,349.74789963404163
+st6,63-100,Textularia torquata,125,98.24379203203416
+st6,63-100,Trifarina fluens,0,0
+st6,63-100,Triloculina oblonga,0,0
+st6,63-100,Triloculina trihedra,0,0
+st6,63-100,Trochammina inflata,0,0
+st6,63-100,Trochammina sp.,3,2.35785100876882
+st6,100-125,Adercotryma glomeratum,137,107.67519606710945
+st6,100-125,Ammodiscus sp.,8,6.287602690050187
+st6,100-125,Ammonia sp.,0,0
+st6,100-125,Ammotium cassis,0,0
+st6,100-125,Astrononion gallowayi,0,0
+st6,100-125,Astrononion sp.,7,5.501652353793913
+st6,100-125,Baculogypsinoides sp.,0,0
+st6,100-125,Bolivina pseudopunctata,8,6.287602690050187
+st6,100-125,Buccella frigida,0,0
+st6,100-125,Buccella sp.,0,0
+st6,100-125,Capsammina bowmanni,0,0
+st6,100-125,Cassidulina neoteretis,0,0
+st6,100-125,Cassidulina reniforme,32,25.15041076020075
+st6,100-125,Cassidulina sp.,0,0
+st6,100-125,Cassidulina sp. morphotype 1,0,0
+st6,100-125,Cassidulina sp. morphotype 2,1,0.7859503362562734
+st6,100-125,Cibicidoides lobatulus,2,1.5719006725125468
+st6,100-125,Cornuspira foliacea,0,0
+st6,100-125,Cornuspira involvens,0,0
+st6,100-125,Cornuspira sp.,0,0
+st6,100-125,Cuneata arctica,23,18.076857733894286
+st6,100-125,Dentalina ittai,0,0
+st6,100-125,Discorbina sp.,0,0
+st6,100-125,Discorbinella bertheloti,0,0
+st6,100-125,Eggerella advena,10,7.859503362562734
+st6,100-125,Elphidium bartletti,0,0
+st6,100-125,Elphidium clavatum,0,0
+st6,100-125,Elphidium sp.,2,1.5719006725125468
+st6,100-125,Epistominella exigua,15,11.7892550438441
+st6,100-125,Eponides sp.,0,0
+st6,100-125,Fissurina sp.,0,0
+st6,100-125,Globobulimina auriculata,0,0
+st6,100-125,Globobulimina sp.,0,0
+st6,100-125,Globocassidulina sp.,0,0
+st6,100-125,Glomospira sp.,8,6.287602690050187
+st6,100-125,Haplophragmoides sp.,0,0
+st6,100-125,Hippocrepina sp. ,0,0
+st6,100-125,Hormosina globulifera,0,0
+st6,100-125,Hyalinonetrion sp.,0,0
+st6,100-125,Islandiella helenae,3,2.35785100876882
+st6,100-125,Islandiella norcrossi,12,9.43140403507528
+st6,100-125,Islandiella sp.,3,2.35785100876882
+st6,100-125,Labrospira crassimargo,0,0
+st6,100-125,Lagena striata,0,0
+st6,100-125,Lagenammina atlantica,10,7.859503362562734
+st6,100-125,Leptohalysis scottii ,0,0
+st6,100-125,Lotostomoides calomorpha,0,0
+st6,100-125,Melonis cf. barleeanus,301,236.57105121313828
+st6,100-125,Miliolinella circularis,0,0
+st6,100-125,Miliolinella sp.,6,4.71570201753764
+st6,100-125,Miliolinella sp. (juvenile),0,0
+st6,100-125,Nonion commune,0,0
+st6,100-125,Nonion sp.,0,0
+st6,100-125,Nonionella digitata,0,0
+st6,100-125,Nonionella turgida,0,0
+st6,100-125,Nonionellina labradorica,29,22.792559751431927
+st6,100-125,Paratrochammina sp.,2,1.5719006725125468
+st6,100-125,Procerolagena gracilis,2,1.5719006725125468
+st6,100-125,Psammosphaera fusca,0,0
+st6,100-125,Pullenia cf. osloensis,366,287.65782306979605
+st6,100-125,Pyrgo williamsoni,0,0
+st6,100-125,Pyrulina cylindroides,0,0
+st6,100-125,Pyrulina sp.,0,0
+st6,100-125,Quinqueloculina arctica,0,0
+st6,100-125,Quinqueloculina seminula,24,18.86280807015056
+st6,100-125,Quinqueloculina stalkeri,10,7.859503362562734
+st6,100-125,Recurvoides turbinatus,8,6.287602690050187
+st6,100-125,Reophax catella,0,0
+st6,100-125,Reophax fusiformis,17,13.361155716356645
+st6,100-125,Reophax scorpiurus,0,0
+st6,100-125,Reophax sp. ,0,0
+st6,100-125,Robertina arctica,0,0
+st6,100-125,Saccammina cf. sphaerica,0,0
+st6,100-125,Silicosigmoilina groenlandica,1,0.7859503362562734
+st6,100-125,Siphonaperta agglutinata,1,0.7859503362562734
+st6,100-125,Spiroplectammina biformis,67,52.65867252917032
+st6,100-125,Stainforthia feylingi,0,0
+st6,100-125,Stainforthia loeblichi,22,17.290907397638016
+st6,100-125,Textularia earlandi,121,95.09999068700907
+st6,100-125,Textularia torquata,0,0
+st6,100-125,Trifarina fluens,0,0
+st6,100-125,Triloculina oblonga,0,0
+st6,100-125,Triloculina trihedra,0,0
+st6,100-125,Trochammina inflata,3,2.35785100876882
+st6,100-125,Trochammina sp.,0,0
+st6,125-150,Adercotryma glomeratum,176,138.32725918110413
+st6,125-150,Ammodiscus sp.,5,3.929751681281367
+st6,125-150,Ammonia sp.,0,0
+st6,125-150,Ammotium cassis,0,0
+st6,125-150,Astrononion gallowayi,0,0
+st6,125-150,Astrononion sp.,0,0
+st6,125-150,Baculogypsinoides sp.,0,0
+st6,125-150,Bolivina pseudopunctata,0,0
+st6,125-150,Buccella frigida,0,0
+st6,125-150,Buccella sp.,0,0
+st6,125-150,Capsammina bowmanni,6,4.71570201753764
+st6,125-150,Cassidulina neoteretis,0,0
+st6,125-150,Cassidulina reniforme,27,21.22065907891938
+st6,125-150,Cassidulina sp.,0,0
+st6,125-150,Cassidulina sp. morphotype 1,0,0
+st6,125-150,Cassidulina sp. morphotype 2,5,3.929751681281367
+st6,125-150,Cibicidoides lobatulus,0,0
+st6,125-150,Cornuspira foliacea,0,0
+st6,125-150,Cornuspira involvens,0,0
+st6,125-150,Cornuspira sp.,0,0
+st6,125-150,Cuneata arctica,1,0.7859503362562734
+st6,125-150,Dentalina ittai,0,0
+st6,125-150,Discorbina sp.,0,0
+st6,125-150,Discorbinella bertheloti,0,0
+st6,125-150,Eggerella advena,1,0.7859503362562734
+st6,125-150,Elphidium bartletti,0,0
+st6,125-150,Elphidium clavatum,0,0
+st6,125-150,Elphidium sp.,0,0
+st6,125-150,Epistominella exigua,4,3.1438013450250937
+st6,125-150,Eponides sp.,0,0
+st6,125-150,Fissurina sp.,0,0
+st6,125-150,Globobulimina auriculata,0,0
+st6,125-150,Globobulimina sp.,0,0
+st6,125-150,Globocassidulina sp.,0,0
+st6,125-150,Glomospira sp.,2,1.5719006725125468
+st6,125-150,Haplophragmoides sp.,0,0
+st6,125-150,Hippocrepina sp. ,1,0.7859503362562734
+st6,125-150,Hormosina globulifera,0,0
+st6,125-150,Hyalinonetrion sp.,0,0
+st6,125-150,Islandiella helenae,6,4.71570201753764
+st6,125-150,Islandiella norcrossi,4,3.1438013450250937
+st6,125-150,Islandiella sp.,14,11.003304707587827
+st6,125-150,Labrospira crassimargo,1,0.7859503362562734
+st6,125-150,Lagena striata,0,0
+st6,125-150,Lagenammina atlantica,22,17.290907397638016
+st6,125-150,Leptohalysis scottii ,0,0
+st6,125-150,Lotostomoides calomorpha,0,0
+st6,125-150,Melonis cf. barleeanus,17,13.361155716356645
+st6,125-150,Miliolinella circularis,0,0
+st6,125-150,Miliolinella sp.,3,2.35785100876882
+st6,125-150,Miliolinella sp. (juvenile),0,0
+st6,125-150,Nonion commune,0,0
+st6,125-150,Nonion sp.,0,0
+st6,125-150,Nonionella digitata,0,0
+st6,125-150,Nonionella turgida,0,0
+st6,125-150,Nonionellina labradorica,37,29.080162441482116
+st6,125-150,Paratrochammina sp.,0,0
+st6,125-150,Procerolagena gracilis,3,2.35785100876882
+st6,125-150,Psammosphaera fusca,1,0.7859503362562734
+st6,125-150,Pullenia cf. osloensis,18,14.147106052612921
+st6,125-150,Pyrgo williamsoni,0,0
+st6,125-150,Pyrulina cylindroides,0,0
+st6,125-150,Pyrulina sp.,0,0
+st6,125-150,Quinqueloculina arctica,0,0
+st6,125-150,Quinqueloculina seminula,8,6.287602690050187
+st6,125-150,Quinqueloculina stalkeri,13,10.217354371331554
+st6,125-150,Recurvoides turbinatus,5,3.929751681281367
+st6,125-150,Reophax catella,0,0
+st6,125-150,Reophax fusiformis,26,20.43470874266311
+st6,125-150,Reophax scorpiurus,0,0
+st6,125-150,Reophax sp. ,0,0
+st6,125-150,Robertina arctica,0,0
+st6,125-150,Saccammina cf. sphaerica,0,0
+st6,125-150,Silicosigmoilina groenlandica,3,2.35785100876882
+st6,125-150,Siphonaperta agglutinata,1,0.7859503362562734
+st6,125-150,Spiroplectammina biformis,1,0.7859503362562734
+st6,125-150,Stainforthia feylingi,0,0
+st6,125-150,Stainforthia loeblichi,10,7.859503362562734
+st6,125-150,Textularia earlandi,1,0.7859503362562734
+st6,125-150,Textularia torquata,0,0
+st6,125-150,Trifarina fluens,1,0.7859503362562734
+st6,125-150,Triloculina oblonga,0,0
+st6,125-150,Triloculina trihedra,3,2.35785100876882
+st6,125-150,Trochammina inflata,1,0.7859503362562734
+st6,125-150,Trochammina sp.,2,1.5719006725125468
+st6,>150,Adercotryma glomeratum,234,183.91237868396794
+st6,>150,Ammodiscus sp.,4,3.1438013450250937
+st6,>150,Ammonia sp.,0,0
+st6,>150,Ammotium cassis,3,2.35785100876882
+st6,>150,Astrononion gallowayi,0,0
+st6,>150,Astrononion sp.,0,0
+st6,>150,Baculogypsinoides sp.,0,0
+st6,>150,Bolivina pseudopunctata,0,0
+st6,>150,Buccella frigida,0,0
+st6,>150,Buccella sp.,0,0
+st6,>150,Capsammina bowmanni,0,0
+st6,>150,Cassidulina neoteretis,1,0.7859503362562734
+st6,>150,Cassidulina reniforme,15,11.7892550438441
+st6,>150,Cassidulina sp.,0,0
+st6,>150,Cassidulina sp. morphotype 1,11,8.645453698819008
+st6,>150,Cassidulina sp. morphotype 2,37,29.080162441482116
+st6,>150,Cibicidoides lobatulus,0,0
+st6,>150,Cornuspira foliacea,0,0
+st6,>150,Cornuspira involvens,0,0
+st6,>150,Cornuspira sp.,1,0.7859503362562734
+st6,>150,Cuneata arctica,0,0
+st6,>150,Dentalina ittai,0,0
+st6,>150,Discorbina sp.,0,0
+st6,>150,Discorbinella bertheloti,0,0
+st6,>150,Eggerella advena,0,0
+st6,>150,Elphidium bartletti,0,0
+st6,>150,Elphidium clavatum,0,0
+st6,>150,Elphidium sp.,0,0
+st6,>150,Epistominella exigua,2,1.5719006725125468
+st6,>150,Eponides sp.,0,0
+st6,>150,Fissurina sp.,0,0
+st6,>150,Globobulimina auriculata,6,4.71570201753764
+st6,>150,Globobulimina sp.,0,0
+st6,>150,Globocassidulina sp.,0,0
+st6,>150,Glomospira sp.,1,0.7859503362562734
+st6,>150,Haplophragmoides sp.,1,0.7859503362562734
+st6,>150,Hippocrepina sp. ,0,0
+st6,>150,Hormosina globulifera,2,1.5719006725125468
+st6,>150,Hyalinonetrion sp.,0,0
+st6,>150,Islandiella helenae,26,20.43470874266311
+st6,>150,Islandiella norcrossi,25,19.648758406406834
+st6,>150,Islandiella sp.,7,5.501652353793913
+st6,>150,Labrospira crassimargo,42,33.009914122763476
+st6,>150,Lagena striata,0,0
+st6,>150,Lagenammina atlantica,4,3.1438013450250937
+st6,>150,Leptohalysis scottii ,0,0
+st6,>150,Lotostomoides calomorpha,0,0
+st6,>150,Melonis cf. barleeanus,0,0
+st6,>150,Miliolinella circularis,0,0
+st6,>150,Miliolinella sp.,9,7.0735530263064605
+st6,>150,Miliolinella sp. (juvenile),0,0
+st6,>150,Nonion commune,0,0
+st6,>150,Nonion sp.,0,0
+st6,>150,Nonionella digitata,0,0
+st6,>150,Nonionella turgida,0,0
+st6,>150,Nonionellina labradorica,102,80.16693429813988
+st6,>150,Paratrochammina sp.,0,0
+st6,>150,Procerolagena gracilis,0,0
+st6,>150,Psammosphaera fusca,0,0
+st6,>150,Pullenia cf. osloensis,0,0
+st6,>150,Pyrgo williamsoni,13,10.217354371331554
+st6,>150,Pyrulina cylindroides,0,0
+st6,>150,Pyrulina sp.,0,0
+st6,>150,Quinqueloculina arctica,1,0.7859503362562734
+st6,>150,Quinqueloculina seminula,45,35.367765131532295
+st6,>150,Quinqueloculina stalkeri,31,24.36446042394447
+st6,>150,Recurvoides turbinatus,41,32.223963786507205
+st6,>150,Reophax catella,0,0
+st6,>150,Reophax fusiformis,65,51.08677185665776
+st6,>150,Reophax scorpiurus,5,3.929751681281367
+st6,>150,Reophax sp. ,0,0
+st6,>150,Robertina arctica,1,0.7859503362562734
+st6,>150,Saccammina cf. sphaerica,0,0
+st6,>150,Silicosigmoilina groenlandica,1,0.7859503362562734
+st6,>150,Siphonaperta agglutinata,17,13.361155716356645
+st6,>150,Spiroplectammina biformis,0,0
+st6,>150,Stainforthia feylingi,0,0
+st6,>150,Stainforthia loeblichi,1,0.7859503362562734
+st6,>150,Textularia earlandi,0,0
+st6,>150,Textularia torquata,0,0
+st6,>150,Trifarina fluens,3,2.35785100876882
+st6,>150,Triloculina oblonga,0,0
+st6,>150,Triloculina trihedra,2,1.5719006725125468
+st6,>150,Trochammina inflata,0,0
+st6,>150,Trochammina sp.,0,0
+st7,63-100,Adercotryma glomeratum,0,0
+st7,63-100,Ammodiscus sp.,0,0
+st7,63-100,Ammonia sp.,0,0
+st7,63-100,Ammotium cassis,0,0
+st7,63-100,Astrononion gallowayi,0,0
+st7,63-100,Astrononion sp.,0,0
+st7,63-100,Baculogypsinoides sp.,0,0
+st7,63-100,Bolivina pseudopunctata,2,1.5719006725125468
+st7,63-100,Buccella frigida,0,0
+st7,63-100,Buccella sp.,0,0
+st7,63-100,Capsammina bowmanni,16,12.575205380100375
+st7,63-100,Cassidulina neoteretis,0,0
+st7,63-100,Cassidulina reniforme,212,166.62147128632995
+st7,63-100,Cassidulina sp.,0,0
+st7,63-100,Cassidulina sp. morphotype 1,0,0
+st7,63-100,Cassidulina sp. morphotype 2,0,0
+st7,63-100,Cibicidoides lobatulus,0,0
+st7,63-100,Cornuspira foliacea,0,0
+st7,63-100,Cornuspira involvens,0,0
+st7,63-100,Cornuspira sp.,0,0
+st7,63-100,Cuneata arctica,4,3.1438013450250937
+st7,63-100,Dentalina ittai,0,0
+st7,63-100,Discorbina sp.,0,0
+st7,63-100,Discorbinella bertheloti,0,0
+st7,63-100,Eggerella advena,0,0
+st7,63-100,Elphidium bartletti,0,0
+st7,63-100,Elphidium clavatum,0,0
+st7,63-100,Elphidium sp.,15,11.7892550438441
+st7,63-100,Epistominella exigua,0,0
+st7,63-100,Eponides sp.,0,0
+st7,63-100,Fissurina sp.,2,1.5719006725125468
+st7,63-100,Globobulimina auriculata,0,0
+st7,63-100,Globobulimina sp.,0,0
+st7,63-100,Globocassidulina sp.,1,0.7859503362562734
+st7,63-100,Glomospira sp.,0,0
+st7,63-100,Haplophragmoides sp.,0,0
+st7,63-100,Hippocrepina sp. ,0,0
+st7,63-100,Hormosina globulifera,0,0
+st7,63-100,Hyalinonetrion sp.,0,0
+st7,63-100,Islandiella helenae,0,0
+st7,63-100,Islandiella norcrossi,0,0
+st7,63-100,Islandiella sp.,0,0
+st7,63-100,Labrospira crassimargo,0,0
+st7,63-100,Lagena striata,0,0
+st7,63-100,Lagenammina atlantica,0,0
+st7,63-100,Leptohalysis scottii ,6,4.71570201753764
+st7,63-100,Lotostomoides calomorpha,0,0
+st7,63-100,Melonis cf. barleeanus,0,0
+st7,63-100,Miliolinella circularis,0,0
+st7,63-100,Miliolinella sp.,0,0
+st7,63-100,Miliolinella sp. (juvenile),0,0
+st7,63-100,Nonion commune,0,0
+st7,63-100,Nonion sp.,0,0
+st7,63-100,Nonionella digitata,0,0
+st7,63-100,Nonionella turgida,0,0
+st7,63-100,Nonionellina labradorica,0,0
+st7,63-100,Paratrochammina sp.,0,0
+st7,63-100,Procerolagena gracilis,0,0
+st7,63-100,Psammosphaera fusca,0,0
+st7,63-100,Pullenia cf. osloensis,0,0
+st7,63-100,Pyrgo williamsoni,0,0
+st7,63-100,Pyrulina cylindroides,8,6.287602690050187
+st7,63-100,Pyrulina sp.,0,0
+st7,63-100,Quinqueloculina arctica,0,0
+st7,63-100,Quinqueloculina seminula,0,0
+st7,63-100,Quinqueloculina stalkeri,42,33.009914122763476
+st7,63-100,Recurvoides turbinatus,0,0
+st7,63-100,Reophax catella,0,0
+st7,63-100,Reophax fusiformis,0,0
+st7,63-100,Reophax scorpiurus,0,0
+st7,63-100,Reophax sp. ,0,0
+st7,63-100,Robertina arctica,0,0
+st7,63-100,Saccammina cf. sphaerica,0,0
+st7,63-100,Silicosigmoilina groenlandica,0,0
+st7,63-100,Siphonaperta agglutinata,0,0
+st7,63-100,Spiroplectammina biformis,58,45.585119502863854
+st7,63-100,Stainforthia feylingi,62,48.72892084788894
+st7,63-100,Stainforthia loeblichi,0,0
+st7,63-100,Textularia earlandi,258,202.7751867541185
+st7,63-100,Textularia torquata,0,0
+st7,63-100,Trifarina fluens,0,0
+st7,63-100,Triloculina oblonga,2,1.5719006725125468
+st7,63-100,Triloculina trihedra,0,0
+st7,63-100,Trochammina inflata,0,0
+st7,63-100,Trochammina sp.,0,0
+st7,100-125,Adercotryma glomeratum,0,0
+st7,100-125,Ammodiscus sp.,0,0
+st7,100-125,Ammonia sp.,0,0
+st7,100-125,Ammotium cassis,0,0
+st7,100-125,Astrononion gallowayi,0,0
+st7,100-125,Astrononion sp.,0,0
+st7,100-125,Baculogypsinoides sp.,0,0
+st7,100-125,Bolivina pseudopunctata,0,0
+st7,100-125,Buccella frigida,0,0
+st7,100-125,Buccella sp.,0,0
+st7,100-125,Capsammina bowmanni,43,33.795864459019754
+st7,100-125,Cassidulina neoteretis,0,0
+st7,100-125,Cassidulina reniforme,113,88.81238799695889
+st7,100-125,Cassidulina sp.,0,0
+st7,100-125,Cassidulina sp. morphotype 1,0,0
+st7,100-125,Cassidulina sp. morphotype 2,0,0
+st7,100-125,Cibicidoides lobatulus,0,0
+st7,100-125,Cornuspira foliacea,0,0
+st7,100-125,Cornuspira involvens,0,0
+st7,100-125,Cornuspira sp.,0,0
+st7,100-125,Cuneata arctica,1,0.7859503362562734
+st7,100-125,Dentalina ittai,0,0
+st7,100-125,Discorbina sp.,0,0
+st7,100-125,Discorbinella bertheloti,0,0
+st7,100-125,Eggerella advena,0,0
+st7,100-125,Elphidium bartletti,0,0
+st7,100-125,Elphidium clavatum,0,0
+st7,100-125,Elphidium sp.,4,3.1438013450250937
+st7,100-125,Epistominella exigua,0,0
+st7,100-125,Eponides sp.,0,0
+st7,100-125,Fissurina sp.,0,0
+st7,100-125,Globobulimina auriculata,0,0
+st7,100-125,Globobulimina sp.,0,0
+st7,100-125,Globocassidulina sp.,0,0
+st7,100-125,Glomospira sp.,0,0
+st7,100-125,Haplophragmoides sp.,0,0
+st7,100-125,Hippocrepina sp. ,0,0
+st7,100-125,Hormosina globulifera,0,0
+st7,100-125,Hyalinonetrion sp.,0,0
+st7,100-125,Islandiella helenae,0,0
+st7,100-125,Islandiella norcrossi,0,0
+st7,100-125,Islandiella sp.,0,0
+st7,100-125,Labrospira crassimargo,0,0
+st7,100-125,Lagena striata,0,0
+st7,100-125,Lagenammina atlantica,0,0
+st7,100-125,Leptohalysis scottii ,1,0.7859503362562734
+st7,100-125,Lotostomoides calomorpha,0,0
+st7,100-125,Melonis cf. barleeanus,0,0
+st7,100-125,Miliolinella circularis,0,0
+st7,100-125,Miliolinella sp.,0,0
+st7,100-125,Miliolinella sp. (juvenile),0,0
+st7,100-125,Nonion commune,0,0
+st7,100-125,Nonion sp.,0,0
+st7,100-125,Nonionella digitata,0,0
+st7,100-125,Nonionella turgida,0,0
+st7,100-125,Nonionellina labradorica,1,0.7859503362562734
+st7,100-125,Paratrochammina sp.,0,0
+st7,100-125,Procerolagena gracilis,0,0
+st7,100-125,Psammosphaera fusca,0,0
+st7,100-125,Pullenia cf. osloensis,0,0
+st7,100-125,Pyrgo williamsoni,0,0
+st7,100-125,Pyrulina cylindroides,3,2.35785100876882
+st7,100-125,Pyrulina sp.,0,0
+st7,100-125,Quinqueloculina arctica,0,0
+st7,100-125,Quinqueloculina seminula,0,0
+st7,100-125,Quinqueloculina stalkeri,15,11.7892550438441
+st7,100-125,Recurvoides turbinatus,0,0
+st7,100-125,Reophax catella,0,0
+st7,100-125,Reophax fusiformis,0,0
+st7,100-125,Reophax scorpiurus,0,0
+st7,100-125,Reophax sp. ,0,0
+st7,100-125,Robertina arctica,0,0
+st7,100-125,Saccammina cf. sphaerica,0,0
+st7,100-125,Silicosigmoilina groenlandica,0,0
+st7,100-125,Siphonaperta agglutinata,0,0
+st7,100-125,Spiroplectammina biformis,12,9.43140403507528
+st7,100-125,Stainforthia feylingi,0,0
+st7,100-125,Stainforthia loeblichi,0,0
+st7,100-125,Textularia earlandi,78,61.30412622798932
+st7,100-125,Textularia torquata,0,0
+st7,100-125,Trifarina fluens,0,0
+st7,100-125,Triloculina oblonga,2,1.5719006725125468
+st7,100-125,Triloculina trihedra,0,0
+st7,100-125,Trochammina inflata,0,0
+st7,100-125,Trochammina sp.,0,0
+st7,125-150,Adercotryma glomeratum,0,0
+st7,125-150,Ammodiscus sp.,0,0
+st7,125-150,Ammonia sp.,0,0
+st7,125-150,Ammotium cassis,0,0
+st7,125-150,Astrononion gallowayi,7,5.501652353793913
+st7,125-150,Astrononion sp.,0,0
+st7,125-150,Baculogypsinoides sp.,0,0
+st7,125-150,Bolivina pseudopunctata,0,0
+st7,125-150,Buccella frigida,0,0
+st7,125-150,Buccella sp.,0,0
+st7,125-150,Capsammina bowmanni,368,289.2297237423086
+st7,125-150,Cassidulina neoteretis,0,0
+st7,125-150,Cassidulina reniforme,160,125.75205380100374
+st7,125-150,Cassidulina sp.,0,0
+st7,125-150,Cassidulina sp. morphotype 1,0,0
+st7,125-150,Cassidulina sp. morphotype 2,0,0
+st7,125-150,Cibicidoides lobatulus,0,0
+st7,125-150,Cornuspira foliacea,0,0
+st7,125-150,Cornuspira involvens,0,0
+st7,125-150,Cornuspira sp.,0,0
+st7,125-150,Cuneata arctica,0,0
+st7,125-150,Dentalina ittai,0,0
+st7,125-150,Discorbina sp.,0,0
+st7,125-150,Discorbinella bertheloti,0,0
+st7,125-150,Eggerella advena,0,0
+st7,125-150,Elphidium bartletti,0,0
+st7,125-150,Elphidium clavatum,14,11.003304707587827
+st7,125-150,Elphidium sp.,0,0
+st7,125-150,Epistominella exigua,0,0
+st7,125-150,Eponides sp.,0,0
+st7,125-150,Fissurina sp.,0,0
+st7,125-150,Globobulimina auriculata,0,0
+st7,125-150,Globobulimina sp.,0,0
+st7,125-150,Globocassidulina sp.,0,0
+st7,125-150,Glomospira sp.,0,0
+st7,125-150,Haplophragmoides sp.,0,0
+st7,125-150,Hippocrepina sp. ,0,0
+st7,125-150,Hormosina globulifera,0,0
+st7,125-150,Hyalinonetrion sp.,2,1.5719006725125468
+st7,125-150,Islandiella helenae,0,0
+st7,125-150,Islandiella norcrossi,0,0
+st7,125-150,Islandiella sp.,0,0
+st7,125-150,Labrospira crassimargo,0,0
+st7,125-150,Lagena striata,0,0
+st7,125-150,Lagenammina atlantica,0,0
+st7,125-150,Leptohalysis scottii ,0,0
+st7,125-150,Lotostomoides calomorpha,0,0
+st7,125-150,Melonis cf. barleeanus,0,0
+st7,125-150,Miliolinella circularis,0,0
+st7,125-150,Miliolinella sp.,0,0
+st7,125-150,Miliolinella sp. (juvenile),0,0
+st7,125-150,Nonion commune,0,0
+st7,125-150,Nonion sp.,0,0
+st7,125-150,Nonionella digitata,0,0
+st7,125-150,Nonionella turgida,0,0
+st7,125-150,Nonionellina labradorica,0,0
+st7,125-150,Paratrochammina sp.,0,0
+st7,125-150,Procerolagena gracilis,0,0
+st7,125-150,Psammosphaera fusca,0,0
+st7,125-150,Pullenia cf. osloensis,0,0
+st7,125-150,Pyrgo williamsoni,0,0
+st7,125-150,Pyrulina cylindroides,0,0
+st7,125-150,Pyrulina sp.,0,0
+st7,125-150,Quinqueloculina arctica,0,0
+st7,125-150,Quinqueloculina seminula,0,0
+st7,125-150,Quinqueloculina stalkeri,4,3.1438013450250937
+st7,125-150,Recurvoides turbinatus,0,0
+st7,125-150,Reophax catella,0,0
+st7,125-150,Reophax fusiformis,0,0
+st7,125-150,Reophax scorpiurus,0,0
+st7,125-150,Reophax sp. ,0,0
+st7,125-150,Robertina arctica,0,0
+st7,125-150,Saccammina cf. sphaerica,0,0
+st7,125-150,Silicosigmoilina groenlandica,0,0
+st7,125-150,Siphonaperta agglutinata,0,0
+st7,125-150,Spiroplectammina biformis,2,1.5719006725125468
+st7,125-150,Stainforthia feylingi,0,0
+st7,125-150,Stainforthia loeblichi,0,0
+st7,125-150,Textularia earlandi,3,2.35785100876882
+st7,125-150,Textularia torquata,0,0
+st7,125-150,Trifarina fluens,0,0
+st7,125-150,Triloculina oblonga,0,0
+st7,125-150,Triloculina trihedra,0,0
+st7,125-150,Trochammina inflata,0,0
+st7,125-150,Trochammina sp.,0,0
+st7,>150,Adercotryma glomeratum,0,0
+st7,>150,Ammodiscus sp.,0,0
+st7,>150,Ammonia sp.,0,0
+st7,>150,Ammotium cassis,0,0
+st7,>150,Astrononion gallowayi,0,0
+st7,>150,Astrononion sp.,0,0
+st7,>150,Baculogypsinoides sp.,0,0
+st7,>150,Bolivina pseudopunctata,0,0
+st7,>150,Buccella frigida,0,0
+st7,>150,Buccella sp.,0,0
+st7,>150,Capsammina bowmanni,167,131.25370615479767
+st7,>150,Cassidulina neoteretis,0,0
+st7,>150,Cassidulina reniforme,113,88.81238799695889
+st7,>150,Cassidulina sp.,0,0
+st7,>150,Cassidulina sp. morphotype 1,0,0
+st7,>150,Cassidulina sp. morphotype 2,0,0
+st7,>150,Cibicidoides lobatulus,0,0
+st7,>150,Cornuspira foliacea,0,0
+st7,>150,Cornuspira involvens,0,0
+st7,>150,Cornuspira sp.,0,0
+st7,>150,Cuneata arctica,0,0
+st7,>150,Dentalina ittai,0,0
+st7,>150,Discorbina sp.,0,0
+st7,>150,Discorbinella bertheloti,0,0
+st7,>150,Eggerella advena,0,0
+st7,>150,Elphidium bartletti,0,0
+st7,>150,Elphidium clavatum,3,2.35785100876882
+st7,>150,Elphidium sp.,0,0
+st7,>150,Epistominella exigua,0,0
+st7,>150,Eponides sp.,0,0
+st7,>150,Fissurina sp.,0,0
+st7,>150,Globobulimina auriculata,0,0
+st7,>150,Globobulimina sp.,0,0
+st7,>150,Globocassidulina sp.,0,0
+st7,>150,Glomospira sp.,0,0
+st7,>150,Haplophragmoides sp.,0,0
+st7,>150,Hippocrepina sp. ,0,0
+st7,>150,Hormosina globulifera,0,0
+st7,>150,Hyalinonetrion sp.,0,0
+st7,>150,Islandiella helenae,0,0
+st7,>150,Islandiella norcrossi,0,0
+st7,>150,Islandiella sp.,0,0
+st7,>150,Labrospira crassimargo,0,0
+st7,>150,Lagena striata,0,0
+st7,>150,Lagenammina atlantica,0,0
+st7,>150,Leptohalysis scottii ,0,0
+st7,>150,Lotostomoides calomorpha,0,0
+st7,>150,Melonis cf. barleeanus,0,0
+st7,>150,Miliolinella circularis,0,0
+st7,>150,Miliolinella sp.,0,0
+st7,>150,Miliolinella sp. (juvenile),0,0
+st7,>150,Nonion commune,0,0
+st7,>150,Nonion sp.,0,0
+st7,>150,Nonionella digitata,0,0
+st7,>150,Nonionella turgida,0,0
+st7,>150,Nonionellina labradorica,0,0
+st7,>150,Paratrochammina sp.,0,0
+st7,>150,Procerolagena gracilis,0,0
+st7,>150,Psammosphaera fusca,0,0
+st7,>150,Pullenia cf. osloensis,0,0
+st7,>150,Pyrgo williamsoni,0,0
+st7,>150,Pyrulina cylindroides,0,0
+st7,>150,Pyrulina sp.,0,0
+st7,>150,Quinqueloculina arctica,0,0
+st7,>150,Quinqueloculina seminula,0,0
+st7,>150,Quinqueloculina stalkeri,4,3.1438013450250937
+st7,>150,Recurvoides turbinatus,0,0
+st7,>150,Reophax catella,0,0
+st7,>150,Reophax fusiformis,1,0.7859503362562734
+st7,>150,Reophax scorpiurus,0,0
+st7,>150,Reophax sp. ,0,0
+st7,>150,Robertina arctica,4,3.1438013450250937
+st7,>150,Saccammina cf. sphaerica,2,1.5719006725125468
+st7,>150,Silicosigmoilina groenlandica,0,0
+st7,>150,Siphonaperta agglutinata,0,0
+st7,>150,Spiroplectammina biformis,0,0
+st7,>150,Stainforthia feylingi,0,0
+st7,>150,Stainforthia loeblichi,0,0
+st7,>150,Textularia earlandi,0,0
+st7,>150,Textularia torquata,0,0
+st7,>150,Trifarina fluens,0,0
+st7,>150,Triloculina oblonga,2,1.5719006725125468
+st7,>150,Triloculina trihedra,0,0
+st7,>150,Trochammina inflata,0,0
+st7,>150,Trochammina sp.,0,0
+st8,63-100,Adercotryma glomeratum,104,81.73883497065243
+st8,63-100,Ammodiscus sp.,0,0
+st8,63-100,Ammonia sp.,0,0
+st8,63-100,Ammotium cassis,0,0
+st8,63-100,Astrononion gallowayi,0,0
+st8,63-100,Astrononion sp.,237,186.2702296927368
+st8,63-100,Baculogypsinoides sp.,0,0
+st8,63-100,Bolivina pseudopunctata,365,286.87187273353976
+st8,63-100,Buccella frigida,0,0
+st8,63-100,Buccella sp.,0,0
+st8,63-100,Capsammina bowmanni,0,0
+st8,63-100,Cassidulina neoteretis,0,0
+st8,63-100,Cassidulina reniforme,211,165.8355209500737
+st8,63-100,Cassidulina sp.,0,0
+st8,63-100,Cassidulina sp. morphotype 1,0,0
+st8,63-100,Cassidulina sp. morphotype 2,3,2.35785100876882
+st8,63-100,Cibicidoides lobatulus,0,0
+st8,63-100,Cornuspira foliacea,0,0
+st8,63-100,Cornuspira involvens,5,3.929751681281367
+st8,63-100,Cornuspira sp.,0,0
+st8,63-100,Cuneata arctica,192,150.90246456120448
+st8,63-100,Dentalina ittai,0,0
+st8,63-100,Discorbina sp.,0,0
+st8,63-100,Discorbinella bertheloti,0,0
+st8,63-100,Eggerella advena,35,27.508261768969568
+st8,63-100,Elphidium bartletti,0,0
+st8,63-100,Elphidium clavatum,0,0
+st8,63-100,Elphidium sp.,8,6.287602690050187
+st8,63-100,Epistominella exigua,139,109.24709673962198
+st8,63-100,Eponides sp.,3,2.35785100876882
+st8,63-100,Fissurina sp.,51,40.08346714906994
+st8,63-100,Globobulimina auriculata,0,0
+st8,63-100,Globobulimina sp.,3,2.35785100876882
+st8,63-100,Globocassidulina sp.,0,0
+st8,63-100,Glomospira sp.,3,2.35785100876882
+st8,63-100,Haplophragmoides sp.,0,0
+st8,63-100,Hippocrepina sp. ,0,0
+st8,63-100,Hormosina globulifera,0,0
+st8,63-100,Hyalinonetrion sp.,0,0
+st8,63-100,Islandiella helenae,8,6.287602690050187
+st8,63-100,Islandiella norcrossi,0,0
+st8,63-100,Islandiella sp.,16,12.575205380100375
+st8,63-100,Labrospira crassimargo,3,2.35785100876882
+st8,63-100,Lagena striata,0,0
+st8,63-100,Lagenammina atlantica,32,25.15041076020075
+st8,63-100,Leptohalysis scottii ,0,0
+st8,63-100,Lotostomoides calomorpha,8,6.287602690050187
+st8,63-100,Melonis cf. barleeanus,277,217.70824314298773
+st8,63-100,Miliolinella circularis,0,0
+st8,63-100,Miliolinella sp.,0,0
+st8,63-100,Miliolinella sp. (juvenile),0,0
+st8,63-100,Nonion commune,0,0
+st8,63-100,Nonion sp.,0,0
+st8,63-100,Nonionella digitata,0,0
+st8,63-100,Nonionella turgida,0,0
+st8,63-100,Nonionellina labradorica,229,179.9826270026866
+st8,63-100,Paratrochammina sp.,0,0
+st8,63-100,Procerolagena gracilis,3,2.35785100876882
+st8,63-100,Psammosphaera fusca,0,0
+st8,63-100,Pullenia cf. osloensis,240,188.6280807015056
+st8,63-100,Pyrgo williamsoni,3,2.35785100876882
+st8,63-100,Pyrulina cylindroides,8,6.287602690050187
+st8,63-100,Pyrulina sp.,0,0
+st8,63-100,Quinqueloculina arctica,0,0
+st8,63-100,Quinqueloculina seminula,0,0
+st8,63-100,Quinqueloculina stalkeri,3,2.35785100876882
+st8,63-100,Recurvoides turbinatus,8,6.287602690050187
+st8,63-100,Reophax catella,45,35.367765131532295
+st8,63-100,Reophax fusiformis,3,2.35785100876882
+st8,63-100,Reophax scorpiurus,0,0
+st8,63-100,Reophax sp. ,3,2.35785100876882
+st8,63-100,Robertina arctica,0,0
+st8,63-100,Saccammina cf. sphaerica,0,0
+st8,63-100,Silicosigmoilina groenlandica,0,0
+st8,63-100,Siphonaperta agglutinata,0,0
+st8,63-100,Spiroplectammina biformis,379,297.8751774411276
+st8,63-100,Stainforthia feylingi,397,312.02228349374053
+st8,63-100,Stainforthia loeblichi,29,22.792559751431927
+st8,63-100,Textularia earlandi,293,230.28344852308805
+st8,63-100,Textularia torquata,13,10.217354371331554
+st8,63-100,Trifarina fluens,0,0
+st8,63-100,Triloculina oblonga,0,0
+st8,63-100,Triloculina trihedra,0,0
+st8,63-100,Trochammina inflata,0,0
+st8,63-100,Trochammina sp.,0,0
+st8,100-125,Adercotryma glomeratum,94,73.8793316080897
+st8,100-125,Ammodiscus sp.,9,7.0735530263064605
+st8,100-125,Ammonia sp.,0,0
+st8,100-125,Ammotium cassis,0,0
+st8,100-125,Astrononion gallowayi,8,6.287602690050187
+st8,100-125,Astrononion sp.,80,62.87602690050187
+st8,100-125,Baculogypsinoides sp.,0,0
+st8,100-125,Bolivina pseudopunctata,8,6.287602690050187
+st8,100-125,Buccella frigida,4,3.1438013450250937
+st8,100-125,Buccella sp.,0,0
+st8,100-125,Capsammina bowmanni,0,0
+st8,100-125,Cassidulina neoteretis,0,0
+st8,100-125,Cassidulina reniforme,34,26.72231143271329
+st8,100-125,Cassidulina sp.,0,0
+st8,100-125,Cassidulina sp. morphotype 1,0,0
+st8,100-125,Cassidulina sp. morphotype 2,7,5.501652353793913
+st8,100-125,Cibicidoides lobatulus,4,3.1438013450250937
+st8,100-125,Cornuspira foliacea,0,0
+st8,100-125,Cornuspira involvens,8,6.287602690050187
+st8,100-125,Cornuspira sp.,1,0.7859503362562734
+st8,100-125,Cuneata arctica,12,9.43140403507528
+st8,100-125,Dentalina ittai,0,0
+st8,100-125,Discorbina sp.,0,0
+st8,100-125,Discorbinella bertheloti,0,0
+st8,100-125,Eggerella advena,15,11.7892550438441
+st8,100-125,Elphidium bartletti,0,0
+st8,100-125,Elphidium clavatum,0,0
+st8,100-125,Elphidium sp.,0,0
+st8,100-125,Epistominella exigua,35,27.508261768969568
+st8,100-125,Eponides sp.,0,0
+st8,100-125,Fissurina sp.,0,0
+st8,100-125,Globobulimina auriculata,0,0
+st8,100-125,Globobulimina sp.,0,0
+st8,100-125,Globocassidulina sp.,0,0
+st8,100-125,Glomospira sp.,5,3.929751681281367
+st8,100-125,Haplophragmoides sp.,0,0
+st8,100-125,Hippocrepina sp. ,0,0
+st8,100-125,Hormosina globulifera,0,0
+st8,100-125,Hyalinonetrion sp.,0,0
+st8,100-125,Islandiella helenae,18,14.147106052612921
+st8,100-125,Islandiella norcrossi,12,9.43140403507528
+st8,100-125,Islandiella sp.,1,0.7859503362562734
+st8,100-125,Labrospira crassimargo,1,0.7859503362562734
+st8,100-125,Lagena striata,0,0
+st8,100-125,Lagenammina atlantica,7,5.501652353793913
+st8,100-125,Leptohalysis scottii ,0,0
+st8,100-125,Lotostomoides calomorpha,0,0
+st8,100-125,Melonis cf. barleeanus,275,216.13634247047514
+st8,100-125,Miliolinella circularis,0,0
+st8,100-125,Miliolinella sp.,0,0
+st8,100-125,Miliolinella sp. (juvenile),0,0
+st8,100-125,Nonion commune,0,0
+st8,100-125,Nonion sp.,0,0
+st8,100-125,Nonionella digitata,0,0
+st8,100-125,Nonionella turgida,5,3.929751681281367
+st8,100-125,Nonionellina labradorica,261,205.13303776288737
+st8,100-125,Paratrochammina sp.,0,0
+st8,100-125,Procerolagena gracilis,12,9.43140403507528
+st8,100-125,Psammosphaera fusca,0,0
+st8,100-125,Pullenia cf. osloensis,306,240.50080289441965
+st8,100-125,Pyrgo williamsoni,23,18.076857733894286
+st8,100-125,Pyrulina cylindroides,0,0
+st8,100-125,Pyrulina sp.,4,3.1438013450250937
+st8,100-125,Quinqueloculina arctica,0,0
+st8,100-125,Quinqueloculina seminula,0,0
+st8,100-125,Quinqueloculina stalkeri,25,19.648758406406834
+st8,100-125,Recurvoides turbinatus,0,0
+st8,100-125,Reophax catella,0,0
+st8,100-125,Reophax fusiformis,34,26.72231143271329
+st8,100-125,Reophax scorpiurus,0,0
+st8,100-125,Reophax sp. ,0,0
+st8,100-125,Robertina arctica,0,0
+st8,100-125,Saccammina cf. sphaerica,0,0
+st8,100-125,Silicosigmoilina groenlandica,0,0
+st8,100-125,Siphonaperta agglutinata,0,0
+st8,100-125,Spiroplectammina biformis,77,60.51817589173305
+st8,100-125,Stainforthia feylingi,0,0
+st8,100-125,Stainforthia loeblichi,80,62.87602690050187
+st8,100-125,Textularia earlandi,52,40.86941748532622
+st8,100-125,Textularia torquata,0,0
+st8,100-125,Trifarina fluens,0,0
+st8,100-125,Triloculina oblonga,0,0
+st8,100-125,Triloculina trihedra,0,0
+st8,100-125,Trochammina inflata,0,0
+st8,100-125,Trochammina sp.,0,0
+st8,125-150,Adercotryma glomeratum,155,121.82230211972237
+st8,125-150,Ammodiscus sp.,0,0
+st8,125-150,Ammonia sp.,0,0
+st8,125-150,Ammotium cassis,0,0
+st8,125-150,Astrononion gallowayi,74,58.16032488296423
+st8,125-150,Astrononion sp.,1,0.7859503362562734
+st8,125-150,Baculogypsinoides sp.,0,0
+st8,125-150,Bolivina pseudopunctata,0,0
+st8,125-150,Buccella frigida,0,0
+st8,125-150,Buccella sp.,2,1.5719006725125468
+st8,125-150,Capsammina bowmanni,0,0
+st8,125-150,Cassidulina neoteretis,0,0
+st8,125-150,Cassidulina reniforme,57,44.79916916660758
+st8,125-150,Cassidulina sp.,0,0
+st8,125-150,Cassidulina sp. morphotype 1,0,0
+st8,125-150,Cassidulina sp. morphotype 2,6,4.71570201753764
+st8,125-150,Cibicidoides lobatulus,6,4.71570201753764
+st8,125-150,Cornuspira foliacea,0,0
+st8,125-150,Cornuspira involvens,3,2.35785100876882
+st8,125-150,Cornuspira sp.,2,1.5719006725125468
+st8,125-150,Cuneata arctica,0,0
+st8,125-150,Dentalina ittai,0,0
+st8,125-150,Discorbina sp.,0,0
+st8,125-150,Discorbinella bertheloti,2,1.5719006725125468
+st8,125-150,Eggerella advena,0,0
+st8,125-150,Elphidium bartletti,0,0
+st8,125-150,Elphidium clavatum,0,0
+st8,125-150,Elphidium sp.,0,0
+st8,125-150,Epistominella exigua,8,6.287602690050187
+st8,125-150,Eponides sp.,0,0
+st8,125-150,Fissurina sp.,0,0
+st8,125-150,Globobulimina auriculata,0,0
+st8,125-150,Globobulimina sp.,12,9.43140403507528
+st8,125-150,Globocassidulina sp.,1,0.7859503362562734
+st8,125-150,Glomospira sp.,3,2.35785100876882
+st8,125-150,Haplophragmoides sp.,0,0
+st8,125-150,Hippocrepina sp. ,2,1.5719006725125468
+st8,125-150,Hormosina globulifera,0,0
+st8,125-150,Hyalinonetrion sp.,0,0
+st8,125-150,Islandiella helenae,9,7.0735530263064605
+st8,125-150,Islandiella norcrossi,1,0.7859503362562734
+st8,125-150,Islandiella sp.,20,15.719006725125467
+st8,125-150,Labrospira crassimargo,0,0
+st8,125-150,Lagena striata,4,3.1438013450250937
+st8,125-150,Lagenammina atlantica,16,12.575205380100375
+st8,125-150,Leptohalysis scottii ,0,0
+st8,125-150,Lotostomoides calomorpha,0,0
+st8,125-150,Melonis cf. barleeanus,65,51.08677185665776
+st8,125-150,Miliolinella circularis,2,1.5719006725125468
+st8,125-150,Miliolinella sp.,2,1.5719006725125468
+st8,125-150,Miliolinella sp. (juvenile),0,0
+st8,125-150,Nonion commune,0,0
+st8,125-150,Nonion sp.,0,0
+st8,125-150,Nonionella digitata,2,1.5719006725125468
+st8,125-150,Nonionella turgida,0,0
+st8,125-150,Nonionellina labradorica,245,192.55783238278696
+st8,125-150,Paratrochammina sp.,0,0
+st8,125-150,Procerolagena gracilis,2,1.5719006725125468
+st8,125-150,Psammosphaera fusca,4,3.1438013450250937
+st8,125-150,Pullenia cf. osloensis,53,41.65536782158249
+st8,125-150,Pyrgo williamsoni,34,26.72231143271329
+st8,125-150,Pyrulina cylindroides,0,0
+st8,125-150,Pyrulina sp.,2,1.5719006725125468
+st8,125-150,Quinqueloculina arctica,0,0
+st8,125-150,Quinqueloculina seminula,8,6.287602690050187
+st8,125-150,Quinqueloculina stalkeri,25,19.648758406406834
+st8,125-150,Recurvoides turbinatus,7,5.501652353793913
+st8,125-150,Reophax catella,0,0
+st8,125-150,Reophax fusiformis,17,13.361155716356645
+st8,125-150,Reophax scorpiurus,0,0
+st8,125-150,Reophax sp. ,0,0
+st8,125-150,Robertina arctica,2,1.5719006725125468
+st8,125-150,Saccammina cf. sphaerica,0,0
+st8,125-150,Silicosigmoilina groenlandica,0,0
+st8,125-150,Siphonaperta agglutinata,5,3.929751681281367
+st8,125-150,Spiroplectammina biformis,0,0
+st8,125-150,Stainforthia feylingi,0,0
+st8,125-150,Stainforthia loeblichi,33,25.936361096457023
+st8,125-150,Textularia earlandi,0,0
+st8,125-150,Textularia torquata,0,0
+st8,125-150,Trifarina fluens,3,2.35785100876882
+st8,125-150,Triloculina oblonga,0,0
+st8,125-150,Triloculina trihedra,0,0
+st8,125-150,Trochammina inflata,4,3.1438013450250937
+st8,125-150,Trochammina sp.,0,0
+st8,>150,Adercotryma glomeratum,1069,840.1809094579562
+st8,>150,Ammodiscus sp.,1,0.7859503362562734
+st8,>150,Ammonia sp.,1,0.7859503362562734
+st8,>150,Ammotium cassis,10,7.859503362562734
+st8,>150,Astrononion gallowayi,53,41.65536782158249
+st8,>150,Astrononion sp.,0,0
+st8,>150,Baculogypsinoides sp.,0,0
+st8,>150,Bolivina pseudopunctata,1,0.7859503362562734
+st8,>150,Buccella frigida,0,0
+st8,>150,Buccella sp.,3,2.35785100876882
+st8,>150,Capsammina bowmanni,0,0
+st8,>150,Cassidulina neoteretis,1,0.7859503362562734
+st8,>150,Cassidulina reniforme,45,35.367765131532295
+st8,>150,Cassidulina sp.,0,0
+st8,>150,Cassidulina sp. morphotype 1,8,6.287602690050187
+st8,>150,Cassidulina sp. morphotype 2,50,39.29751681281367
+st8,>150,Cibicidoides lobatulus,5,3.929751681281367
+st8,>150,Cornuspira foliacea,0,0
+st8,>150,Cornuspira involvens,0,0
+st8,>150,Cornuspira sp.,0,0
+st8,>150,Cuneata arctica,0,0
+st8,>150,Dentalina ittai,0,0
+st8,>150,Discorbina sp.,0,0
+st8,>150,Discorbinella bertheloti,6,4.71570201753764
+st8,>150,Eggerella advena,0,0
+st8,>150,Elphidium bartletti,3,2.35785100876882
+st8,>150,Elphidium clavatum,2,1.5719006725125468
+st8,>150,Elphidium sp.,0,0
+st8,>150,Epistominella exigua,3,2.35785100876882
+st8,>150,Eponides sp.,0,0
+st8,>150,Fissurina sp.,5,3.929751681281367
+st8,>150,Globobulimina auriculata,14,11.003304707587827
+st8,>150,Globobulimina sp.,0,0
+st8,>150,Globocassidulina sp.,0,0
+st8,>150,Glomospira sp.,0,0
+st8,>150,Haplophragmoides sp.,3,2.35785100876882
+st8,>150,Hippocrepina sp. ,1,0.7859503362562734
+st8,>150,Hormosina globulifera,0,0
+st8,>150,Hyalinonetrion sp.,0,0
+st8,>150,Islandiella helenae,23,18.076857733894286
+st8,>150,Islandiella norcrossi,8,6.287602690050187
+st8,>150,Islandiella sp.,28,22.006609415175653
+st8,>150,Labrospira crassimargo,112,88.02643766070261
+st8,>150,Lagena striata,0,0
+st8,>150,Lagenammina atlantica,6,4.71570201753764
+st8,>150,Leptohalysis scottii ,0,0
+st8,>150,Lotostomoides calomorpha,0,0
+st8,>150,Melonis cf. barleeanus,0,0
+st8,>150,Miliolinella circularis,0,0
+st8,>150,Miliolinella sp.,2,1.5719006725125468
+st8,>150,Miliolinella sp. (juvenile),0,0
+st8,>150,Nonion commune,0,0
+st8,>150,Nonion sp.,0,0
+st8,>150,Nonionella digitata,1,0.7859503362562734
+st8,>150,Nonionella turgida,1,0.7859503362562734
+st8,>150,Nonionellina labradorica,433,340.31649559896636
+st8,>150,Paratrochammina sp.,0,0
+st8,>150,Procerolagena gracilis,0,0
+st8,>150,Psammosphaera fusca,2,1.5719006725125468
+st8,>150,Pullenia cf. osloensis,1,0.7859503362562734
+st8,>150,Pyrgo williamsoni,21,16.504957061381738
+st8,>150,Pyrulina cylindroides,0,0
+st8,>150,Pyrulina sp.,0,0
+st8,>150,Quinqueloculina arctica,8,6.287602690050187
+st8,>150,Quinqueloculina seminula,37,29.080162441482116
+st8,>150,Quinqueloculina stalkeri,14,11.003304707587827
+st8,>150,Recurvoides turbinatus,16,12.575205380100375
+st8,>150,Reophax catella,0,0
+st8,>150,Reophax fusiformis,129,101.38759337705925
+st8,>150,Reophax scorpiurus,45,35.367765131532295
+st8,>150,Reophax sp. ,0,0
+st8,>150,Robertina arctica,8,6.287602690050187
+st8,>150,Saccammina cf. sphaerica,0,0
+st8,>150,Silicosigmoilina groenlandica,0,0
+st8,>150,Siphonaperta agglutinata,44,34.58181479527603
+st8,>150,Spiroplectammina biformis,0,0
+st8,>150,Stainforthia feylingi,0,0
+st8,>150,Stainforthia loeblichi,0,0
+st8,>150,Textularia earlandi,0,0
+st8,>150,Textularia torquata,0,0
+st8,>150,Trifarina fluens,1,0.7859503362562734
+st8,>150,Triloculina oblonga,0,0
+st8,>150,Triloculina trihedra,0,0
+st8,>150,Trochammina inflata,1,0.7859503362562734
+st8,>150,Trochammina sp.,0,0
+st9,63-100,Adercotryma glomeratum,109,85.6685866519338
+st9,63-100,Ammodiscus sp.,0,0
+st9,63-100,Ammonia sp.,0,0
+st9,63-100,Ammotium cassis,0,0
+st9,63-100,Astrononion gallowayi,0,0
+st9,63-100,Astrononion sp.,97,76.23718261685852
+st9,63-100,Baculogypsinoides sp.,0,0
+st9,63-100,Bolivina pseudopunctata,441,346.6040982890165
+st9,63-100,Buccella frigida,0,0
+st9,63-100,Buccella sp.,0,0
+st9,63-100,Capsammina bowmanni,0,0
+st9,63-100,Cassidulina neoteretis,0,0
+st9,63-100,Cassidulina reniforme,271,212.9925411254501
+st9,63-100,Cassidulina sp.,0,0
+st9,63-100,Cassidulina sp. morphotype 1,0,0
+st9,63-100,Cassidulina sp. morphotype 2,0,0
+st9,63-100,Cibicidoides lobatulus,7,5.501652353793913
+st9,63-100,Cornuspira foliacea,0,0
+st9,63-100,Cornuspira involvens,4,3.1438013450250937
+st9,63-100,Cornuspira sp.,4,3.1438013450250937
+st9,63-100,Cuneata arctica,109,85.6685866519338
+st9,63-100,Dentalina ittai,0,0
+st9,63-100,Discorbina sp.,3,2.35785100876882
+st9,63-100,Discorbinella bertheloti,4,3.1438013450250937
+st9,63-100,Eggerella advena,11,8.645453698819008
+st9,63-100,Elphidium bartletti,0,0
+st9,63-100,Elphidium clavatum,0,0
+st9,63-100,Elphidium sp.,0,0
+st9,63-100,Epistominella exigua,109,85.6685866519338
+st9,63-100,Eponides sp.,0,0
+st9,63-100,Fissurina sp.,0,0
+st9,63-100,Globobulimina auriculata,0,0
+st9,63-100,Globobulimina sp.,0,0
+st9,63-100,Globocassidulina sp.,4,3.1438013450250937
+st9,63-100,Glomospira sp.,9,7.0735530263064605
+st9,63-100,Haplophragmoides sp.,0,0
+st9,63-100,Hippocrepina sp. ,0,0
+st9,63-100,Hormosina globulifera,0,0
+st9,63-100,Hyalinonetrion sp.,0,0
+st9,63-100,Islandiella helenae,16,12.575205380100375
+st9,63-100,Islandiella norcrossi,0,0
+st9,63-100,Islandiella sp.,23,18.076857733894286
+st9,63-100,Labrospira crassimargo,0,0
+st9,63-100,Lagena striata,0,0
+st9,63-100,Lagenammina atlantica,45,35.367765131532295
+st9,63-100,Leptohalysis scottii ,4,3.1438013450250937
+st9,63-100,Lotostomoides calomorpha,0,0
+st9,63-100,Melonis cf. barleeanus,195,153.2603155699733
+st9,63-100,Miliolinella circularis,0,0
+st9,63-100,Miliolinella sp.,0,0
+st9,63-100,Miliolinella sp. (juvenile),24,18.86280807015056
+st9,63-100,Nonion commune,0,0
+st9,63-100,Nonion sp.,0,0
+st9,63-100,Nonionella digitata,0,0
+st9,63-100,Nonionella turgida,0,0
+st9,63-100,Nonionellina labradorica,57,44.79916916660758
+st9,63-100,Paratrochammina sp.,3,2.35785100876882
+st9,63-100,Procerolagena gracilis,0,0
+st9,63-100,Psammosphaera fusca,0,0
+st9,63-100,Pullenia cf. osloensis,205,161.11981893253605
+st9,63-100,Pyrgo williamsoni,0,0
+st9,63-100,Pyrulina cylindroides,3,2.35785100876882
+st9,63-100,Pyrulina sp.,0,0
+st9,63-100,Quinqueloculina arctica,0,0
+st9,63-100,Quinqueloculina seminula,0,0
+st9,63-100,Quinqueloculina stalkeri,7,5.501652353793913
+st9,63-100,Recurvoides turbinatus,0,0
+st9,63-100,Reophax catella,139,109.24709673962198
+st9,63-100,Reophax fusiformis,73,57.374374546707955
+st9,63-100,Reophax scorpiurus,0,0
+st9,63-100,Reophax sp. ,0,0
+st9,63-100,Robertina arctica,0,0
+st9,63-100,Saccammina cf. sphaerica,0,0
+st9,63-100,Silicosigmoilina groenlandica,0,0
+st9,63-100,Siphonaperta agglutinata,0,0
+st9,63-100,Spiroplectammina biformis,57,44.79916916660758
+st9,63-100,Stainforthia feylingi,425,334.0288929089162
+st9,63-100,Stainforthia loeblichi,5,3.929751681281367
+st9,63-100,Textularia earlandi,57,44.79916916660758
+st9,63-100,Textularia torquata,45,35.367765131532295
+st9,63-100,Trifarina fluens,0,0
+st9,63-100,Triloculina oblonga,0,0
+st9,63-100,Triloculina trihedra,0,0
+st9,63-100,Trochammina inflata,20,15.719006725125467
+st9,63-100,Trochammina sp.,0,0
+st9,100-125,Adercotryma glomeratum,54,42.44131815783876
+st9,100-125,Ammodiscus sp.,5,3.929751681281367
+st9,100-125,Ammonia sp.,0,0
+st9,100-125,Ammotium cassis,0,0
+st9,100-125,Astrononion gallowayi,0,0
+st9,100-125,Astrononion sp.,14,11.003304707587827
+st9,100-125,Baculogypsinoides sp.,0,0
+st9,100-125,Bolivina pseudopunctata,6,4.71570201753764
+st9,100-125,Buccella frigida,1,0.7859503362562734
+st9,100-125,Buccella sp.,0,0
+st9,100-125,Capsammina bowmanni,0,0
+st9,100-125,Cassidulina neoteretis,0,0
+st9,100-125,Cassidulina reniforme,58,45.585119502863854
+st9,100-125,Cassidulina sp.,0,0
+st9,100-125,Cassidulina sp. morphotype 1,0,0
+st9,100-125,Cassidulina sp. morphotype 2,2,1.5719006725125468
+st9,100-125,Cibicidoides lobatulus,14,11.003304707587827
+st9,100-125,Cornuspira foliacea,0,0
+st9,100-125,Cornuspira involvens,0,0
+st9,100-125,Cornuspira sp.,0,0
+st9,100-125,Cuneata arctica,10,7.859503362562734
+st9,100-125,Dentalina ittai,0,0
+st9,100-125,Discorbina sp.,0,0
+st9,100-125,Discorbinella bertheloti,1,0.7859503362562734
+st9,100-125,Eggerella advena,3,2.35785100876882
+st9,100-125,Elphidium bartletti,0,0
+st9,100-125,Elphidium clavatum,0,0
+st9,100-125,Elphidium sp.,0,0
+st9,100-125,Epistominella exigua,16,12.575205380100375
+st9,100-125,Eponides sp.,0,0
+st9,100-125,Fissurina sp.,0,0
+st9,100-125,Globobulimina auriculata,0,0
+st9,100-125,Globobulimina sp.,0,0
+st9,100-125,Globocassidulina sp.,0,0
+st9,100-125,Glomospira sp.,2,1.5719006725125468
+st9,100-125,Haplophragmoides sp.,2,1.5719006725125468
+st9,100-125,Hippocrepina sp. ,1,0.7859503362562734
+st9,100-125,Hormosina globulifera,0,0
+st9,100-125,Hyalinonetrion sp.,0,0
+st9,100-125,Islandiella helenae,3,2.35785100876882
+st9,100-125,Islandiella norcrossi,0,0
+st9,100-125,Islandiella sp.,10,7.859503362562734
+st9,100-125,Labrospira crassimargo,0,0
+st9,100-125,Lagena striata,0,0
+st9,100-125,Lagenammina atlantica,26,20.43470874266311
+st9,100-125,Leptohalysis scottii ,0,0
+st9,100-125,Lotostomoides calomorpha,0,0
+st9,100-125,Melonis cf. barleeanus,61,47.94297051163267
+st9,100-125,Miliolinella circularis,0,0
+st9,100-125,Miliolinella sp.,0,0
+st9,100-125,Miliolinella sp. (juvenile),0,0
+st9,100-125,Nonion commune,1,0.7859503362562734
+st9,100-125,Nonion sp.,0,0
+st9,100-125,Nonionella digitata,0,0
+st9,100-125,Nonionella turgida,0,0
+st9,100-125,Nonionellina labradorica,67,52.65867252917032
+st9,100-125,Paratrochammina sp.,2,1.5719006725125468
+st9,100-125,Procerolagena gracilis,0,0
+st9,100-125,Psammosphaera fusca,1,0.7859503362562734
+st9,100-125,Pullenia cf. osloensis,31,24.36446042394447
+st9,100-125,Pyrgo williamsoni,0,0
+st9,100-125,Pyrulina cylindroides,0,0
+st9,100-125,Pyrulina sp.,0,0
+st9,100-125,Quinqueloculina arctica,0,0
+st9,100-125,Quinqueloculina seminula,2,1.5719006725125468
+st9,100-125,Quinqueloculina stalkeri,3,2.35785100876882
+st9,100-125,Recurvoides turbinatus,3,2.35785100876882
+st9,100-125,Reophax catella,5,3.929751681281367
+st9,100-125,Reophax fusiformis,30,23.5785100876882
+st9,100-125,Reophax scorpiurus,0,0
+st9,100-125,Reophax sp. ,0,0
+st9,100-125,Robertina arctica,0,0
+st9,100-125,Saccammina cf. sphaerica,0,0
+st9,100-125,Silicosigmoilina groenlandica,1,0.7859503362562734
+st9,100-125,Siphonaperta agglutinata,0,0
+st9,100-125,Spiroplectammina biformis,11,8.645453698819008
+st9,100-125,Stainforthia feylingi,2,1.5719006725125468
+st9,100-125,Stainforthia loeblichi,17,13.361155716356645
+st9,100-125,Textularia earlandi,10,7.859503362562734
+st9,100-125,Textularia torquata,0,0
+st9,100-125,Trifarina fluens,1,0.7859503362562734
+st9,100-125,Triloculina oblonga,0,0
+st9,100-125,Triloculina trihedra,0,0
+st9,100-125,Trochammina inflata,0,0
+st9,100-125,Trochammina sp.,0,0
+st9,125-150,Adercotryma glomeratum,85,66.80577858178324
+st9,125-150,Ammodiscus sp.,2,1.5719006725125468
+st9,125-150,Ammonia sp.,0,0
+st9,125-150,Ammotium cassis,0,0
+st9,125-150,Astrononion gallowayi,9,7.0735530263064605
+st9,125-150,Astrononion sp.,0,0
+st9,125-150,Baculogypsinoides sp.,0,0
+st9,125-150,Bolivina pseudopunctata,0,0
+st9,125-150,Buccella frigida,0,0
+st9,125-150,Buccella sp.,0,0
+st9,125-150,Capsammina bowmanni,0,0
+st9,125-150,Cassidulina neoteretis,0,0
+st9,125-150,Cassidulina reniforme,76,59.732225555476774
+st9,125-150,Cassidulina sp.,0,0
+st9,125-150,Cassidulina sp. morphotype 1,0,0
+st9,125-150,Cassidulina sp. morphotype 2,0,0
+st9,125-150,Cibicidoides lobatulus,5,3.929751681281367
+st9,125-150,Cornuspira foliacea,0,0
+st9,125-150,Cornuspira involvens,0,0
+st9,125-150,Cornuspira sp.,0,0
+st9,125-150,Cuneata arctica,1,0.7859503362562734
+st9,125-150,Dentalina ittai,0,0
+st9,125-150,Discorbina sp.,0,0
+st9,125-150,Discorbinella bertheloti,1,0.7859503362562734
+st9,125-150,Eggerella advena,0,0
+st9,125-150,Elphidium bartletti,0,0
+st9,125-150,Elphidium clavatum,0,0
+st9,125-150,Elphidium sp.,0,0
+st9,125-150,Epistominella exigua,5,3.929751681281367
+st9,125-150,Eponides sp.,0,0
+st9,125-150,Fissurina sp.,0,0
+st9,125-150,Globobulimina auriculata,0,0
+st9,125-150,Globobulimina sp.,6,4.71570201753764
+st9,125-150,Globocassidulina sp.,1,0.7859503362562734
+st9,125-150,Glomospira sp.,3,2.35785100876882
+st9,125-150,Haplophragmoides sp.,2,1.5719006725125468
+st9,125-150,Hippocrepina sp. ,0,0
+st9,125-150,Hormosina globulifera,0,0
+st9,125-150,Hyalinonetrion sp.,0,0
+st9,125-150,Islandiella helenae,8,6.287602690050187
+st9,125-150,Islandiella norcrossi,5,3.929751681281367
+st9,125-150,Islandiella sp.,17,13.361155716356645
+st9,125-150,Labrospira crassimargo,1,0.7859503362562734
+st9,125-150,Lagena striata,0,0
+st9,125-150,Lagenammina atlantica,20,15.719006725125467
+st9,125-150,Leptohalysis scottii ,0,0
+st9,125-150,Lotostomoides calomorpha,0,0
+st9,125-150,Melonis cf. barleeanus,4,3.1438013450250937
+st9,125-150,Miliolinella circularis,0,0
+st9,125-150,Miliolinella sp.,0,0
+st9,125-150,Miliolinella sp. (juvenile),0,0
+st9,125-150,Nonion commune,0,0
+st9,125-150,Nonion sp.,1,0.7859503362562734
+st9,125-150,Nonionella digitata,0,0
+st9,125-150,Nonionella turgida,0,0
+st9,125-150,Nonionellina labradorica,51,40.08346714906994
+st9,125-150,Paratrochammina sp.,0,0
+st9,125-150,Procerolagena gracilis,0,0
+st9,125-150,Psammosphaera fusca,8,6.287602690050187
+st9,125-150,Pullenia cf. osloensis,3,2.35785100876882
+st9,125-150,Pyrgo williamsoni,0,0
+st9,125-150,Pyrulina cylindroides,0,0
+st9,125-150,Pyrulina sp.,0,0
+st9,125-150,Quinqueloculina arctica,0,0
+st9,125-150,Quinqueloculina seminula,6,4.71570201753764
+st9,125-150,Quinqueloculina stalkeri,15,11.7892550438441
+st9,125-150,Recurvoides turbinatus,2,1.5719006725125468
+st9,125-150,Reophax catella,0,0
+st9,125-150,Reophax fusiformis,35,27.508261768969568
+st9,125-150,Reophax scorpiurus,0,0
+st9,125-150,Reophax sp. ,0,0
+st9,125-150,Robertina arctica,0,0
+st9,125-150,Saccammina cf. sphaerica,0,0
+st9,125-150,Silicosigmoilina groenlandica,0,0
+st9,125-150,Siphonaperta agglutinata,1,0.7859503362562734
+st9,125-150,Spiroplectammina biformis,2,1.5719006725125468
+st9,125-150,Stainforthia feylingi,0,0
+st9,125-150,Stainforthia loeblichi,5,3.929751681281367
+st9,125-150,Textularia earlandi,0,0
+st9,125-150,Textularia torquata,0,0
+st9,125-150,Trifarina fluens,3,2.35785100876882
+st9,125-150,Triloculina oblonga,0,0
+st9,125-150,Triloculina trihedra,1,0.7859503362562734
+st9,125-150,Trochammina inflata,2,1.5719006725125468
+st9,125-150,Trochammina sp.,0,0
+st9,>150,Adercotryma glomeratum,81,63.66197723675814
+st9,>150,Ammodiscus sp.,2,1.5719006725125468
+st9,>150,Ammonia sp.,0,0
+st9,>150,Ammotium cassis,1,0.7859503362562734
+st9,>150,Astrononion gallowayi,2,1.5719006725125468
+st9,>150,Astrononion sp.,0,0
+st9,>150,Baculogypsinoides sp.,0,0
+st9,>150,Bolivina pseudopunctata,0,0
+st9,>150,Buccella frigida,0,0
+st9,>150,Buccella sp.,1,0.7859503362562734
+st9,>150,Capsammina bowmanni,0,0
+st9,>150,Cassidulina neoteretis,7,5.501652353793913
+st9,>150,Cassidulina reniforme,54,42.44131815783876
+st9,>150,Cassidulina sp.,0,0
+st9,>150,Cassidulina sp. morphotype 1,3,2.35785100876882
+st9,>150,Cassidulina sp. morphotype 2,11,8.645453698819008
+st9,>150,Cibicidoides lobatulus,43,33.795864459019754
+st9,>150,Cornuspira foliacea,0,0
+st9,>150,Cornuspira involvens,0,0
+st9,>150,Cornuspira sp.,0,0
+st9,>150,Cuneata arctica,0,0
+st9,>150,Dentalina ittai,0,0
+st9,>150,Discorbina sp.,0,0
+st9,>150,Discorbinella bertheloti,10,7.859503362562734
+st9,>150,Eggerella advena,0,0
+st9,>150,Elphidium bartletti,0,0
+st9,>150,Elphidium clavatum,0,0
+st9,>150,Elphidium sp.,0,0
+st9,>150,Epistominella exigua,0,0
+st9,>150,Eponides sp.,0,0
+st9,>150,Fissurina sp.,0,0
+st9,>150,Globobulimina auriculata,24,18.86280807015056
+st9,>150,Globobulimina sp.,0,0
+st9,>150,Globocassidulina sp.,0,0
+st9,>150,Glomospira sp.,0,0
+st9,>150,Haplophragmoides sp.,3,2.35785100876882
+st9,>150,Hippocrepina sp. ,0,0
+st9,>150,Hormosina globulifera,0,0
+st9,>150,Hyalinonetrion sp.,0,0
+st9,>150,Islandiella helenae,17,13.361155716356645
+st9,>150,Islandiella norcrossi,27,21.22065907891938
+st9,>150,Islandiella sp.,16,12.575205380100375
+st9,>150,Labrospira crassimargo,41,32.223963786507205
+st9,>150,Lagena striata,0,0
+st9,>150,Lagenammina atlantica,6,4.71570201753764
+st9,>150,Leptohalysis scottii ,0,0
+st9,>150,Lotostomoides calomorpha,0,0
+st9,>150,Melonis cf. barleeanus,0,0
+st9,>150,Miliolinella circularis,0,0
+st9,>150,Miliolinella sp.,2,1.5719006725125468
+st9,>150,Miliolinella sp. (juvenile),0,0
+st9,>150,Nonion commune,0,0
+st9,>150,Nonion sp.,0,0
+st9,>150,Nonionella digitata,0,0
+st9,>150,Nonionella turgida,0,0
+st9,>150,Nonionellina labradorica,148,116.32064976592847
+st9,>150,Paratrochammina sp.,0,0
+st9,>150,Procerolagena gracilis,0,0
+st9,>150,Psammosphaera fusca,4,3.1438013450250937
+st9,>150,Pullenia cf. osloensis,0,0
+st9,>150,Pyrgo williamsoni,0,0
+st9,>150,Pyrulina cylindroides,0,0
+st9,>150,Pyrulina sp.,0,0
+st9,>150,Quinqueloculina arctica,0,0
+st9,>150,Quinqueloculina seminula,13,10.217354371331554
+st9,>150,Quinqueloculina stalkeri,2,1.5719006725125468
+st9,>150,Recurvoides turbinatus,7,5.501652353793913
+st9,>150,Reophax catella,0,0
+st9,>150,Reophax fusiformis,47,36.93966580404485
+st9,>150,Reophax scorpiurus,11,8.645453698819008
+st9,>150,Reophax sp. ,0,0
+st9,>150,Robertina arctica,0,0
+st9,>150,Saccammina cf. sphaerica,0,0
+st9,>150,Silicosigmoilina groenlandica,1,0.7859503362562734
+st9,>150,Siphonaperta agglutinata,0,0
+st9,>150,Spiroplectammina biformis,0,0
+st9,>150,Stainforthia feylingi,0,0
+st9,>150,Stainforthia loeblichi,0,0
+st9,>150,Textularia earlandi,0,0
+st9,>150,Textularia torquata,0,0
+st9,>150,Trifarina fluens,5,3.929751681281367
+st9,>150,Triloculina oblonga,0,0
+st9,>150,Triloculina trihedra,4,3.1438013450250937
+st9,>150,Trochammina inflata,2,1.5719006725125468
+st9,>150,Trochammina sp.,0,0
