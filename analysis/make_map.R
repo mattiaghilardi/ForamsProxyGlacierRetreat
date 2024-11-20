@@ -110,7 +110,7 @@ p2 <- ggOceanMaps::basemap(limits = c(11.6, 12.75, 78.83, 79.03),
                               width_hint = 0.1,
                               pad_y = unit(1, "cm"))
 
-## final plot ----
+## final plot (figure 1 in the paper) ----
 
 # combine plots
 final_map <- p2 + 

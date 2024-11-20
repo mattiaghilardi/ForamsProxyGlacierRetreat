@@ -78,6 +78,8 @@ source("make.R")
   this has completed, running `source("make.R")` will first restore the
   project library locally on the machine.
 - All required packages and R functions will be loaded.
+- A few lines of code are commented out in the scripts, as they are only
+  needed to run scripts independently.
 
 ## Working environment
 

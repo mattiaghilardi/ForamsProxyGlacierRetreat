@@ -148,7 +148,7 @@ for (i in 1:4) {
 }
 # where difference is negligible GAMs are linear --> use beta regression
 
-## AICc table ----
+## AICc table (supplementary table S2 in the paper) ----
 
 AICc_table <- bind_rows(
   bind_rows(lapply(fit_rich, function(x) tibble::rownames_to_column(x$AICc, var = "model"))) %>% 
@@ -180,7 +180,7 @@ AICc_table <- bind_rows(
 
 write_delim(AICc_table, "output/AICc_table.csv", delim = ";")
 
-## plot diversity vs glacier distance ----
+## plot diversity vs glacier distance (figure 5 in the paper) ----
 
 par(mfrow = c(1, 1))
 
@@ -188,7 +188,7 @@ newdata <- data.frame(glacier_dist = seq(min(glacier_dist$glacier_dist),
                                          max(glacier_dist$glacier_dist), 
                                          length.out = 100))
 
-# col <- viridisLite::viridis(4, direction = -1)
+# col <- viridisLite::viridis(4, direction = -1) # colours
 
 plots_rich <- lapply(1:4, function(i) {
   p <- plot_diversity(model = fit_rich[[i]]$GAM,
@@ -334,6 +334,10 @@ fit_Fred <- lapply(results, function(x) {
               data = x,
               family = "beta")
 })
+# "GLM supported: delta_AICc = 2.98"
+# "GLM supported: delta_AICc = 3.73"
+# "GLM supported: delta_AICc = 4.02"
+# "GLM supported: delta_AICc = 3.67"
 par(mfrow = c(2, 2))
 for (i in 1:4) {
   cat(paste0("GLM diagnostics >", names(fit_Fred)[i]), fill = TRUE, labels = paste0("\n(", i, "):"))
@@ -366,7 +370,7 @@ redundancy_plots <- lapply(1:4, function(i) {
   p
 })
 
-# combine plots
+# combine plots (supplementary figure S1 in the paper)
 final_redundancy_plot <- patchwork::wrap_plots(redundancy_plots, nrow = 1)
 
 # save plot

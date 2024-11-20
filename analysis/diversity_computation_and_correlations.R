@@ -9,13 +9,19 @@
 
 ## data preparation ----
 
+# create data frame
+comm_diversity <- comm_king18 %>% 
+  # species cumulative densities
+  combine_communities() %>%
+  # rearrange the dataset to have a column for each species
+  pivot_wider(names_from = "species", values_from = "raw_density")
+
+# create vector with fractions
+# fraction <- unique(comm_diversity$fraction)
+
 # create a list of four matrices
 matrix_list <- lapply(fraction, function(i)
-  comm_king18 %>% 
-    # species cumulative densities
-    combine_communities() %>%
-    # rearrange the dataset to have a column for each species
-    pivot_wider(names_from = "species", values_from = "raw_density") %>% 
+  comm_diversity %>% 
     # keep only the i fraction
     filter(fraction == i) %>% 
     select(-fraction) %>%
@@ -24,14 +30,14 @@ matrix_list <- lapply(fraction, function(i)
   rlang::set_names(fraction)
 
 # rearrange the trait dataset by species and use species names as row names
-traits <- traits %>%
+traits_df <- traits %>%
   arrange(species) %>% # alphabetic order
   column_to_rownames(var = "species")
 
 # potential number of functional entities (i.e. total potential trait combinations)
 2^4*4*3 # 192
 # actual number of functional entities
-nrow(unique(traits)) # 27
+nrow(unique(traits_df)) # 27
 
 ## taxonomic diversity ----
 
@@ -106,16 +112,16 @@ check_dist_corr <- function(traits) {
   )
 }
 
-dist_check <- check_dist_corr(traits)
+dist_check <- check_dist_corr(traits_df)
 dist_check$correls
 # Correlations between gowdis and individual dissimilarity matrices vary between 0.371 and 0.618
 # gawdis correlate equally to the individual dissimilarity matrices (r=0.461)
 dist_check$cor
 # The two matrices don't differ much (r=0.97)
 
-# compute functional diversity for each fraction using gawdis
+# compute functional diversity for each size fraction using gawdis
 func_diversity <- lapply(matrix_list, function(x) 
-  func_div_TPD(x, traits, dist = "gawdis", k = 3, # k is the number of retained dimensions
+  func_div_TPD(x, traits_df, dist = "gawdis", k = 3, # k is the number of retained dimensions
                REND = TRUE, rao = TRUE, redun = TRUE, 
                dissim = FALSE, uniq = FALSE, regional = FALSE))
 
@@ -127,9 +133,9 @@ barplot(func_diversity[[1]]$PCOA$eig)
 sum(func_diversity[[1]]$PCOA$eig[1:3]) / 
   sum(func_diversity[[1]]$PCOA$eig[func_diversity[[1]]$PCOA$eig > 0]) # 0.78
 
-## create results table ----
+## create results table (supplementary table S3 in the paper) ----
 
-# create data frame combining all diversity metrics
+# create list containing a data frame combining all diversity metrics for each size fraction
 results <- lapply(fraction, function(i) {
   func_diversity[[i]]$diversity <- cbind(func_diversity[[i]]$diversity, 
                                          rao = func_diversity[[i]]$rao$alpha_rao)
@@ -141,6 +147,7 @@ results <- lapply(fraction, function(i) {
 
 saveRDS(results, "derived_data/diversity_results.rds")
 
+# make table with computed diversity metrics
 results_table <- bind_rows(results, .id = "Fraction") %>%
   left_join(glacier_dist[, c(1, 4)], by = c("Station" = "station")) %>% 
   mutate(Fraction = factor(Fraction, 
@@ -150,13 +157,13 @@ results_table <- bind_rows(results, .id = "Fraction") %>%
   select(-c(8:10)) %>%
   arrange(Fraction, glacier_dist) %>% 
   select(-glacier_dist) %>%
-  pivot_longer(cols = 3:8, names_to = "Diversity_metrics") %>% 
-  pivot_wider(names_from = Station, values_from = value) %>%
-  mutate(Diversity_metrics = recode(Diversity_metrics, "rao" = "Rao"))
+  rename("Rao" = "rao") %>% 
+  pivot_longer(cols = 3:8, names_to = "Diversity_metric") %>% 
+  pivot_wider(names_from = Station, values_from = value)
 
 write_delim(results_table, "output/diversity_table.csv", delim = ";")
 
-## correlations among diversity metrics ----
+## correlations among diversity metrics for each size fraction ----
 
 correls <- lapply(fraction, function(x) {
   results[[x]] %>% 
@@ -259,7 +266,7 @@ y = c("Taxonomic richness (S)",
       "Functional evenness (F<sub>Eve</sub>)", 
       "Rao"))
 
-# combine plots
+# combine plots (figure 4 in the paper)
 final_metric_cor_plot <- patchwork::wrap_plots(metric_cor_plot, ncol = 3, nrow = 2) + 
   patchwork::plot_annotation(theme = theme(plot.margin = margin(0, 0, 0, 0)))
 

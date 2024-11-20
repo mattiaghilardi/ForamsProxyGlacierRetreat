@@ -6,14 +6,17 @@
 comm_king18 <- readr::read_delim("data/foram_data_king18.csv", delim = ";")
 # glacier_dist <- readr::read_delim("derived_data/glacier_dist.csv", delim = ";")
 
-## density of cumulative fractions ----
+## density of cumulative size fractions ----
 
 # create data frame
 density <- comm_king18 %>% 
   # species cumulative densities
   combine_communities() %>%
+  # summarise for each station and fraction
   group_by(station, fraction) %>%
   summarise(raw_tot = sum(raw_density)) %>%
+  # core radius is 4.5
+  # compute density per 1 cm^3 and multiply by 50
   mutate(tot_50cm3 = raw_tot/(pi*4.5^2*1)*50,
          fraction = factor(fraction, 
                            levels = paste(c(63, 100, 125, 150), "µm"))) %>%
@@ -21,10 +24,10 @@ density <- comm_king18 %>%
   # add column with distance from glacier front
   left_join(glacier_dist %>% select(1, 4))
 
-# make list
+# convert data frame to list: split by fraction
 density <- split(density, density$fraction)
 
-# models
+# fit models
 fit_density <- lapply(density, function(x) { 
   fit_glm_gam(glm_formula = tot_50cm3 ~ glacier_dist,
               gam_formula = tot_50cm3 ~ s(glacier_dist, k = 3, bs = "cr"),
@@ -36,10 +39,10 @@ for (i in 1:4) {
   print(summary(fit_density[[i]]$GLM))
 }
 
-# vector with fractions
+# create vector with fractions
 fraction <- names(density)
 
-# extract p-values
+# extract p-values of slopes
 pvalue <- lapply(1:4, function(i) {
   s <- summary(fit_density[[i]]$GLM)
   p <- s$coefficients[2, 4]
@@ -49,7 +52,7 @@ pvalue <- lapply(1:4, function(i) {
 }) %>%
   bind_rows()
 
-# plot density vs glacier distance for each fraction
+# plot density vs glacier distance coloured by fraction
 density_plot <- density %>%
   bind_rows() %>%
   ggplot(aes(x = glacier_dist, y = tot_50cm3, colour = fraction)) +
@@ -82,29 +85,32 @@ density_plot <- density %>%
 
 density_plot
 
-## relative density of individual fractions ----
+## relative density of individual size fractions ----
 
 # create data frame
 density_sep_fraction <- comm_king18 %>%
   mutate(fraction = factor(fraction, 
                            levels = c("63-100", "100-125", "125-150", ">150"))) %>%
+  # first compute total density for each station
   group_by(station) %>%
   mutate(total63 = sum(raw_density)) %>%
+  # now compute relative density for each fraction in each station
   group_by(station, fraction) %>%
   mutate(partial = sum(raw_density), 
          relative = partial/total63) %>%
   select(station, fraction, relative) %>%
+  # add glacier distance
   left_join(select(glacier_dist, station, glacier_dist)) %>%
   unique()
 
-# model for relative contribution
+# fit GAM to relative density
 fit_rel_density <- gam(relative ~ fraction + s(glacier_dist, k = 3, bs = "cr", by = fraction), 
                        family = "betar", data = density_sep_fraction)
 
 summary(fit_rel_density)
 gam.check(fit_rel_density)
 
-# predictions
+# make predictions
 nd <- expand_grid(glacier_dist = seq(min(glacier_dist$glacier_dist), 
                                      max(glacier_dist$glacier_dist), 
                                      length.out = 100),
@@ -138,7 +144,7 @@ rel_density_plot <- ggplot(mapping = aes(x = glacier_dist)) +
 
 rel_density_plot
 
-## final plot ----
+## final plot (figure 2 in the paper) ----
 
 # combine plots
 final_density_plot <- density_plot + 

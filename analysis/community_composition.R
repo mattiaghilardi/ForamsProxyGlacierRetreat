@@ -30,7 +30,7 @@ comm_NMDS <- comm_NMDS %>%
 # NMDS KING18 community
 NMDS_KING18 <- vegan::metaMDS(comm_NMDS, k = 2)
 
-# to check the analysis
+# check the analysis
 stressplot <- vegan::stressplot(NMDS_KING18) # Stress=0.085
 
 # base plot for NMDS 
@@ -45,17 +45,18 @@ data_scores <- as.data.frame(vegan::scores(NMDS_KING18)$site)
 data_scores$station <- stations 
 data_scores$fraction <- fraction
 
-# hull values
-hull_fractions <- lapply(unique(fraction), function(i) {
+# get hull coordinates
+hull_fractions <- lapply(unique(fraction) %>% 
+                           rlang::set_names(), 
+                         function(i) {
   data_scores[data_scores$fraction == i, ][chull(data_scores[data_scores$fraction == i, c("NMDS1", "NMDS2")]), ]  
 }) 
 
 hull_data <- bind_rows(hull_fractions)
 
-# calculate hull volume (surface)
-hull_volume <- lapply(1:4, function(i) 
-  geometry::convhulln(hull_fractions[[i]][, 1:2], output.options = "FA")$vol)
-names(hull_volume) <- fraction
+# calculate hull volume (actually a 2D surface)
+hull_volume <- lapply(hull_fractions, function(i) 
+  geometry::convhulln(i[, 1:2], output.options = "FA")$vol)
 
 # reorder factor levels for plotting
 data_scores$fraction <- factor(data_scores$fraction, levels = paste(c(63, 100, 125, 150), "µm"))
@@ -97,8 +98,11 @@ pNMDS <- ggplot() +
 pNMDS
 
 ## GAM NMDS1 vs distance from the glacier ----
+
+# convert data frame to list: split by fraction
 nmds_data <- split(data_scores, data_scores$fraction)
 
+# fit models
 fit_nmds <- lapply(nmds_data, function(x) { 
   fit_glm_gam(glm_formula = NMDS1 ~ glacier_dist,
               gam_formula = NMDS1 ~ s(glacier_dist, k = 3, bs = "cr"),
@@ -132,6 +136,7 @@ newdata <- data.frame(glacier_dist = seq(min(glacier_dist$glacier_dist),
 # colours
 col <- viridisLite::viridis(4, direction = -1)
 
+# keep y axis title only on first plot
 plots_nmds <- mapply(i = 1:4, j = c(1, 0, 0, 0), function(i,j) {
   plot_diversity(model = fit_nmds[[i]]$GAM,
                  data = nmds_data[[i]],
@@ -149,7 +154,7 @@ plots_nmds <- mapply(i = 1:4, j = c(1, 0, 0, 0), function(i,j) {
           plot.title = element_text(size = 10))
 }, SIMPLIFY = FALSE)
 
-## final plot ----
+## final plot (figure 3 in the paper) ----
 
 # combine plots
 plots_nmds <- patchwork::wrap_plots(plots_nmds, nrow = 1) + 

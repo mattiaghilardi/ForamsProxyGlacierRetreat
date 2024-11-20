@@ -28,11 +28,11 @@ comm_traits <- comm_relative %>%
 
 # rearrange dataset in long format
 comm_traits <- comm_traits %>%
-  pivot_longer(cols = 6:11, names_to = "traits", values_to = "values")
+  pivot_longer(cols = 6:11, names_to = "trait", values_to = "value")
 
 # summarise relative abundances for each trait and fraction
 comm_traits <- comm_traits %>%
-  group_by(station, fraction, glacier_dist, traits, values) %>%
+  group_by(station, fraction, glacier_dist, trait, value) %>%
   summarise(rel_abund = sum(rel_abund)) %>% 
   ungroup()
 
@@ -41,25 +41,25 @@ comm_traits <- comm_traits %>%
   mutate(fraction = factor(fraction,
                            levels = paste(c(63, 100, 125, 150), "µm"),
                            labels = paste0(">", c(63, 100, 125, 150), " µm")),
-         traits = factor(traits, 
-                         levels = c("shell", 
-                                    "chamber_number", 
-                                    "pores", 
-                                    "shape",
-                                    "teeth",
-                                    "symmetry"),
-                         label = c("Test material",
-                                   "Chamber number",
-                                   "Pores",
-                                   "Test shape",
-                                   "Teeth",
-                                   "Test symmetry")),
+         trait = factor(trait, 
+                        levels = c("shell", 
+                                   "chamber_number", 
+                                   "pores", 
+                                   "shape",
+                                   "teeth",
+                                   "symmetry"),
+                        label = c("Test material",
+                                  "Chamber number",
+                                  "Pores",
+                                  "Test shape",
+                                  "Teeth",
+                                  "Test symmetry")),
          station = gsub("s", "S", station))
 
-# split by trait
-comm_traits <- split(comm_traits, comm_traits$traits)
+# convert data frame to list: split by trait
+comm_traits <- split(comm_traits, comm_traits$trait)
 
-## plot ----
+## plot (supplementary figure S3 in the paper) ----
 
 # list with arguments to pass to the plots
 traits_labels <- list("Test material" = list(labels = c("Agglutinated", "Calcareous"),
@@ -76,13 +76,13 @@ traits_labels <- list("Test material" = list(labels = c("Agglutinated", "Calcare
                                              colors = c("#66CCCC", "grey")))
 
 # make plots
-traits_plots <- lapply(1:6, function(i){
+traits_plots <- lapply(names(comm_traits), function(i){
   p <- ggplot(comm_traits[[i]],
-              aes(fill = values,
+              aes(fill = value,
                   y = rel_abund, 
                   x = forcats::fct_reorder(station, glacier_dist))) +
     geom_bar(position = "stack", stat = "identity") +
-    labs(y = "Relative abundance (%)", fill = names(comm_traits)[i]) +
+    labs(y = "Relative abundance (%)", fill = i) +
     facet_wrap(facets = "fraction", nrow = 1) +
     scale_fill_manual(values = traits_labels[[i]]$colors, 
                       labels = traits_labels[[i]]$labels) +
@@ -99,10 +99,12 @@ traits_plots <- lapply(1:6, function(i){
           strip.text = element_text(face = "bold", size = 9)) +
     coord_cartesian(expand = FALSE)
   
+  # keep strip text only in first plot
   if (i != 1) p <- p +
       theme(strip.background = element_blank(),
             strip.text = element_blank())
   
+  # keep x axis text only in last plot
   if (i != 6) p <- p +
       theme(axis.text.x = element_blank(),
             axis.ticks.x = element_blank())
