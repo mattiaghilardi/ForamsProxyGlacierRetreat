@@ -1,5 +1,5 @@
 Package: ForamsProxyGlacierRetreat
-Title: Data and code for Fossile et al. 2024
+Title: Data and code for Fossile et al. 2025
 Version: 1.0.0
 Authors@R: c(
     person("Mattia", "Ghilardi", , "mattia.ghilardi91@gmail.com", role = c("aut", "cre"),
@@ -8,7 +8,7 @@ Authors@R: c(
            comment = c(ORCID = "0000-0002-9266-0289"))
   )
 Description: Provides data and code to reproduce figures and results of
-    Fossile et al. 2024
+    Fossile et al. 2025
 License: MIT + file LICENSE
 Imports: 
     betareg,

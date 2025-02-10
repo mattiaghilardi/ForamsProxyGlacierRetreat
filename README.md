@@ -14,8 +14,8 @@ paper
 
 > **Fossile E<sup>†</sup>, Ghilardi M<sup>†</sup>, Mojtahid M, Howa H,
 > Baltzer A, Nardelli MP** Taxonomic and functional diversity of benthic
-> foraminifera as a promising proxy for tidewater glacier retreat. *In
-> prep*
+> foraminifera as a promising proxy for tidewater glacier retreat.
+> *Submitted*
 >
 > <sup>†</sup>Equal authorship
 
