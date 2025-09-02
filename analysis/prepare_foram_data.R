@@ -22,7 +22,11 @@ comm_king18 <- raw_data %>%
          density_50cm3 = raw_density / (pi * 4.5^2 * 1) * 50,
          station = tolower(station),
          fraction = factor(fraction, 
-                           levels = c("63-100", "100-125", "125-150", ">150"))) %>% 
+                           levels = c("63-100", "100-125", "125-150", ">150")),
+         # remove extra space from a few species names (e.g. "Hippocrepina sp. ")
+         species = ifelse(endsWith(species, " "),
+                          gsub("^(\\S*\\s+\\S+).*", "\\1", species),
+                          species)) %>% 
   select(-density_10cm3) %>% 
   arrange(station, fraction)
 
@@ -30,5 +34,6 @@ comm_king18 <- raw_data %>%
 write_csv(comm_king18, "derived_data/foram_data_king18.csv")
 
 ## clean environment ----
-# keep comm_king18
-rm(raw_data)
+
+# keep comm_king18 and glacier_dist
+rm(list = ls()[!ls() %in% c("comm_king18", "glacier_dist")])

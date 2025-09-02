@@ -35,7 +35,7 @@ st1,63-100,Globobulimina sp.,0,0
 st1,63-100,Globocassidulina sp.,0,0
 st1,63-100,Glomospira sp.,0,0
 st1,63-100,Haplophragmoides sp.,0,0
-st1,63-100,Hippocrepina sp. ,0,0
+st1,63-100,Hippocrepina sp.,0,0
 st1,63-100,Hormosina globulifera,0,0
 st1,63-100,Hyalinonetrion sp.,0,0
 st1,63-100,Islandiella helenae,0,0
@@ -44,7 +44,7 @@ st1,63-100,Islandiella sp.,0,0
 st1,63-100,Labrospira crassimargo,0,0
 st1,63-100,Lagena striata,0,0
 st1,63-100,Lagenammina atlantica,0,0
-st1,63-100,Leptohalysis scottii ,0,0
+st1,63-100,Leptohalysis scottii,0,0
 st1,63-100,Lotostomoides calomorpha,0,0
 st1,63-100,Melonis cf. barleeanus,0,0
 st1,63-100,Miliolinella circularis,0,0
@@ -69,7 +69,7 @@ st1,63-100,Recurvoides turbinatus,0,0
 st1,63-100,Reophax catella,1,0.7859503362562734
 st1,63-100,Reophax fusiformis,0,0
 st1,63-100,Reophax scorpiurus,0,0
-st1,63-100,Reophax sp. ,0,0
+st1,63-100,Reophax sp.,0,0
 st1,63-100,Robertina arctica,0,0
 st1,63-100,Saccammina cf. sphaerica,0,0
 st1,63-100,Silicosigmoilina groenlandica,0,0
@@ -120,7 +120,7 @@ st1,100-125,Globobulimina sp.,0,0
 st1,100-125,Globocassidulina sp.,0,0
 st1,100-125,Glomospira sp.,0,0
 st1,100-125,Haplophragmoides sp.,0,0
-st1,100-125,Hippocrepina sp. ,0,0
+st1,100-125,Hippocrepina sp.,0,0
 st1,100-125,Hormosina globulifera,0,0
 st1,100-125,Hyalinonetrion sp.,0,0
 st1,100-125,Islandiella helenae,0,0
@@ -129,7 +129,7 @@ st1,100-125,Islandiella sp.,0,0
 st1,100-125,Labrospira crassimargo,0,0
 st1,100-125,Lagena striata,0,0
 st1,100-125,Lagenammina atlantica,0,0
-st1,100-125,Leptohalysis scottii ,1,0.7859503362562734
+st1,100-125,Leptohalysis scottii,1,0.7859503362562734
 st1,100-125,Lotostomoides calomorpha,2,1.5719006725125468
 st1,100-125,Melonis cf. barleeanus,0,0
 st1,100-125,Miliolinella circularis,0,0
@@ -154,7 +154,7 @@ st1,100-125,Recurvoides turbinatus,0,0
 st1,100-125,Reophax catella,1,0.7859503362562734
 st1,100-125,Reophax fusiformis,0,0
 st1,100-125,Reophax scorpiurus,0,0
-st1,100-125,Reophax sp. ,0,0
+st1,100-125,Reophax sp.,0,0
 st1,100-125,Robertina arctica,0,0
 st1,100-125,Saccammina cf. sphaerica,0,0
 st1,100-125,Silicosigmoilina groenlandica,0,0
@@ -205,7 +205,7 @@ st1,125-150,Globobulimina sp.,0,0
 st1,125-150,Globocassidulina sp.,0,0
 st1,125-150,Glomospira sp.,0,0
 st1,125-150,Haplophragmoides sp.,0,0
-st1,125-150,Hippocrepina sp. ,0,0
+st1,125-150,Hippocrepina sp.,0,0
 st1,125-150,Hormosina globulifera,0,0
 st1,125-150,Hyalinonetrion sp.,0,0
 st1,125-150,Islandiella helenae,0,0
@@ -214,7 +214,7 @@ st1,125-150,Islandiella sp.,0,0
 st1,125-150,Labrospira crassimargo,0,0
 st1,125-150,Lagena striata,0,0
 st1,125-150,Lagenammina atlantica,4,3.1438013450250937
-st1,125-150,Leptohalysis scottii ,2,1.5719006725125468
+st1,125-150,Leptohalysis scottii,2,1.5719006725125468
 st1,125-150,Lotostomoides calomorpha,0,0
 st1,125-150,Melonis cf. barleeanus,0,0
 st1,125-150,Miliolinella circularis,0,0
@@ -239,7 +239,7 @@ st1,125-150,Recurvoides turbinatus,0,0
 st1,125-150,Reophax catella,2,1.5719006725125468
 st1,125-150,Reophax fusiformis,0,0
 st1,125-150,Reophax scorpiurus,0,0
-st1,125-150,Reophax sp. ,0,0
+st1,125-150,Reophax sp.,0,0
 st1,125-150,Robertina arctica,0,0
 st1,125-150,Saccammina cf. sphaerica,0,0
 st1,125-150,Silicosigmoilina groenlandica,0,0
@@ -290,7 +290,7 @@ st1,>150,Globobulimina sp.,0,0
 st1,>150,Globocassidulina sp.,0,0
 st1,>150,Glomospira sp.,0,0
 st1,>150,Haplophragmoides sp.,0,0
-st1,>150,Hippocrepina sp. ,0,0
+st1,>150,Hippocrepina sp.,0,0
 st1,>150,Hormosina globulifera,0,0
 st1,>150,Hyalinonetrion sp.,0,0
 st1,>150,Islandiella helenae,1,0.7859503362562734
@@ -299,7 +299,7 @@ st1,>150,Islandiella sp.,0,0
 st1,>150,Labrospira crassimargo,0,0
 st1,>150,Lagena striata,0,0
 st1,>150,Lagenammina atlantica,9,7.0735530263064605
-st1,>150,Leptohalysis scottii ,0,0
+st1,>150,Leptohalysis scottii,0,0
 st1,>150,Lotostomoides calomorpha,0,0
 st1,>150,Melonis cf. barleeanus,0,0
 st1,>150,Miliolinella circularis,0,0
@@ -324,7 +324,7 @@ st1,>150,Recurvoides turbinatus,0,0
 st1,>150,Reophax catella,0,0
 st1,>150,Reophax fusiformis,29,22.792559751431927
 st1,>150,Reophax scorpiurus,0,0
-st1,>150,Reophax sp. ,0,0
+st1,>150,Reophax sp.,0,0
 st1,>150,Robertina arctica,2,1.5719006725125468
 st1,>150,Saccammina cf. sphaerica,0,0
 st1,>150,Silicosigmoilina groenlandica,0,0
@@ -375,7 +375,7 @@ st2,63-100,Globobulimina sp.,0,0
 st2,63-100,Globocassidulina sp.,0,0
 st2,63-100,Glomospira sp.,0,0
 st2,63-100,Haplophragmoides sp.,0,0
-st2,63-100,Hippocrepina sp. ,0,0
+st2,63-100,Hippocrepina sp.,0,0
 st2,63-100,Hormosina globulifera,0,0
 st2,63-100,Hyalinonetrion sp.,0,0
 st2,63-100,Islandiella helenae,0,0
@@ -384,7 +384,7 @@ st2,63-100,Islandiella sp.,0,0
 st2,63-100,Labrospira crassimargo,0,0
 st2,63-100,Lagena striata,0,0
 st2,63-100,Lagenammina atlantica,0,0
-st2,63-100,Leptohalysis scottii ,0,0
+st2,63-100,Leptohalysis scottii,0,0
 st2,63-100,Lotostomoides calomorpha,0,0
 st2,63-100,Melonis cf. barleeanus,0,0
 st2,63-100,Miliolinella circularis,0,0
@@ -409,7 +409,7 @@ st2,63-100,Recurvoides turbinatus,0,0
 st2,63-100,Reophax catella,0,0
 st2,63-100,Reophax fusiformis,0,0
 st2,63-100,Reophax scorpiurus,0,0
-st2,63-100,Reophax sp. ,0,0
+st2,63-100,Reophax sp.,0,0
 st2,63-100,Robertina arctica,0,0
 st2,63-100,Saccammina cf. sphaerica,0,0
 st2,63-100,Silicosigmoilina groenlandica,0,0
@@ -460,7 +460,7 @@ st2,100-125,Globobulimina sp.,0,0
 st2,100-125,Globocassidulina sp.,0,0
 st2,100-125,Glomospira sp.,0,0
 st2,100-125,Haplophragmoides sp.,0,0
-st2,100-125,Hippocrepina sp. ,0,0
+st2,100-125,Hippocrepina sp.,0,0
 st2,100-125,Hormosina globulifera,0,0
 st2,100-125,Hyalinonetrion sp.,0,0
 st2,100-125,Islandiella helenae,0,0
@@ -469,7 +469,7 @@ st2,100-125,Islandiella sp.,0,0
 st2,100-125,Labrospira crassimargo,0,0
 st2,100-125,Lagena striata,0,0
 st2,100-125,Lagenammina atlantica,0,0
-st2,100-125,Leptohalysis scottii ,0,0
+st2,100-125,Leptohalysis scottii,0,0
 st2,100-125,Lotostomoides calomorpha,0,0
 st2,100-125,Melonis cf. barleeanus,0,0
 st2,100-125,Miliolinella circularis,0,0
@@ -494,7 +494,7 @@ st2,100-125,Recurvoides turbinatus,0,0
 st2,100-125,Reophax catella,0,0
 st2,100-125,Reophax fusiformis,0,0
 st2,100-125,Reophax scorpiurus,0,0
-st2,100-125,Reophax sp. ,0,0
+st2,100-125,Reophax sp.,0,0
 st2,100-125,Robertina arctica,0,0
 st2,100-125,Saccammina cf. sphaerica,0,0
 st2,100-125,Silicosigmoilina groenlandica,0,0
@@ -545,7 +545,7 @@ st2,125-150,Globobulimina sp.,0,0
 st2,125-150,Globocassidulina sp.,0,0
 st2,125-150,Glomospira sp.,0,0
 st2,125-150,Haplophragmoides sp.,0,0
-st2,125-150,Hippocrepina sp. ,0,0
+st2,125-150,Hippocrepina sp.,0,0
 st2,125-150,Hormosina globulifera,0,0
 st2,125-150,Hyalinonetrion sp.,1,0.7859503362562734
 st2,125-150,Islandiella helenae,0,0
@@ -554,7 +554,7 @@ st2,125-150,Islandiella sp.,0,0
 st2,125-150,Labrospira crassimargo,0,0
 st2,125-150,Lagena striata,0,0
 st2,125-150,Lagenammina atlantica,0,0
-st2,125-150,Leptohalysis scottii ,0,0
+st2,125-150,Leptohalysis scottii,0,0
 st2,125-150,Lotostomoides calomorpha,0,0
 st2,125-150,Melonis cf. barleeanus,0,0
 st2,125-150,Miliolinella circularis,0,0
@@ -579,7 +579,7 @@ st2,125-150,Recurvoides turbinatus,0,0
 st2,125-150,Reophax catella,0,0
 st2,125-150,Reophax fusiformis,0,0
 st2,125-150,Reophax scorpiurus,0,0
-st2,125-150,Reophax sp. ,0,0
+st2,125-150,Reophax sp.,0,0
 st2,125-150,Robertina arctica,0,0
 st2,125-150,Saccammina cf. sphaerica,0,0
 st2,125-150,Silicosigmoilina groenlandica,0,0
@@ -630,7 +630,7 @@ st2,>150,Globobulimina sp.,0,0
 st2,>150,Globocassidulina sp.,0,0
 st2,>150,Glomospira sp.,0,0
 st2,>150,Haplophragmoides sp.,0,0
-st2,>150,Hippocrepina sp. ,0,0
+st2,>150,Hippocrepina sp.,0,0
 st2,>150,Hormosina globulifera,0,0
 st2,>150,Hyalinonetrion sp.,0,0
 st2,>150,Islandiella helenae,0,0
@@ -639,7 +639,7 @@ st2,>150,Islandiella sp.,0,0
 st2,>150,Labrospira crassimargo,0,0
 st2,>150,Lagena striata,0,0
 st2,>150,Lagenammina atlantica,0,0
-st2,>150,Leptohalysis scottii ,0,0
+st2,>150,Leptohalysis scottii,0,0
 st2,>150,Lotostomoides calomorpha,0,0
 st2,>150,Melonis cf. barleeanus,0,0
 st2,>150,Miliolinella circularis,0,0
@@ -664,7 +664,7 @@ st2,>150,Recurvoides turbinatus,0,0
 st2,>150,Reophax catella,0,0
 st2,>150,Reophax fusiformis,0,0
 st2,>150,Reophax scorpiurus,0,0
-st2,>150,Reophax sp. ,0,0
+st2,>150,Reophax sp.,0,0
 st2,>150,Robertina arctica,0,0
 st2,>150,Saccammina cf. sphaerica,48,37.72561614030112
 st2,>150,Silicosigmoilina groenlandica,0,0
@@ -715,7 +715,7 @@ st3,63-100,Globobulimina sp.,0,0
 st3,63-100,Globocassidulina sp.,0,0
 st3,63-100,Glomospira sp.,0,0
 st3,63-100,Haplophragmoides sp.,0,0
-st3,63-100,Hippocrepina sp. ,0,0
+st3,63-100,Hippocrepina sp.,0,0
 st3,63-100,Hormosina globulifera,0,0
 st3,63-100,Hyalinonetrion sp.,0,0
 st3,63-100,Islandiella helenae,12,9.43140403507528
@@ -724,7 +724,7 @@ st3,63-100,Islandiella sp.,0,0
 st3,63-100,Labrospira crassimargo,0,0
 st3,63-100,Lagena striata,0,0
 st3,63-100,Lagenammina atlantica,8,6.287602690050187
-st3,63-100,Leptohalysis scottii ,24,18.86280807015056
+st3,63-100,Leptohalysis scottii,24,18.86280807015056
 st3,63-100,Lotostomoides calomorpha,32,25.15041076020075
 st3,63-100,Melonis cf. barleeanus,52,40.86941748532622
 st3,63-100,Miliolinella circularis,0,0
@@ -749,7 +749,7 @@ st3,63-100,Recurvoides turbinatus,0,0
 st3,63-100,Reophax catella,0,0
 st3,63-100,Reophax fusiformis,16,12.575205380100375
 st3,63-100,Reophax scorpiurus,0,0
-st3,63-100,Reophax sp. ,0,0
+st3,63-100,Reophax sp.,0,0
 st3,63-100,Robertina arctica,0,0
 st3,63-100,Saccammina cf. sphaerica,0,0
 st3,63-100,Silicosigmoilina groenlandica,0,0
@@ -800,7 +800,7 @@ st3,100-125,Globobulimina sp.,0,0
 st3,100-125,Globocassidulina sp.,1,0.7859503362562734
 st3,100-125,Glomospira sp.,1,0.7859503362562734
 st3,100-125,Haplophragmoides sp.,0,0
-st3,100-125,Hippocrepina sp. ,0,0
+st3,100-125,Hippocrepina sp.,0,0
 st3,100-125,Hormosina globulifera,0,0
 st3,100-125,Hyalinonetrion sp.,2,1.5719006725125468
 st3,100-125,Islandiella helenae,4,3.1438013450250937
@@ -809,7 +809,7 @@ st3,100-125,Islandiella sp.,0,0
 st3,100-125,Labrospira crassimargo,0,0
 st3,100-125,Lagena striata,0,0
 st3,100-125,Lagenammina atlantica,5,3.929751681281367
-st3,100-125,Leptohalysis scottii ,0,0
+st3,100-125,Leptohalysis scottii,0,0
 st3,100-125,Lotostomoides calomorpha,0,0
 st3,100-125,Melonis cf. barleeanus,42,33.009914122763476
 st3,100-125,Miliolinella circularis,0,0
@@ -834,7 +834,7 @@ st3,100-125,Recurvoides turbinatus,0,0
 st3,100-125,Reophax catella,0,0
 st3,100-125,Reophax fusiformis,9,7.0735530263064605
 st3,100-125,Reophax scorpiurus,0,0
-st3,100-125,Reophax sp. ,0,0
+st3,100-125,Reophax sp.,0,0
 st3,100-125,Robertina arctica,0,0
 st3,100-125,Saccammina cf. sphaerica,0,0
 st3,100-125,Silicosigmoilina groenlandica,0,0
@@ -885,7 +885,7 @@ st3,125-150,Globobulimina sp.,4,3.1438013450250937
 st3,125-150,Globocassidulina sp.,0,0
 st3,125-150,Glomospira sp.,0,0
 st3,125-150,Haplophragmoides sp.,0,0
-st3,125-150,Hippocrepina sp. ,0,0
+st3,125-150,Hippocrepina sp.,0,0
 st3,125-150,Hormosina globulifera,0,0
 st3,125-150,Hyalinonetrion sp.,0,0
 st3,125-150,Islandiella helenae,1,0.7859503362562734
@@ -894,7 +894,7 @@ st3,125-150,Islandiella sp.,0,0
 st3,125-150,Labrospira crassimargo,1,0.7859503362562734
 st3,125-150,Lagena striata,0,0
 st3,125-150,Lagenammina atlantica,16,12.575205380100375
-st3,125-150,Leptohalysis scottii ,0,0
+st3,125-150,Leptohalysis scottii,0,0
 st3,125-150,Lotostomoides calomorpha,0,0
 st3,125-150,Melonis cf. barleeanus,9,7.0735530263064605
 st3,125-150,Miliolinella circularis,0,0
@@ -919,7 +919,7 @@ st3,125-150,Recurvoides turbinatus,0,0
 st3,125-150,Reophax catella,1,0.7859503362562734
 st3,125-150,Reophax fusiformis,22,17.290907397638016
 st3,125-150,Reophax scorpiurus,0,0
-st3,125-150,Reophax sp. ,0,0
+st3,125-150,Reophax sp.,0,0
 st3,125-150,Robertina arctica,0,0
 st3,125-150,Saccammina cf. sphaerica,0,0
 st3,125-150,Silicosigmoilina groenlandica,1,0.7859503362562734
@@ -970,7 +970,7 @@ st3,>150,Globobulimina sp.,0,0
 st3,>150,Globocassidulina sp.,0,0
 st3,>150,Glomospira sp.,0,0
 st3,>150,Haplophragmoides sp.,0,0
-st3,>150,Hippocrepina sp. ,0,0
+st3,>150,Hippocrepina sp.,0,0
 st3,>150,Hormosina globulifera,0,0
 st3,>150,Hyalinonetrion sp.,1,0.7859503362562734
 st3,>150,Islandiella helenae,13,10.217354371331554
@@ -979,7 +979,7 @@ st3,>150,Islandiella sp.,0,0
 st3,>150,Labrospira crassimargo,26,20.43470874266311
 st3,>150,Lagena striata,0,0
 st3,>150,Lagenammina atlantica,18,14.147106052612921
-st3,>150,Leptohalysis scottii ,0,0
+st3,>150,Leptohalysis scottii,0,0
 st3,>150,Lotostomoides calomorpha,0,0
 st3,>150,Melonis cf. barleeanus,0,0
 st3,>150,Miliolinella circularis,0,0
@@ -1004,7 +1004,7 @@ st3,>150,Recurvoides turbinatus,0,0
 st3,>150,Reophax catella,0,0
 st3,>150,Reophax fusiformis,42,33.009914122763476
 st3,>150,Reophax scorpiurus,1,0.7859503362562734
-st3,>150,Reophax sp. ,0,0
+st3,>150,Reophax sp.,0,0
 st3,>150,Robertina arctica,6,4.71570201753764
 st3,>150,Saccammina cf. sphaerica,0,0
 st3,>150,Silicosigmoilina groenlandica,2,1.5719006725125468
@@ -1055,7 +1055,7 @@ st4,63-100,Globobulimina sp.,3,2.35785100876882
 st4,63-100,Globocassidulina sp.,0,0
 st4,63-100,Glomospira sp.,3,2.35785100876882
 st4,63-100,Haplophragmoides sp.,0,0
-st4,63-100,Hippocrepina sp. ,0,0
+st4,63-100,Hippocrepina sp.,0,0
 st4,63-100,Hormosina globulifera,0,0
 st4,63-100,Hyalinonetrion sp.,0,0
 st4,63-100,Islandiella helenae,3,2.35785100876882
@@ -1064,7 +1064,7 @@ st4,63-100,Islandiella sp.,3,2.35785100876882
 st4,63-100,Labrospira crassimargo,0,0
 st4,63-100,Lagena striata,0,0
 st4,63-100,Lagenammina atlantica,19,14.933056388869193
-st4,63-100,Leptohalysis scottii ,16,12.575205380100375
+st4,63-100,Leptohalysis scottii,16,12.575205380100375
 st4,63-100,Lotostomoides calomorpha,3,2.35785100876882
 st4,63-100,Melonis cf. barleeanus,29,22.792559751431927
 st4,63-100,Miliolinella circularis,4,3.1438013450250937
@@ -1089,7 +1089,7 @@ st4,63-100,Recurvoides turbinatus,0,0
 st4,63-100,Reophax catella,5,3.929751681281367
 st4,63-100,Reophax fusiformis,9,7.0735530263064605
 st4,63-100,Reophax scorpiurus,0,0
-st4,63-100,Reophax sp. ,0,0
+st4,63-100,Reophax sp.,0,0
 st4,63-100,Robertina arctica,0,0
 st4,63-100,Saccammina cf. sphaerica,0,0
 st4,63-100,Silicosigmoilina groenlandica,0,0
@@ -1140,7 +1140,7 @@ st4,100-125,Globobulimina sp.,0,0
 st4,100-125,Globocassidulina sp.,0,0
 st4,100-125,Glomospira sp.,0,0
 st4,100-125,Haplophragmoides sp.,0,0
-st4,100-125,Hippocrepina sp. ,0,0
+st4,100-125,Hippocrepina sp.,0,0
 st4,100-125,Hormosina globulifera,0,0
 st4,100-125,Hyalinonetrion sp.,0,0
 st4,100-125,Islandiella helenae,2,1.5719006725125468
@@ -1149,7 +1149,7 @@ st4,100-125,Islandiella sp.,0,0
 st4,100-125,Labrospira crassimargo,0,0
 st4,100-125,Lagena striata,0,0
 st4,100-125,Lagenammina atlantica,6,4.71570201753764
-st4,100-125,Leptohalysis scottii ,0,0
+st4,100-125,Leptohalysis scottii,0,0
 st4,100-125,Lotostomoides calomorpha,1,0.7859503362562734
 st4,100-125,Melonis cf. barleeanus,35,27.508261768969568
 st4,100-125,Miliolinella circularis,0,0
@@ -1174,7 +1174,7 @@ st4,100-125,Recurvoides turbinatus,0,0
 st4,100-125,Reophax catella,0,0
 st4,100-125,Reophax fusiformis,1,0.7859503362562734
 st4,100-125,Reophax scorpiurus,0,0
-st4,100-125,Reophax sp. ,0,0
+st4,100-125,Reophax sp.,0,0
 st4,100-125,Robertina arctica,1,0.7859503362562734
 st4,100-125,Saccammina cf. sphaerica,0,0
 st4,100-125,Silicosigmoilina groenlandica,0,0
@@ -1225,7 +1225,7 @@ st4,125-150,Globobulimina sp.,8,6.287602690050187
 st4,125-150,Globocassidulina sp.,0,0
 st4,125-150,Glomospira sp.,0,0
 st4,125-150,Haplophragmoides sp.,0,0
-st4,125-150,Hippocrepina sp. ,0,0
+st4,125-150,Hippocrepina sp.,0,0
 st4,125-150,Hormosina globulifera,0,0
 st4,125-150,Hyalinonetrion sp.,0,0
 st4,125-150,Islandiella helenae,1,0.7859503362562734
@@ -1234,7 +1234,7 @@ st4,125-150,Islandiella sp.,0,0
 st4,125-150,Labrospira crassimargo,1,0.7859503362562734
 st4,125-150,Lagena striata,0,0
 st4,125-150,Lagenammina atlantica,0,0
-st4,125-150,Leptohalysis scottii ,1,0.7859503362562734
+st4,125-150,Leptohalysis scottii,1,0.7859503362562734
 st4,125-150,Lotostomoides calomorpha,1,0.7859503362562734
 st4,125-150,Melonis cf. barleeanus,13,10.217354371331554
 st4,125-150,Miliolinella circularis,0,0
@@ -1259,7 +1259,7 @@ st4,125-150,Recurvoides turbinatus,0,0
 st4,125-150,Reophax catella,0,0
 st4,125-150,Reophax fusiformis,19,14.933056388869193
 st4,125-150,Reophax scorpiurus,0,0
-st4,125-150,Reophax sp. ,0,0
+st4,125-150,Reophax sp.,0,0
 st4,125-150,Robertina arctica,0,0
 st4,125-150,Saccammina cf. sphaerica,0,0
 st4,125-150,Silicosigmoilina groenlandica,0,0
@@ -1310,7 +1310,7 @@ st4,>150,Globobulimina sp.,0,0
 st4,>150,Globocassidulina sp.,0,0
 st4,>150,Glomospira sp.,0,0
 st4,>150,Haplophragmoides sp.,0,0
-st4,>150,Hippocrepina sp. ,0,0
+st4,>150,Hippocrepina sp.,0,0
 st4,>150,Hormosina globulifera,0,0
 st4,>150,Hyalinonetrion sp.,0,0
 st4,>150,Islandiella helenae,10,7.859503362562734
@@ -1319,7 +1319,7 @@ st4,>150,Islandiella sp.,0,0
 st4,>150,Labrospira crassimargo,63,49.51487118414522
 st4,>150,Lagena striata,0,0
 st4,>150,Lagenammina atlantica,18,14.147106052612921
-st4,>150,Leptohalysis scottii ,0,0
+st4,>150,Leptohalysis scottii,0,0
 st4,>150,Lotostomoides calomorpha,0,0
 st4,>150,Melonis cf. barleeanus,0,0
 st4,>150,Miliolinella circularis,0,0
@@ -1344,7 +1344,7 @@ st4,>150,Recurvoides turbinatus,1,0.7859503362562734
 st4,>150,Reophax catella,0,0
 st4,>150,Reophax fusiformis,40,31.438013450250935
 st4,>150,Reophax scorpiurus,11,8.645453698819008
-st4,>150,Reophax sp. ,0,0
+st4,>150,Reophax sp.,0,0
 st4,>150,Robertina arctica,0,0
 st4,>150,Saccammina cf. sphaerica,0,0
 st4,>150,Silicosigmoilina groenlandica,0,0
@@ -1395,7 +1395,7 @@ st5,63-100,Globobulimina sp.,0,0
 st5,63-100,Globocassidulina sp.,0,0
 st5,63-100,Glomospira sp.,7,5.501652353793913
 st5,63-100,Haplophragmoides sp.,0,0
-st5,63-100,Hippocrepina sp. ,0,0
+st5,63-100,Hippocrepina sp.,0,0
 st5,63-100,Hormosina globulifera,0,0
 st5,63-100,Hyalinonetrion sp.,0,0
 st5,63-100,Islandiella helenae,4,3.1438013450250937
@@ -1404,7 +1404,7 @@ st5,63-100,Islandiella sp.,12,9.43140403507528
 st5,63-100,Labrospira crassimargo,0,0
 st5,63-100,Lagena striata,11,8.645453698819008
 st5,63-100,Lagenammina atlantica,21,16.504957061381738
-st5,63-100,Leptohalysis scottii ,37,29.080162441482116
+st5,63-100,Leptohalysis scottii,37,29.080162441482116
 st5,63-100,Lotostomoides calomorpha,55,43.227268494095036
 st5,63-100,Melonis cf. barleeanus,112,88.02643766070261
 st5,63-100,Miliolinella circularis,0,0
@@ -1429,7 +1429,7 @@ st5,63-100,Recurvoides turbinatus,0,0
 st5,63-100,Reophax catella,53,41.65536782158249
 st5,63-100,Reophax fusiformis,32,25.15041076020075
 st5,63-100,Reophax scorpiurus,0,0
-st5,63-100,Reophax sp. ,0,0
+st5,63-100,Reophax sp.,0,0
 st5,63-100,Robertina arctica,0,0
 st5,63-100,Saccammina cf. sphaerica,0,0
 st5,63-100,Silicosigmoilina groenlandica,3,2.35785100876882
@@ -1480,7 +1480,7 @@ st5,100-125,Globobulimina sp.,0,0
 st5,100-125,Globocassidulina sp.,0,0
 st5,100-125,Glomospira sp.,0,0
 st5,100-125,Haplophragmoides sp.,1,0.7859503362562734
-st5,100-125,Hippocrepina sp. ,0,0
+st5,100-125,Hippocrepina sp.,0,0
 st5,100-125,Hormosina globulifera,0,0
 st5,100-125,Hyalinonetrion sp.,0,0
 st5,100-125,Islandiella helenae,0,0
@@ -1489,7 +1489,7 @@ st5,100-125,Islandiella sp.,0,0
 st5,100-125,Labrospira crassimargo,0,0
 st5,100-125,Lagena striata,0,0
 st5,100-125,Lagenammina atlantica,3,2.35785100876882
-st5,100-125,Leptohalysis scottii ,0,0
+st5,100-125,Leptohalysis scottii,0,0
 st5,100-125,Lotostomoides calomorpha,3,2.35785100876882
 st5,100-125,Melonis cf. barleeanus,149,117.10660010218473
 st5,100-125,Miliolinella circularis,0,0
@@ -1514,7 +1514,7 @@ st5,100-125,Recurvoides turbinatus,2,1.5719006725125468
 st5,100-125,Reophax catella,0,0
 st5,100-125,Reophax fusiformis,11,8.645453698819008
 st5,100-125,Reophax scorpiurus,0,0
-st5,100-125,Reophax sp. ,0,0
+st5,100-125,Reophax sp.,0,0
 st5,100-125,Robertina arctica,0,0
 st5,100-125,Saccammina cf. sphaerica,0,0
 st5,100-125,Silicosigmoilina groenlandica,3,2.35785100876882
@@ -1565,7 +1565,7 @@ st5,125-150,Globobulimina sp.,0,0
 st5,125-150,Globocassidulina sp.,0,0
 st5,125-150,Glomospira sp.,0,0
 st5,125-150,Haplophragmoides sp.,2,1.5719006725125468
-st5,125-150,Hippocrepina sp. ,0,0
+st5,125-150,Hippocrepina sp.,0,0
 st5,125-150,Hormosina globulifera,0,0
 st5,125-150,Hyalinonetrion sp.,0,0
 st5,125-150,Islandiella helenae,6,4.71570201753764
@@ -1574,7 +1574,7 @@ st5,125-150,Islandiella sp.,2,1.5719006725125468
 st5,125-150,Labrospira crassimargo,1,0.7859503362562734
 st5,125-150,Lagena striata,0,0
 st5,125-150,Lagenammina atlantica,11,8.645453698819008
-st5,125-150,Leptohalysis scottii ,2,1.5719006725125468
+st5,125-150,Leptohalysis scottii,2,1.5719006725125468
 st5,125-150,Lotostomoides calomorpha,1,0.7859503362562734
 st5,125-150,Melonis cf. barleeanus,36,28.294212105225842
 st5,125-150,Miliolinella circularis,0,0
@@ -1599,7 +1599,7 @@ st5,125-150,Recurvoides turbinatus,7,5.501652353793913
 st5,125-150,Reophax catella,0,0
 st5,125-150,Reophax fusiformis,41,32.223963786507205
 st5,125-150,Reophax scorpiurus,0,0
-st5,125-150,Reophax sp. ,0,0
+st5,125-150,Reophax sp.,0,0
 st5,125-150,Robertina arctica,0,0
 st5,125-150,Saccammina cf. sphaerica,0,0
 st5,125-150,Silicosigmoilina groenlandica,9,7.0735530263064605
@@ -1650,7 +1650,7 @@ st5,>150,Globobulimina sp.,0,0
 st5,>150,Globocassidulina sp.,1,0.7859503362562734
 st5,>150,Glomospira sp.,0,0
 st5,>150,Haplophragmoides sp.,0,0
-st5,>150,Hippocrepina sp. ,0,0
+st5,>150,Hippocrepina sp.,0,0
 st5,>150,Hormosina globulifera,0,0
 st5,>150,Hyalinonetrion sp.,0,0
 st5,>150,Islandiella helenae,33,25.936361096457023
@@ -1659,7 +1659,7 @@ st5,>150,Islandiella sp.,1,0.7859503362562734
 st5,>150,Labrospira crassimargo,130,102.17354371331552
 st5,>150,Lagena striata,0,0
 st5,>150,Lagenammina atlantica,22,17.290907397638016
-st5,>150,Leptohalysis scottii ,0,0
+st5,>150,Leptohalysis scottii,0,0
 st5,>150,Lotostomoides calomorpha,0,0
 st5,>150,Melonis cf. barleeanus,0,0
 st5,>150,Miliolinella circularis,11,8.645453698819008
@@ -1684,7 +1684,7 @@ st5,>150,Recurvoides turbinatus,33,25.936361096457023
 st5,>150,Reophax catella,0,0
 st5,>150,Reophax fusiformis,65,51.08677185665776
 st5,>150,Reophax scorpiurus,1,0.7859503362562734
-st5,>150,Reophax sp. ,0,0
+st5,>150,Reophax sp.,0,0
 st5,>150,Robertina arctica,2,1.5719006725125468
 st5,>150,Saccammina cf. sphaerica,0,0
 st5,>150,Silicosigmoilina groenlandica,12,9.43140403507528
@@ -1735,7 +1735,7 @@ st6,63-100,Globobulimina sp.,0,0
 st6,63-100,Globocassidulina sp.,0,0
 st6,63-100,Glomospira sp.,3,2.35785100876882
 st6,63-100,Haplophragmoides sp.,3,2.35785100876882
-st6,63-100,Hippocrepina sp. ,0,0
+st6,63-100,Hippocrepina sp.,0,0
 st6,63-100,Hormosina globulifera,0,0
 st6,63-100,Hyalinonetrion sp.,0,0
 st6,63-100,Islandiella helenae,3,2.35785100876882
@@ -1744,7 +1744,7 @@ st6,63-100,Islandiella sp.,40,31.438013450250935
 st6,63-100,Labrospira crassimargo,0,0
 st6,63-100,Lagena striata,0,0
 st6,63-100,Lagenammina atlantica,91,71.52148059932088
-st6,63-100,Leptohalysis scottii ,3,2.35785100876882
+st6,63-100,Leptohalysis scottii,3,2.35785100876882
 st6,63-100,Lotostomoides calomorpha,0,0
 st6,63-100,Melonis cf. barleeanus,629,494.36276150519586
 st6,63-100,Miliolinella circularis,0,0
@@ -1769,7 +1769,7 @@ st6,63-100,Recurvoides turbinatus,13,10.217354371331554
 st6,63-100,Reophax catella,99,77.80908328937106
 st6,63-100,Reophax fusiformis,8,6.287602690050187
 st6,63-100,Reophax scorpiurus,0,0
-st6,63-100,Reophax sp. ,0,0
+st6,63-100,Reophax sp.,0,0
 st6,63-100,Robertina arctica,0,0
 st6,63-100,Saccammina cf. sphaerica,0,0
 st6,63-100,Silicosigmoilina groenlandica,0,0
@@ -1820,7 +1820,7 @@ st6,100-125,Globobulimina sp.,0,0
 st6,100-125,Globocassidulina sp.,0,0
 st6,100-125,Glomospira sp.,8,6.287602690050187
 st6,100-125,Haplophragmoides sp.,0,0
-st6,100-125,Hippocrepina sp. ,0,0
+st6,100-125,Hippocrepina sp.,0,0
 st6,100-125,Hormosina globulifera,0,0
 st6,100-125,Hyalinonetrion sp.,0,0
 st6,100-125,Islandiella helenae,3,2.35785100876882
@@ -1829,7 +1829,7 @@ st6,100-125,Islandiella sp.,3,2.35785100876882
 st6,100-125,Labrospira crassimargo,0,0
 st6,100-125,Lagena striata,0,0
 st6,100-125,Lagenammina atlantica,10,7.859503362562734
-st6,100-125,Leptohalysis scottii ,0,0
+st6,100-125,Leptohalysis scottii,0,0
 st6,100-125,Lotostomoides calomorpha,0,0
 st6,100-125,Melonis cf. barleeanus,301,236.57105121313828
 st6,100-125,Miliolinella circularis,0,0
@@ -1854,7 +1854,7 @@ st6,100-125,Recurvoides turbinatus,8,6.287602690050187
 st6,100-125,Reophax catella,0,0
 st6,100-125,Reophax fusiformis,17,13.361155716356645
 st6,100-125,Reophax scorpiurus,0,0
-st6,100-125,Reophax sp. ,0,0
+st6,100-125,Reophax sp.,0,0
 st6,100-125,Robertina arctica,0,0
 st6,100-125,Saccammina cf. sphaerica,0,0
 st6,100-125,Silicosigmoilina groenlandica,1,0.7859503362562734
@@ -1905,7 +1905,7 @@ st6,125-150,Globobulimina sp.,0,0
 st6,125-150,Globocassidulina sp.,0,0
 st6,125-150,Glomospira sp.,2,1.5719006725125468
 st6,125-150,Haplophragmoides sp.,0,0
-st6,125-150,Hippocrepina sp. ,1,0.7859503362562734
+st6,125-150,Hippocrepina sp.,1,0.7859503362562734
 st6,125-150,Hormosina globulifera,0,0
 st6,125-150,Hyalinonetrion sp.,0,0
 st6,125-150,Islandiella helenae,6,4.71570201753764
@@ -1914,7 +1914,7 @@ st6,125-150,Islandiella sp.,14,11.003304707587827
 st6,125-150,Labrospira crassimargo,1,0.7859503362562734
 st6,125-150,Lagena striata,0,0
 st6,125-150,Lagenammina atlantica,22,17.290907397638016
-st6,125-150,Leptohalysis scottii ,0,0
+st6,125-150,Leptohalysis scottii,0,0
 st6,125-150,Lotostomoides calomorpha,0,0
 st6,125-150,Melonis cf. barleeanus,17,13.361155716356645
 st6,125-150,Miliolinella circularis,0,0
@@ -1939,7 +1939,7 @@ st6,125-150,Recurvoides turbinatus,5,3.929751681281367
 st6,125-150,Reophax catella,0,0
 st6,125-150,Reophax fusiformis,26,20.43470874266311
 st6,125-150,Reophax scorpiurus,0,0
-st6,125-150,Reophax sp. ,0,0
+st6,125-150,Reophax sp.,0,0
 st6,125-150,Robertina arctica,0,0
 st6,125-150,Saccammina cf. sphaerica,0,0
 st6,125-150,Silicosigmoilina groenlandica,3,2.35785100876882
@@ -1990,7 +1990,7 @@ st6,>150,Globobulimina sp.,0,0
 st6,>150,Globocassidulina sp.,0,0
 st6,>150,Glomospira sp.,1,0.7859503362562734
 st6,>150,Haplophragmoides sp.,1,0.7859503362562734
-st6,>150,Hippocrepina sp. ,0,0
+st6,>150,Hippocrepina sp.,0,0
 st6,>150,Hormosina globulifera,2,1.5719006725125468
 st6,>150,Hyalinonetrion sp.,0,0
 st6,>150,Islandiella helenae,26,20.43470874266311
@@ -1999,7 +1999,7 @@ st6,>150,Islandiella sp.,7,5.501652353793913
 st6,>150,Labrospira crassimargo,42,33.009914122763476
 st6,>150,Lagena striata,0,0
 st6,>150,Lagenammina atlantica,4,3.1438013450250937
-st6,>150,Leptohalysis scottii ,0,0
+st6,>150,Leptohalysis scottii,0,0
 st6,>150,Lotostomoides calomorpha,0,0
 st6,>150,Melonis cf. barleeanus,0,0
 st6,>150,Miliolinella circularis,0,0
@@ -2024,7 +2024,7 @@ st6,>150,Recurvoides turbinatus,41,32.223963786507205
 st6,>150,Reophax catella,0,0
 st6,>150,Reophax fusiformis,65,51.08677185665776
 st6,>150,Reophax scorpiurus,5,3.929751681281367
-st6,>150,Reophax sp. ,0,0
+st6,>150,Reophax sp.,0,0
 st6,>150,Robertina arctica,1,0.7859503362562734
 st6,>150,Saccammina cf. sphaerica,0,0
 st6,>150,Silicosigmoilina groenlandica,1,0.7859503362562734
@@ -2075,7 +2075,7 @@ st7,63-100,Globobulimina sp.,0,0
 st7,63-100,Globocassidulina sp.,1,0.7859503362562734
 st7,63-100,Glomospira sp.,0,0
 st7,63-100,Haplophragmoides sp.,0,0
-st7,63-100,Hippocrepina sp. ,0,0
+st7,63-100,Hippocrepina sp.,0,0
 st7,63-100,Hormosina globulifera,0,0
 st7,63-100,Hyalinonetrion sp.,0,0
 st7,63-100,Islandiella helenae,0,0
@@ -2084,7 +2084,7 @@ st7,63-100,Islandiella sp.,0,0
 st7,63-100,Labrospira crassimargo,0,0
 st7,63-100,Lagena striata,0,0
 st7,63-100,Lagenammina atlantica,0,0
-st7,63-100,Leptohalysis scottii ,6,4.71570201753764
+st7,63-100,Leptohalysis scottii,6,4.71570201753764
 st7,63-100,Lotostomoides calomorpha,0,0
 st7,63-100,Melonis cf. barleeanus,0,0
 st7,63-100,Miliolinella circularis,0,0
@@ -2109,7 +2109,7 @@ st7,63-100,Recurvoides turbinatus,0,0
 st7,63-100,Reophax catella,0,0
 st7,63-100,Reophax fusiformis,0,0
 st7,63-100,Reophax scorpiurus,0,0
-st7,63-100,Reophax sp. ,0,0
+st7,63-100,Reophax sp.,0,0
 st7,63-100,Robertina arctica,0,0
 st7,63-100,Saccammina cf. sphaerica,0,0
 st7,63-100,Silicosigmoilina groenlandica,0,0
@@ -2160,7 +2160,7 @@ st7,100-125,Globobulimina sp.,0,0
 st7,100-125,Globocassidulina sp.,0,0
 st7,100-125,Glomospira sp.,0,0
 st7,100-125,Haplophragmoides sp.,0,0
-st7,100-125,Hippocrepina sp. ,0,0
+st7,100-125,Hippocrepina sp.,0,0
 st7,100-125,Hormosina globulifera,0,0
 st7,100-125,Hyalinonetrion sp.,0,0
 st7,100-125,Islandiella helenae,0,0
@@ -2169,7 +2169,7 @@ st7,100-125,Islandiella sp.,0,0
 st7,100-125,Labrospira crassimargo,0,0
 st7,100-125,Lagena striata,0,0
 st7,100-125,Lagenammina atlantica,0,0
-st7,100-125,Leptohalysis scottii ,1,0.7859503362562734
+st7,100-125,Leptohalysis scottii,1,0.7859503362562734
 st7,100-125,Lotostomoides calomorpha,0,0
 st7,100-125,Melonis cf. barleeanus,0,0
 st7,100-125,Miliolinella circularis,0,0
@@ -2194,7 +2194,7 @@ st7,100-125,Recurvoides turbinatus,0,0
 st7,100-125,Reophax catella,0,0
 st7,100-125,Reophax fusiformis,0,0
 st7,100-125,Reophax scorpiurus,0,0
-st7,100-125,Reophax sp. ,0,0
+st7,100-125,Reophax sp.,0,0
 st7,100-125,Robertina arctica,0,0
 st7,100-125,Saccammina cf. sphaerica,0,0
 st7,100-125,Silicosigmoilina groenlandica,0,0
@@ -2245,7 +2245,7 @@ st7,125-150,Globobulimina sp.,0,0
 st7,125-150,Globocassidulina sp.,0,0
 st7,125-150,Glomospira sp.,0,0
 st7,125-150,Haplophragmoides sp.,0,0
-st7,125-150,Hippocrepina sp. ,0,0
+st7,125-150,Hippocrepina sp.,0,0
 st7,125-150,Hormosina globulifera,0,0
 st7,125-150,Hyalinonetrion sp.,2,1.5719006725125468
 st7,125-150,Islandiella helenae,0,0
@@ -2254,7 +2254,7 @@ st7,125-150,Islandiella sp.,0,0
 st7,125-150,Labrospira crassimargo,0,0
 st7,125-150,Lagena striata,0,0
 st7,125-150,Lagenammina atlantica,0,0
-st7,125-150,Leptohalysis scottii ,0,0
+st7,125-150,Leptohalysis scottii,0,0
 st7,125-150,Lotostomoides calomorpha,0,0
 st7,125-150,Melonis cf. barleeanus,0,0
 st7,125-150,Miliolinella circularis,0,0
@@ -2279,7 +2279,7 @@ st7,125-150,Recurvoides turbinatus,0,0
 st7,125-150,Reophax catella,0,0
 st7,125-150,Reophax fusiformis,0,0
 st7,125-150,Reophax scorpiurus,0,0
-st7,125-150,Reophax sp. ,0,0
+st7,125-150,Reophax sp.,0,0
 st7,125-150,Robertina arctica,0,0
 st7,125-150,Saccammina cf. sphaerica,0,0
 st7,125-150,Silicosigmoilina groenlandica,0,0
@@ -2330,7 +2330,7 @@ st7,>150,Globobulimina sp.,0,0
 st7,>150,Globocassidulina sp.,0,0
 st7,>150,Glomospira sp.,0,0
 st7,>150,Haplophragmoides sp.,0,0
-st7,>150,Hippocrepina sp. ,0,0
+st7,>150,Hippocrepina sp.,0,0
 st7,>150,Hormosina globulifera,0,0
 st7,>150,Hyalinonetrion sp.,0,0
 st7,>150,Islandiella helenae,0,0
@@ -2339,7 +2339,7 @@ st7,>150,Islandiella sp.,0,0
 st7,>150,Labrospira crassimargo,0,0
 st7,>150,Lagena striata,0,0
 st7,>150,Lagenammina atlantica,0,0
-st7,>150,Leptohalysis scottii ,0,0
+st7,>150,Leptohalysis scottii,0,0
 st7,>150,Lotostomoides calomorpha,0,0
 st7,>150,Melonis cf. barleeanus,0,0
 st7,>150,Miliolinella circularis,0,0
@@ -2364,7 +2364,7 @@ st7,>150,Recurvoides turbinatus,0,0
 st7,>150,Reophax catella,0,0
 st7,>150,Reophax fusiformis,1,0.7859503362562734
 st7,>150,Reophax scorpiurus,0,0
-st7,>150,Reophax sp. ,0,0
+st7,>150,Reophax sp.,0,0
 st7,>150,Robertina arctica,4,3.1438013450250937
 st7,>150,Saccammina cf. sphaerica,2,1.5719006725125468
 st7,>150,Silicosigmoilina groenlandica,0,0
@@ -2415,7 +2415,7 @@ st8,63-100,Globobulimina sp.,3,2.35785100876882
 st8,63-100,Globocassidulina sp.,0,0
 st8,63-100,Glomospira sp.,3,2.35785100876882
 st8,63-100,Haplophragmoides sp.,0,0
-st8,63-100,Hippocrepina sp. ,0,0
+st8,63-100,Hippocrepina sp.,0,0
 st8,63-100,Hormosina globulifera,0,0
 st8,63-100,Hyalinonetrion sp.,0,0
 st8,63-100,Islandiella helenae,8,6.287602690050187
@@ -2424,7 +2424,7 @@ st8,63-100,Islandiella sp.,16,12.575205380100375
 st8,63-100,Labrospira crassimargo,3,2.35785100876882
 st8,63-100,Lagena striata,0,0
 st8,63-100,Lagenammina atlantica,32,25.15041076020075
-st8,63-100,Leptohalysis scottii ,0,0
+st8,63-100,Leptohalysis scottii,0,0
 st8,63-100,Lotostomoides calomorpha,8,6.287602690050187
 st8,63-100,Melonis cf. barleeanus,277,217.70824314298773
 st8,63-100,Miliolinella circularis,0,0
@@ -2449,7 +2449,7 @@ st8,63-100,Recurvoides turbinatus,8,6.287602690050187
 st8,63-100,Reophax catella,45,35.367765131532295
 st8,63-100,Reophax fusiformis,3,2.35785100876882
 st8,63-100,Reophax scorpiurus,0,0
-st8,63-100,Reophax sp. ,3,2.35785100876882
+st8,63-100,Reophax sp.,3,2.35785100876882
 st8,63-100,Robertina arctica,0,0
 st8,63-100,Saccammina cf. sphaerica,0,0
 st8,63-100,Silicosigmoilina groenlandica,0,0
@@ -2500,7 +2500,7 @@ st8,100-125,Globobulimina sp.,0,0
 st8,100-125,Globocassidulina sp.,0,0
 st8,100-125,Glomospira sp.,5,3.929751681281367
 st8,100-125,Haplophragmoides sp.,0,0
-st8,100-125,Hippocrepina sp. ,0,0
+st8,100-125,Hippocrepina sp.,0,0
 st8,100-125,Hormosina globulifera,0,0
 st8,100-125,Hyalinonetrion sp.,0,0
 st8,100-125,Islandiella helenae,18,14.147106052612921
@@ -2509,7 +2509,7 @@ st8,100-125,Islandiella sp.,1,0.7859503362562734
 st8,100-125,Labrospira crassimargo,1,0.7859503362562734
 st8,100-125,Lagena striata,0,0
 st8,100-125,Lagenammina atlantica,7,5.501652353793913
-st8,100-125,Leptohalysis scottii ,0,0
+st8,100-125,Leptohalysis scottii,0,0
 st8,100-125,Lotostomoides calomorpha,0,0
 st8,100-125,Melonis cf. barleeanus,275,216.13634247047514
 st8,100-125,Miliolinella circularis,0,0
@@ -2534,7 +2534,7 @@ st8,100-125,Recurvoides turbinatus,0,0
 st8,100-125,Reophax catella,0,0
 st8,100-125,Reophax fusiformis,34,26.72231143271329
 st8,100-125,Reophax scorpiurus,0,0
-st8,100-125,Reophax sp. ,0,0
+st8,100-125,Reophax sp.,0,0
 st8,100-125,Robertina arctica,0,0
 st8,100-125,Saccammina cf. sphaerica,0,0
 st8,100-125,Silicosigmoilina groenlandica,0,0
@@ -2585,7 +2585,7 @@ st8,125-150,Globobulimina sp.,12,9.43140403507528
 st8,125-150,Globocassidulina sp.,1,0.7859503362562734
 st8,125-150,Glomospira sp.,3,2.35785100876882
 st8,125-150,Haplophragmoides sp.,0,0
-st8,125-150,Hippocrepina sp. ,2,1.5719006725125468
+st8,125-150,Hippocrepina sp.,2,1.5719006725125468
 st8,125-150,Hormosina globulifera,0,0
 st8,125-150,Hyalinonetrion sp.,0,0
 st8,125-150,Islandiella helenae,9,7.0735530263064605
@@ -2594,7 +2594,7 @@ st8,125-150,Islandiella sp.,20,15.719006725125467
 st8,125-150,Labrospira crassimargo,0,0
 st8,125-150,Lagena striata,4,3.1438013450250937
 st8,125-150,Lagenammina atlantica,16,12.575205380100375
-st8,125-150,Leptohalysis scottii ,0,0
+st8,125-150,Leptohalysis scottii,0,0
 st8,125-150,Lotostomoides calomorpha,0,0
 st8,125-150,Melonis cf. barleeanus,65,51.08677185665776
 st8,125-150,Miliolinella circularis,2,1.5719006725125468
@@ -2619,7 +2619,7 @@ st8,125-150,Recurvoides turbinatus,7,5.501652353793913
 st8,125-150,Reophax catella,0,0
 st8,125-150,Reophax fusiformis,17,13.361155716356645
 st8,125-150,Reophax scorpiurus,0,0
-st8,125-150,Reophax sp. ,0,0
+st8,125-150,Reophax sp.,0,0
 st8,125-150,Robertina arctica,2,1.5719006725125468
 st8,125-150,Saccammina cf. sphaerica,0,0
 st8,125-150,Silicosigmoilina groenlandica,0,0
@@ -2670,7 +2670,7 @@ st8,>150,Globobulimina sp.,0,0
 st8,>150,Globocassidulina sp.,0,0
 st8,>150,Glomospira sp.,0,0
 st8,>150,Haplophragmoides sp.,3,2.35785100876882
-st8,>150,Hippocrepina sp. ,1,0.7859503362562734
+st8,>150,Hippocrepina sp.,1,0.7859503362562734
 st8,>150,Hormosina globulifera,0,0
 st8,>150,Hyalinonetrion sp.,0,0
 st8,>150,Islandiella helenae,23,18.076857733894286
@@ -2679,7 +2679,7 @@ st8,>150,Islandiella sp.,28,22.006609415175653
 st8,>150,Labrospira crassimargo,112,88.02643766070261
 st8,>150,Lagena striata,0,0
 st8,>150,Lagenammina atlantica,6,4.71570201753764
-st8,>150,Leptohalysis scottii ,0,0
+st8,>150,Leptohalysis scottii,0,0
 st8,>150,Lotostomoides calomorpha,0,0
 st8,>150,Melonis cf. barleeanus,0,0
 st8,>150,Miliolinella circularis,0,0
@@ -2704,7 +2704,7 @@ st8,>150,Recurvoides turbinatus,16,12.575205380100375
 st8,>150,Reophax catella,0,0
 st8,>150,Reophax fusiformis,129,101.38759337705925
 st8,>150,Reophax scorpiurus,45,35.367765131532295
-st8,>150,Reophax sp. ,0,0
+st8,>150,Reophax sp.,0,0
 st8,>150,Robertina arctica,8,6.287602690050187
 st8,>150,Saccammina cf. sphaerica,0,0
 st8,>150,Silicosigmoilina groenlandica,0,0
@@ -2755,7 +2755,7 @@ st9,63-100,Globobulimina sp.,0,0
 st9,63-100,Globocassidulina sp.,4,3.1438013450250937
 st9,63-100,Glomospira sp.,9,7.0735530263064605
 st9,63-100,Haplophragmoides sp.,0,0
-st9,63-100,Hippocrepina sp. ,0,0
+st9,63-100,Hippocrepina sp.,0,0
 st9,63-100,Hormosina globulifera,0,0
 st9,63-100,Hyalinonetrion sp.,0,0
 st9,63-100,Islandiella helenae,16,12.575205380100375
@@ -2764,7 +2764,7 @@ st9,63-100,Islandiella sp.,23,18.076857733894286
 st9,63-100,Labrospira crassimargo,0,0
 st9,63-100,Lagena striata,0,0
 st9,63-100,Lagenammina atlantica,45,35.367765131532295
-st9,63-100,Leptohalysis scottii ,4,3.1438013450250937
+st9,63-100,Leptohalysis scottii,4,3.1438013450250937
 st9,63-100,Lotostomoides calomorpha,0,0
 st9,63-100,Melonis cf. barleeanus,195,153.2603155699733
 st9,63-100,Miliolinella circularis,0,0
@@ -2789,7 +2789,7 @@ st9,63-100,Recurvoides turbinatus,0,0
 st9,63-100,Reophax catella,139,109.24709673962198
 st9,63-100,Reophax fusiformis,73,57.374374546707955
 st9,63-100,Reophax scorpiurus,0,0
-st9,63-100,Reophax sp. ,0,0
+st9,63-100,Reophax sp.,0,0
 st9,63-100,Robertina arctica,0,0
 st9,63-100,Saccammina cf. sphaerica,0,0
 st9,63-100,Silicosigmoilina groenlandica,0,0
@@ -2840,7 +2840,7 @@ st9,100-125,Globobulimina sp.,0,0
 st9,100-125,Globocassidulina sp.,0,0
 st9,100-125,Glomospira sp.,2,1.5719006725125468
 st9,100-125,Haplophragmoides sp.,2,1.5719006725125468
-st9,100-125,Hippocrepina sp. ,1,0.7859503362562734
+st9,100-125,Hippocrepina sp.,1,0.7859503362562734
 st9,100-125,Hormosina globulifera,0,0
 st9,100-125,Hyalinonetrion sp.,0,0
 st9,100-125,Islandiella helenae,3,2.35785100876882
@@ -2849,7 +2849,7 @@ st9,100-125,Islandiella sp.,10,7.859503362562734
 st9,100-125,Labrospira crassimargo,0,0
 st9,100-125,Lagena striata,0,0
 st9,100-125,Lagenammina atlantica,26,20.43470874266311
-st9,100-125,Leptohalysis scottii ,0,0
+st9,100-125,Leptohalysis scottii,0,0
 st9,100-125,Lotostomoides calomorpha,0,0
 st9,100-125,Melonis cf. barleeanus,61,47.94297051163267
 st9,100-125,Miliolinella circularis,0,0
@@ -2874,7 +2874,7 @@ st9,100-125,Recurvoides turbinatus,3,2.35785100876882
 st9,100-125,Reophax catella,5,3.929751681281367
 st9,100-125,Reophax fusiformis,30,23.5785100876882
 st9,100-125,Reophax scorpiurus,0,0
-st9,100-125,Reophax sp. ,0,0
+st9,100-125,Reophax sp.,0,0
 st9,100-125,Robertina arctica,0,0
 st9,100-125,Saccammina cf. sphaerica,0,0
 st9,100-125,Silicosigmoilina groenlandica,1,0.7859503362562734
@@ -2925,7 +2925,7 @@ st9,125-150,Globobulimina sp.,6,4.71570201753764
 st9,125-150,Globocassidulina sp.,1,0.7859503362562734
 st9,125-150,Glomospira sp.,3,2.35785100876882
 st9,125-150,Haplophragmoides sp.,2,1.5719006725125468
-st9,125-150,Hippocrepina sp. ,0,0
+st9,125-150,Hippocrepina sp.,0,0
 st9,125-150,Hormosina globulifera,0,0
 st9,125-150,Hyalinonetrion sp.,0,0
 st9,125-150,Islandiella helenae,8,6.287602690050187
@@ -2934,7 +2934,7 @@ st9,125-150,Islandiella sp.,17,13.361155716356645
 st9,125-150,Labrospira crassimargo,1,0.7859503362562734
 st9,125-150,Lagena striata,0,0
 st9,125-150,Lagenammina atlantica,20,15.719006725125467
-st9,125-150,Leptohalysis scottii ,0,0
+st9,125-150,Leptohalysis scottii,0,0
 st9,125-150,Lotostomoides calomorpha,0,0
 st9,125-150,Melonis cf. barleeanus,4,3.1438013450250937
 st9,125-150,Miliolinella circularis,0,0
@@ -2959,7 +2959,7 @@ st9,125-150,Recurvoides turbinatus,2,1.5719006725125468
 st9,125-150,Reophax catella,0,0
 st9,125-150,Reophax fusiformis,35,27.508261768969568
 st9,125-150,Reophax scorpiurus,0,0
-st9,125-150,Reophax sp. ,0,0
+st9,125-150,Reophax sp.,0,0
 st9,125-150,Robertina arctica,0,0
 st9,125-150,Saccammina cf. sphaerica,0,0
 st9,125-150,Silicosigmoilina groenlandica,0,0
@@ -3010,7 +3010,7 @@ st9,>150,Globobulimina sp.,0,0
 st9,>150,Globocassidulina sp.,0,0
 st9,>150,Glomospira sp.,0,0
 st9,>150,Haplophragmoides sp.,3,2.35785100876882
-st9,>150,Hippocrepina sp. ,0,0
+st9,>150,Hippocrepina sp.,0,0
 st9,>150,Hormosina globulifera,0,0
 st9,>150,Hyalinonetrion sp.,0,0
 st9,>150,Islandiella helenae,17,13.361155716356645
@@ -3019,7 +3019,7 @@ st9,>150,Islandiella sp.,16,12.575205380100375
 st9,>150,Labrospira crassimargo,41,32.223963786507205
 st9,>150,Lagena striata,0,0
 st9,>150,Lagenammina atlantica,6,4.71570201753764
-st9,>150,Leptohalysis scottii ,0,0
+st9,>150,Leptohalysis scottii,0,0
 st9,>150,Lotostomoides calomorpha,0,0
 st9,>150,Melonis cf. barleeanus,0,0
 st9,>150,Miliolinella circularis,0,0
@@ -3044,7 +3044,7 @@ st9,>150,Recurvoides turbinatus,7,5.501652353793913
 st9,>150,Reophax catella,0,0
 st9,>150,Reophax fusiformis,47,36.93966580404485
 st9,>150,Reophax scorpiurus,11,8.645453698819008
-st9,>150,Reophax sp. ,0,0
+st9,>150,Reophax sp.,0,0
 st9,>150,Robertina arctica,0,0
 st9,>150,Saccammina cf. sphaerica,0,0
 st9,>150,Silicosigmoilina groenlandica,1,0.7859503362562734
