@@ -131,5 +131,6 @@ print(final_traits_plot)
 dev.off()
 
 ## clean environment ----
-rm("comm_traits", "comm_relative", "traits_labels", 
-   "traits_plots", "final_traits_plot", "traits_factor")
+
+# keep comm_king18, glacier_dist, fraction, col and traits
+rm(list = ls()[!ls() %in% c("comm_king18", "glacier_dist", "fraction", "col", "traits")])

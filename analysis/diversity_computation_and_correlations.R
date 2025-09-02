@@ -284,5 +284,6 @@ print(final_metric_cor_plot)
 dev.off()
 
 ## clean environment ----
+
 # keep glacier_dist, col and results
 rm(list = ls()[!ls() %in% c("glacier_dist", "col", "results")])

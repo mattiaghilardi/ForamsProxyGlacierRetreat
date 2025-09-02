@@ -3,7 +3,7 @@
 
 ## load data ----
 
-comm_king18 <- readr::read_csv("derived_data/foram_data_king18.csv")
+# comm_king18 <- readr::read_csv("derived_data/foram_data_king18.csv")
 # glacier_dist <- readr::read_delim("derived_data/glacier_dist.csv", delim = ";")
 
 ## density of cumulative size fractions ----
@@ -74,9 +74,9 @@ density_plot <- density %>%
   theme_bw() +
   theme(panel.grid = element_blank(),
         axis.text = element_text(colour = "black"),
-        axis.title.y = element_markdown(),
+        axis.title.y = ggtext::element_markdown(),
         legend.position = "top",
-        legend.title = element_markdown(hjust = 0.5, size = 11),
+        legend.title = ggtext::element_markdown(hjust = 0.5, size = 11),
         legend.title.position = "top",
         legend.text = element_text(size = 9),
         legend.key.width = unit(0.6, "cm"),
@@ -135,7 +135,7 @@ rel_density_plot <- ggplot(mapping = aes(x = glacier_dist)) +
   theme(panel.grid = element_blank(),
         axis.text = element_text(colour = "black"),
         legend.position = "top",
-        legend.title = element_markdown(hjust = 0.5, size = 11), 
+        legend.title = ggtext::element_markdown(hjust = 0.5, size = 11), 
         legend.title.position = "top",
         legend.text = element_text(size = 9),
         legend.key.width = unit(0.6, "cm"),
@@ -170,5 +170,6 @@ print(final_density_plot)
 dev.off()
 
 ## clean environment ----
+
 # keep comm_king18, glacier_dist and fraction
 rm(list = ls()[!ls() %in% c("comm_king18", "glacier_dist", "fraction")])

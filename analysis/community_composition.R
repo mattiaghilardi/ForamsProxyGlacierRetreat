@@ -183,5 +183,6 @@ print(final_plot_nmds)
 dev.off()
 
 ## clean environment ----
+
 # keep comm_king18, glacier_dist, fraction and col
 rm(list = ls()[!ls() %in% c("comm_king18", "glacier_dist", "fraction", "col")])

@@ -71,4 +71,6 @@ print(heatmaps)
 dev.off()
 
 ## clean environment ----
-rm(comm_heatmaps, heatmaps)
+
+# keep comm_king18, glacier_dist, fraction and col
+rm(list = ls()[!ls() %in% c("comm_king18", "glacier_dist", "fraction", "col")])

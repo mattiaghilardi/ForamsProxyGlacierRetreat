@@ -131,5 +131,6 @@ print(final_map)
 dev.off()
 
 ## clean environment ----
+
 # keep coord
 rm(list = ls()[ls() != "coord"])

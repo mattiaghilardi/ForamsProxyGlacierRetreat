@@ -11,12 +11,17 @@
 # coord$long <- measurements::conv_unit(coord$long, from = "deg_dec_min", to = "dec_deg") %>% 
 #   as.numeric()
 
-# get distance between station and glacier front in Km
+# get distance between station and glacier front in km
 glacier_dist <- c()
 for (i in 1:9) {
-  glacier_dist[i] <- round(geosphere::distm(c(coord$long[10], coord$lat[10]), 
+  # distance in meters
+  glacier_dist[i] <- geosphere::distm(c(coord$long[10], coord$lat[10]), 
                                             c(coord$long[i], coord$lat[i]), 
-                                            fun = geosphere::distGeo)/1000, 2)
+                                            fun = geosphere::distGeo)
+  # distance in km
+  glacier_dist[i] <- glacier_dist[i] / 1000
+  # round to two decimals
+  glacier_dist[i] <- round(glacier_dist[i], 2)
 }
 
 # add distance to the dataset
@@ -27,4 +32,5 @@ write_delim(glacier_dist, "derived_data/glacier_dist.csv", delim = ";" )
 
 ## clean environment ----
 
-rm(coord, i)
+# keep glacier_dist
+rm(list = ls()[ls() != "glacier_dist"])
