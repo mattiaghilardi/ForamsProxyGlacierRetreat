@@ -59,7 +59,7 @@ comm_traits <- comm_traits %>%
 # convert data frame to list: split by trait
 comm_traits <- split(comm_traits, comm_traits$trait)
 
-## plot (supplementary figure S3 in the paper) ----
+## plot (supplementary figure S4 in the paper) ----
 
 # list with arguments to pass to the plots
 traits_labels <- list("Test material" = list(labels = c("Agglutinated", "Calcareous"),

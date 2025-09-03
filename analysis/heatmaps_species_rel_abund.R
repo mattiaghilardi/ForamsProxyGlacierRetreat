@@ -34,7 +34,7 @@ comm_heatmaps <- comm_king18 %>%
   filter(any(rel_abund >= 5)) %>% # keep only the species >=5% in at least one station
   ungroup()
 
-## plot (supplementary figure S2 in the paper) ----
+## plot (supplementary figure S3 in the paper) ----
 
 heatmaps <- ggplot(comm_heatmaps, 
        aes(x = forcats::fct_reorder(station, glacier_dist), 

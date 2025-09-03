@@ -370,7 +370,7 @@ redundancy_plots <- lapply(1:4, function(i) {
   p
 })
 
-# combine plots (supplementary figure S1 in the paper)
+# combine plots (supplementary figure S2 in the paper)
 final_redundancy_plot <- patchwork::wrap_plots(redundancy_plots, nrow = 1)
 
 # save plot
