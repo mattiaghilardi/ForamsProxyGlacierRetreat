@@ -25,16 +25,40 @@ prop_genus <- comm_king18 %>%
   filter(taxon_level == "genus") %>% 
   ungroup()
 
-# test difference with anova using proportion in each station
-anova <- aov(proportion ~ fraction, data = prop_genus)
+# test difference with one way repeated measures ANOVA because data consists of
+# repeated measurements on the same stations in different fractions
+# check normality with qqplots
 par(mfrow = c(2, 2))
-plot(anova) # ok
-anova_sum <- summary(anova)[[1]]
+prop_genus |> 
+  split(~fraction) |> 
+  lapply(function(x) {
+    qqnorm(x$proportion)
+    qqline(x$proportion)
+  })
+# quite good, use also Shapiro test
+prop_genus |> 
+  split(~fraction) |> 
+  lapply(function(x) shapiro.test(x$proportion))
+# ok
+# fit anova
+anova <- aov(proportion ~ fraction + Error(station), # "Error(station)" for repeated measurements
+             data = prop_genus)
+anova_sum <- summary(anova)
+anova_sum
+# Error: station
+#           Df Sum Sq Mean Sq F value Pr(>F)
+# Residuals  8 0.1598 0.01998               
+# 
+# Error: Within
+#           Df  Sum Sq  Mean Sq F value Pr(>F)
+# fraction   3 0.01858 0.006194   1.807  0.173
+# Residuals 24 0.08229 0.003429
 
 # make label for plot
-F <- anova_sum["fraction", "F value"]
-df <- anova_sum[, "Df"]
-pvalue <- anova_sum["fraction", "Pr(>F)"]
+anova_sum_fraction <- anova_sum$`Error: Within`[[1]]
+F <- anova_sum_fraction["fraction", "F value"]
+df <- anova_sum_fraction[, "Df"]
+pvalue <- anova_sum_fraction["fraction", "Pr(>F)"]
 label <- paste0("*F*(", paste(df, collapse = ", "), ") = ", round(F, 2), 
                 ", *p* = ", round(pvalue, 2))
 
