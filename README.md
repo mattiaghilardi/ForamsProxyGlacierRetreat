@@ -15,7 +15,7 @@ paper
 > **Fossile E<sup>†</sup>, Ghilardi M<sup>†</sup>, Mojtahid M, Howa H,
 > Baltzer A, Nardelli MP** Taxonomic and functional diversity of benthic
 > foraminifera as a promising proxy for tidewater glacier retreat.
-> *Submitted*
+> *Under review*
 >
 > <sup>†</sup>Equal authorship
 
@@ -83,13 +83,13 @@ source("make.R")
 
 ## Working environment
 
-    #> R version 4.4.0 (2024-04-24)
+    #> R version 4.4.2 (2024-10-31)
     #> Platform: x86_64-pc-linux-gnu
     #> Running under: Ubuntu 22.04.4 LTS
     #> 
     #> Matrix products: default
-    #> BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.10.0 
-    #> LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.10.0
+    #> BLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 
+    #> LAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.20.so;  LAPACK version 3.10.0
     #> 
     #> locale:
     #>  [1] LC_CTYPE=en_GB.UTF-8       LC_NUMERIC=C              
@@ -106,7 +106,7 @@ source("make.R")
     #> [1] stats     graphics  grDevices datasets  utils     methods   base     
     #> 
     #> loaded via a namespace (and not attached):
-    #>  [1] compiler_4.4.0    fastmap_1.2.0     cli_3.6.2         htmltools_0.5.8.1
-    #>  [5] tools_4.4.0       rstudioapi_0.16.0 yaml_2.3.10       rmarkdown_2.27   
-    #>  [9] knitr_1.48        xfun_0.44         digest_0.6.35     rlang_1.1.4      
+    #>  [1] compiler_4.4.2    fastmap_1.2.0     cli_3.6.2         htmltools_0.5.8.1
+    #>  [5] tools_4.4.2       rstudioapi_0.16.0 yaml_2.3.10       rmarkdown_2.27   
+    #>  [9] knitr_1.48        xfun_0.44         digest_0.6.35     rlang_1.1.7      
     #> [13] renv_1.0.7        evaluate_0.24.0

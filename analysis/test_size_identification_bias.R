@@ -139,7 +139,7 @@ plot_species_loss <- species_loss %>%
   scale_fill_manual(values = c("red", "white")) +
   xlab("Size fraction (&mu;m)") +
   theme(axis.title.y = element_blank(),
-        axis.title.x = ggtext::element_markdown(),
+        axis.title.x.top = ggtext::element_markdown(),
         axis.text.y = element_text(face = "italic", size = 7),
         legend.title = element_blank())
 

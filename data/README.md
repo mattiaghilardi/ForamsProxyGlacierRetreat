@@ -2,7 +2,7 @@
   GEBCO/](https://github.com/mattiaghilardi/ForamsProxyGlacierRetreat/tree/main/data/GEBCO): contains the bathymetric data downloaded through the GEBCO Gridded Bathymetry Data Download application at: <https://download.gebco.net/>
 
 - [:file_folder:
-  ggOceanMaps/](https://github.com/mattiaghilardi/ForamsProxyGlacierRetreat/tree/main/data/ggOceanMaps): contains shapefiles of Svalbard land and glaciers downloaded by the R package [`ggOceanMaps`](https://github.com/MikkoVihtakari/ggOceanMaps) from the [`ggOceanMapsLargeData`](https://github.com/MikkoVihtakari/ggOceanMapsLargeData) repository. These shapefiles are from [Geonorge.no](https://www.geonorge.no/) and distributed under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+  ggOceanMaps/](https://github.com/mattiaghilardi/ForamsProxyGlacierRetreat/tree/main/data/ggOceanMaps): contains shapefiles of Arctic land and Svalbard land and glaciers downloaded by the R package [`ggOceanMaps`](https://github.com/MikkoVihtakari/ggOceanMaps) from the [`ggOceanMapsLargeData`](https://github.com/MikkoVihtakari/ggOceanMapsLargeData) repository. Detailed shapefiles of Svalbard are from [Geonorge.no](https://www.geonorge.no/) and distributed under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/), while Arctic land polygons are [Natural Earth Data](https://www.naturalearthdata.com/downloads/10m-physical-vectors/) 1:10m Physical Vectors with the Land and Minor Island datasets combined, distributed under the [CC Public Domain license](https://creativecommons.org/publicdomain/).
 
 - **coordinate_king18**: coordinates of sampling stations and glacier front in Degrees Decimal Minutes
 

@@ -32,9 +32,17 @@ fit_density <- lapply(density, function(x) {
   fit_glm_gam(glm_formula = tot_50cm3 ~ glacier_dist,
               gam_formula = tot_50cm3 ~ s(glacier_dist, k = 3, bs = "cr"),
               data = x,
-              family = "gaussian")
+              family = "gamma")
 })
-
+# "GLM supported: delta_AICc = 0.01"
+# "GLM supported: delta_AICc = 0.05"
+# "GLM supported: delta_AICc = 0.33"
+# "GLM supported: delta_AICc = 0.34"
+par(mfrow = c(2, 2))
+for (i in 1:4) {
+  cat(paste0("GLM diagnostics >", names(fit_density)[i]), fill = TRUE, labels = paste0("\n(", i, "):"))
+  plot(fit_density[[i]]$GLM)
+}
 for (i in 1:4) {
   print(summary(fit_density[[i]]$GLM))
 }
@@ -42,46 +50,73 @@ for (i in 1:4) {
 # create vector with fractions
 fraction <- names(density)
 
-# extract p-values of slopes
-pvalue <- lapply(1:4, function(i) {
+# extract p-values of slopes and adjusted R2 and make label
+labels_density <- lapply(1:4, function(i) {
   s <- summary(fit_density[[i]]$GLM)
   p <- s$coefficients[2, 4]
-  p <- round(p, 2)
+  if (p >= 0.001) {
+    p_lab <- paste("=", round(p, 3))
+  } else {
+    p_lab <- "< 0.001"
+  }
+  r2 <- 1 - (s$deviance/s$null.deviance)
+  adj_r2 <- 1 - (s$df.null/s$df.residual) * (1 - r2)
+  label <- paste0("*adjR<sup> 2</sup>* = ", round(adj_r2, 2), "<br>*p* ", p_lab)
   data.frame(fraction = fraction[i],
-             p = p)
+             p = p,
+             adj_r2 = adj_r2,
+             label = label)
 }) %>%
-  bind_rows()
+  bind_rows() %>%
+  mutate(fraction = factor(fraction, levels = names(density)))
+
+# make predictions
+newdata <- data.frame(glacier_dist = seq(min(glacier_dist$glacier_dist), 
+                                         max(glacier_dist$glacier_dist), 
+                                         length.out = 100))
+
+preds <- lapply(fit_density, function(x) { 
+  pred <- predict(x$GLM, newdata, type = "response", se = TRUE)
+  pred <- cbind(newdata, pred)
+  return(pred)
+}) %>%
+  bind_rows(.id = "fraction") %>%
+  mutate(fraction = factor(fraction, levels = names(density)),
+         lower = fit - (2 * se.fit),
+         upper = fit + (2 * se.fit))
 
 # plot density vs glacier distance coloured by fraction
 density_plot <- density %>%
   bind_rows() %>%
-  ggplot(aes(x = glacier_dist, y = tot_50cm3, colour = fraction)) +
-  geom_point() +
-  geom_richtext(data = pvalue,
-                aes(x = 3, 
-                    y = c(6000, 5600, 5200, 4800), 
-                    label = paste("<i>p</i> =", p), 
-                    color = fraction),
+  ggplot(aes(x = glacier_dist, colour = fraction, fill = fraction)) +
+  geom_ribbon(data = preds, 
+              aes(ymin = lower, ymax = upper), 
+              colour = NA, 
+              alpha = 0.2) + 
+  geom_line(data = preds, aes(y = fit)) +
+  geom_point(aes(y = tot_50cm3)) +
+  geom_richtext(data = labels_density,
+                aes(x = -Inf, 
+                    y = Inf, 
+                    label = label),
+                hjust = 0,
+                vjust = 1,
                 label.colour = NA,
                 fill = NA,
-                show.legend = FALSE) +
-  scale_colour_viridis_d("Size fraction (&mu;m)",
-                         direction = -1,
-                         labels = c(">63", ">100", ">125", ">150")) +
-  scale_y_continuous(breaks = seq(0, 6000, 1000)) +
+                colour = "black") +
+  facet_grid(cols = vars(fraction), 
+             labeller = as_labeller(function(x) paste0(">", x))) +
+  scale_colour_viridis_d(direction = -1,
+                         aesthetics = c("colour", "fill")) + 
   ylab("Abundance (ind. 50 cm<sup>-3</sup>)") +
   xlab("Distance (km)") +
   theme_bw() +
   theme(panel.grid = element_blank(),
         axis.text = element_text(colour = "black"),
         axis.title.y = ggtext::element_markdown(),
-        legend.position = "top",
-        legend.title = ggtext::element_markdown(hjust = 0.5, size = 11),
-        legend.title.position = "top",
-        legend.text = element_text(size = 9),
-        legend.key.width = unit(0.6, "cm"),
-        legend.key.spacing = unit(0.1, "cm"),
-        legend.box.spacing = unit(0.15, "cm"))
+        legend.position = "none",
+        strip.background = element_blank(),
+        strip.text = element_text(face = "bold", size = 10))
 
 density_plot
 
@@ -110,6 +145,14 @@ fit_rel_density <- gam(relative ~ fraction + s(glacier_dist, k = 3, bs = "cr", b
 summary(fit_rel_density)
 gam.check(fit_rel_density)
 
+# extract p-values of splines
+labels_rel_density <- data.frame(fraction = factor(levels(density_sep_fraction$fraction),
+                                                   levels = levels(density_sep_fraction$fraction)),
+                                 p = summary(fit_rel_density)$s.table[, 4]) %>% 
+  mutate(label = if_else(p >= 0.001, 
+                         paste("*p* =", round(p, 3)), 
+                         "*p* < 0.001"))
+
 # make predictions
 nd <- expand_grid(glacier_dist = seq(min(glacier_dist$glacier_dist), 
                                      max(glacier_dist$glacier_dist), 
@@ -122,50 +165,53 @@ pred_fit_rel_density$lower <- pred_fit_rel_density$fit - (2 * pred_fit_rel_densi
 pred_fit_rel_density$upper <- pred_fit_rel_density$fit + (2 * pred_fit_rel_density$se.fit)
 
 # plot relative density vs glacier distance for each fraction
-rel_density_plot <- ggplot(mapping = aes(x = glacier_dist)) +
-  geom_point(data = density_sep_fraction, aes(y = relative, shape = fraction)) +
-  geom_line(data = pred_fit_rel_density, aes(y = fit, linetype = fraction)) +
-  labs(shape = "Size fraction (&mu;m)", 
-       linetype = "Size fraction (&mu;m)", 
-       y = "Relative abundance", 
+rel_density_plot <- ggplot(density_sep_fraction, aes(x = glacier_dist)) + 
+  geom_ribbon(data = pred_fit_rel_density, 
+              aes(ymin = lower, ymax = upper), 
+              colour = NA,
+              alpha = 0.2) +
+  geom_line(data = pred_fit_rel_density, aes(y = fit)) +
+  geom_point(aes(y = relative)) +
+  geom_richtext(data = labels_rel_density,
+                aes(x = -Inf, 
+                    y = Inf, 
+                    label = label),
+                hjust = 0,
+                vjust = 1,
+                label.colour = NA,
+                fill = NA) +
+  facet_grid(cols = vars(fraction),
+             labeller = as_labeller(function(x) paste(x, "µm"))) +
+  labs(y = "Relative abundance", 
        x = "Distance (km)") +
-  scale_shape_manual(values = c(16, 17, 1, 2)) +
-  scale_linetype_manual(values = c(1, 2, 3, 4)) +
-  theme_bw() +
+  theme_bw() + 
   theme(panel.grid = element_blank(),
         axis.text = element_text(colour = "black"),
-        legend.position = "top",
-        legend.title = ggtext::element_markdown(hjust = 0.5, size = 11), 
-        legend.title.position = "top",
-        legend.text = element_text(size = 9),
-        legend.key.width = unit(0.6, "cm"),
-        legend.key.spacing = unit(0.1, "cm"),
-        legend.box.spacing = unit(0.15, "cm"))
+        strip.background = element_blank(),
+        strip.text = element_text(face = "bold", size = 10))
 
 rel_density_plot
 
 ## final plot (figure 2 in the paper) ----
 
 # combine plots
-final_density_plot <- density_plot + 
-  theme(plot.margin = margin(0.1, 0.15, 0.1, 0.1, "cm")) + 
+final_density_plot <- density_plot / 
   rel_density_plot + 
-  theme(plot.margin = margin(0.1, 0.1, 0.1, 0.15, "cm")) + 
   plot_annotation(tag_levels = 'a',
                   theme = theme(plot.margin = margin(0, 0, 0, 0))) & 
-  theme(plot.tag.position = c(0.03, 0.98),
+  theme(plot.tag.position = c(0, 0.98),
         plot.tag = element_text(face = "bold"))
 
 # save plot
-png("output/density_plot.png", width = 18, height = 11, units = "cm", res = 300)
+png("output/density_plot.png", width = 18, height = 15, units = "cm", res = 300)
 print(final_density_plot)
 dev.off()
 
-cairo_pdf("output/density_plot.pdf", width = 18/2.54, height = 11/2.54)
+cairo_pdf("output/density_plot.pdf", width = 18/2.54, height = 15/2.54)
 print(final_density_plot)
 dev.off()
 
-tiff("output/density_plot.tiff", width = 18, height = 11, units = "cm", res = 300)
+tiff("output/density_plot.tiff", width = 18, height = 15, units = "cm", res = 300)
 print(final_density_plot)
 dev.off()
 

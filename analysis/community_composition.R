@@ -97,7 +97,7 @@ pNMDS <- ggplot() +
         legend.key.size = unit(0.4, "cm"))
 pNMDS
 
-## GAM NMDS1 vs distance from the glacier ----
+## model NMDS1 vs distance from the glacier ----
 
 # convert data frame to list: split by fraction
 nmds_data <- split(data_scores, data_scores$fraction)
@@ -109,26 +109,29 @@ fit_nmds <- lapply(nmds_data, function(x) {
               data = x,
               family = "gaussian")
 })
-
+# "GLM supported: delta_AICc = 1.11"
+# "GLM supported: delta_AICc = 1.37"
+# "GLM supported: delta_AICc = 1.29"
+# "GLM supported: delta_AICc = 1.37"
+par(mfrow = c(2, 2))
 for (i in 1:4) {
-  print(summary(fit_nmds[[i]]$GLM))
+  cat(paste0("GLM diagnostics >", names(fit_nmds)[i]), fill = TRUE, labels = paste0("\n(", i, "):"))
+  plot(fit_nmds[[i]]$GLM)
 }
-
-plot(fit_nmds[[1]]$GLM, ask = FALSE)
-plot(fit_nmds[[2]]$GLM, ask = FALSE)
-plot(fit_nmds[[3]]$GLM, ask = FALSE)
-plot(fit_nmds[[4]]$GLM, ask = FALSE)
-# non-linearity --> use GAMs
-
+# clear non-linearity
 for (i in 1:4) {
+  cat(paste0("GAM diagnostics >", names(fit_nmds)[i]), fill = TRUE, labels = paste0("\n(", i, "):"))
+  gam.check(fit_nmds[[i]]$GAM)
+}
+# use GAMs for all
+for (i in 1:4) {
+  cat(paste0("summary GAM >", names(fit_nmds)[i]), fill = TRUE, labels = paste0("\n(", i, "):"))
   print(summary(fit_nmds[[i]]$GAM))
 }
 
-for (i in 1:4) {
-  gam.check(fit_nmds[[i]]$GAM)
-}
-
 # plot models
+par(mfrow = c(1, 1))
+
 newdata <- data.frame(glacier_dist = seq(min(glacier_dist$glacier_dist), 
                                          max(glacier_dist$glacier_dist), 
                                          length.out = 100))
@@ -160,13 +163,16 @@ plots_nmds <- mapply(i = 1:4, j = c(1, 0, 0, 0), function(i,j) {
 plots_nmds <- patchwork::wrap_plots(plots_nmds, nrow = 1) + 
   patchwork::plot_annotation(theme = theme(plot.margin = margin(0, 0, 0, 0)))
 
-final_plot_nmds <- 
-  (free(pNMDS) + 
-     theme(plot.margin = margin(0, 0, 0, 0))) / 
-  plots_nmds + 
-  plot_layout(heights = c(0.6, 0.4)) + 
+final_plot_nmds <- (free(pNMDS, side = "tbl") +
+    theme(plot.margin = margin(0, 0, 0, 0))) /
+  plots_nmds +
+  plot_layout(design = paste0(paste0(rep("A", 99), collapse = ""), "#\n",
+                              paste0(rep("A", 99), collapse = ""), "#\n",
+                              paste0(rep("A", 99), collapse = ""), "#\n",
+                              paste0(rep("B", 100), collapse = ""), "\n",
+                              paste0(rep("B", 100), collapse = ""))) +
   plot_annotation(tag_levels = list(c("a", "b")),
-                  theme = theme(plot.margin = margin(0, 0, 0, 0))) & 
+                  theme = theme(plot.margin = margin(0, 0, 0, 0))) &
   theme(plot.tag = element_text(face = "bold", hjust = 1, vjust = 0))
 
 # save plot
