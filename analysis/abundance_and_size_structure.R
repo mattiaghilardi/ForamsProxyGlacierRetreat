@@ -197,7 +197,7 @@ rel_density_plot
 # combine plots
 final_density_plot <- density_plot / 
   rel_density_plot + 
-  plot_annotation(tag_levels = 'a',
+  plot_annotation(tag_levels = 'A',
                   theme = theme(plot.margin = margin(0, 0, 0, 0))) & 
   theme(plot.tag.position = c(0, 0.98),
         plot.tag = element_text(face = "bold"))

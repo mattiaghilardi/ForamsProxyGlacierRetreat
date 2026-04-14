@@ -37,14 +37,14 @@ comm_heatmaps <- comm_king18 %>%
 ## plot (supplementary figure S3 in the paper) ----
 
 heatmaps <- ggplot(comm_heatmaps, 
-       aes(x = forcats::fct_reorder(station, glacier_dist), 
-           y = species)) + 
+                   aes(x = forcats::fct_reorder(station, glacier_dist), 
+                       y = species)) + 
   geom_tile(aes(fill = rel_abund_f)) +
   scale_fill_manual("Relative\nabundances", 
                     values = c("white", RColorBrewer::brewer.pal(6, "Blues"))) +
   geom_text(aes(label = round(rel_abund, 2)), size = 2.5) + 
   coord_cartesian(expand = FALSE) +
-  facet_grid(rows = "fraction",scales = "free", space = "free") +
+  facet_grid(rows = "fraction", scales = "free", space = "free") +
   theme(axis.title = element_blank(),
         legend.title = element_text(size = 9, hjust = 0.5, face = "bold"),
         legend.text = element_text(size = 8),

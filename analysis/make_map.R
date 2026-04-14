@@ -206,7 +206,7 @@ final_map <- p1 + p2 + p3 +
     BBBCCCCCCC
     BBBCCCCCCC
     ") +
-  plot_annotation(tag_levels = "a") &
+  plot_annotation(tag_levels = "A") &
   theme(plot.tag.position = c(0, 1),
         plot.tag = element_text(face = "bold", hjust = 0, vjust = 0))
 

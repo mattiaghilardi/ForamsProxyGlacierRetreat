@@ -171,7 +171,7 @@ final_plot_nmds <- (free(pNMDS, side = "tbl") +
                               paste0(rep("A", 99), collapse = ""), "#\n",
                               paste0(rep("B", 100), collapse = ""), "\n",
                               paste0(rep("B", 100), collapse = ""))) +
-  plot_annotation(tag_levels = list(c("a", "b")),
+  plot_annotation(tag_levels = list(c("A", "B")),
                   theme = theme(plot.margin = margin(0, 0, 0, 0))) &
   theme(plot.tag = element_text(face = "bold", hjust = 1, vjust = 0))
 

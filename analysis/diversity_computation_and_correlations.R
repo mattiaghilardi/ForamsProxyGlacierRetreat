@@ -252,8 +252,8 @@ metric_cor_plot <- mapply(function(x, y) {
   for(i in 1:4) {
     p[i, i] <- p[i, i] + 
       theme(panel.border = element_rect(linewidth = 1,
-                                        color = col[i],
-                                        fill = alpha(col[i], 0.2)))
+                                        color = col[i]),
+            panel.background = element_rect(fill = alpha(col[i], 0.2)))
   }
   
   ggmatrix_gtable(p)
