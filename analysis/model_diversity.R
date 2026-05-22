@@ -259,7 +259,7 @@ plots_Frich <- lapply(1:4, function(i) {
                       fill = col[i],
                       annotation_size = 2.5) +
     theme(axis.title.x = element_blank(),
-          axis.title = element_markdown(size = 8),
+          axis.title.y = element_markdown(size = 8),
           axis.text = element_text(size = 7))
   
   if (i != 1) p <- p +
@@ -278,7 +278,7 @@ plots_Feve <- lapply(1:4, function(i) {
                       fill = col[i],
                       annotation_size = 2.5) +
     theme(axis.title.x = element_blank(),
-          axis.title = element_markdown(size = 8),
+          axis.title.y = element_markdown(size = 8),
           axis.text = element_text(size = 7))
   
   if (i != 1) p <- p +
