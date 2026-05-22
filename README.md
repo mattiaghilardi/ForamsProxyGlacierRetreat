@@ -7,16 +7,17 @@
 
 [![License: MIT + file
 LICENSE](https://img.shields.io/badge/License-MIT%20+%20file%20LICENSE-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18729323.svg)](https://doi.org/10.5281/zenodo.18729323)
+[![DOI](https://zenodo.org/badge/886940278.svg)](https://zenodo.org/badge/latestdoi/886940278)
 <!-- badges: end -->
 
 The goal of this project is to reproduce all analyses and figures of the
 paper
 
 > **Fossile E<sup>†</sup>, Ghilardi M<sup>†</sup>, Mojtahid M, Howa H,
-> Baltzer A, Nardelli MP** Taxonomic and functional diversity of benthic
-> foraminifera as a promising proxy for tidewater glacier retreat.
-> *Under review*
+> Baltzer A, Nardelli MP** (2026) Taxonomic and functional diversity of
+> benthic foraminifera as a promising proxy for tidewater glacier
+> retreat. *Boreas*. <https://doi.org/10.1111/bor.70068> (Accepted on 6
+> May 2026)
 >
 > <sup>†</sup>Equal authorship
 
